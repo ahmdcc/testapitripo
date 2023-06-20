@@ -1,0 +1,5622 @@
+{
+    "correction": null,
+    "didYouMean": null,
+    "suggestions": [],
+    "metadata": {},
+    "meta": {
+        "took": 24,
+        "count": 325,
+        "seo": {
+            "title": "",
+            "description": "",
+            "abstract": "",
+            "slug": "",
+            "faq": ""
+        }
+    },
+    "selectedFilters": {
+        "cities": [
+            {
+                "id": 2564,
+                "parent_id": 23,
+                "title": "ارزوییه",
+                "children": []
+            },
+            {
+                "id": 2566,
+                "parent_id": 23,
+                "title": "انار",
+                "children": []
+            },
+            {
+                "id": 2575,
+                "parent_id": 23,
+                "title": "بم",
+                "children": []
+            },
+            {
+                "id": 2581,
+                "parent_id": 23,
+                "title": "جیرفت",
+                "children": []
+            },
+            {
+                "id": 2591,
+                "parent_id": 23,
+                "title": "رابر",
+                "children": []
+            },
+            {
+                "id": 2594,
+                "parent_id": 23,
+                "title": "رفسنجان",
+                "children": []
+            },
+            {
+                "id": 2597,
+                "parent_id": 23,
+                "title": "زرند",
+                "children": []
+            },
+            {
+                "id": 2628,
+                "parent_id": 23,
+                "title": "نگار",
+                "children": []
+            },
+            {
+                "id": 2610,
+                "parent_id": 23,
+                "title": "کرمان",
+                "children": []
+            },
+            {
+                "id": 2601,
+                "parent_id": 23,
+                "title": "سیرجان",
+                "children": []
+            }
+        ]
+    },
+    "facets": {
+        "categories": [
+            {
+                "id": 1,
+                "parent_id": 0,
+                "title": "مواد غذایی",
+                "slug": "food",
+                "count": 384,
+                "children": [
+                    {
+                        "id": 13,
+                        "parent_id": 1,
+                        "title": "آجیل و خشکبار",
+                        "slug": "dry-fruits",
+                        "count": 26,
+                        "children": [
+                            {
+                                "id": 118,
+                                "parent_id": 13,
+                                "title": "پسته",
+                                "slug": "pistachio",
+                                "count": 18,
+                                "children": []
+                            },
+                            {
+                                "id": 121,
+                                "parent_id": 13,
+                                "title": "سنجد",
+                                "slug": "oleaster",
+                                "count": 5,
+                                "children": []
+                            },
+                            {
+                                "id": 113,
+                                "parent_id": 13,
+                                "title": "آجیل",
+                                "slug": "nuts",
+                                "count": 1,
+                                "children": []
+                            },
+                            {
+                                "id": 115,
+                                "parent_id": 13,
+                                "title": "بادام درختی",
+                                "slug": "almond",
+                                "count": 2,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 14,
+                        "parent_id": 1,
+                        "title": "آماده و نیمه آماده",
+                        "slug": "prepared-and-semi-prepared-foods",
+                        "count": 1,
+                        "children": [
+                            {
+                                "id": 126,
+                                "parent_id": 14,
+                                "title": "آماده طبخ",
+                                "slug": "ready-cook",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 15,
+                        "parent_id": 1,
+                        "title": "ادویه و چاشنی",
+                        "slug": "spices-condiments",
+                        "count": 74,
+                        "children": [
+                            {
+                                "id": 133,
+                                "parent_id": 15,
+                                "title": "ادویه",
+                                "slug": "spices",
+                                "count": 67,
+                                "children": []
+                            },
+                            {
+                                "id": 136,
+                                "parent_id": 15,
+                                "title": "رب ها",
+                                "slug": "pastes",
+                                "count": 4,
+                                "children": []
+                            },
+                            {
+                                "id": 138,
+                                "parent_id": 15,
+                                "title": "زعفران",
+                                "slug": "saffron",
+                                "count": 1,
+                                "children": []
+                            },
+                            {
+                                "id": 139,
+                                "parent_id": 15,
+                                "title": "سبزی خشک",
+                                "slug": "dried-herbs",
+                                "count": 2,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 17,
+                        "parent_id": 1,
+                        "title": "ترشی و شور",
+                        "slug": "pickles-products",
+                        "count": 3,
+                        "children": [
+                            {
+                                "id": 148,
+                                "parent_id": 17,
+                                "title": "ترشی",
+                                "slug": "pickles",
+                                "count": 3,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 18,
+                        "parent_id": 1,
+                        "title": "خوار و بار",
+                        "slug": "groceries",
+                        "count": 1,
+                        "children": [
+                            {
+                                "id": 156,
+                                "parent_id": 18,
+                                "title": "غلات",
+                                "slug": "cereals",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 19,
+                        "parent_id": 1,
+                        "title": "شیرینی و تنقلات",
+                        "slug": "sweets-snacks",
+                        "count": 266,
+                        "children": [
+                            {
+                                "id": 161,
+                                "parent_id": 19,
+                                "title": "تنقلات",
+                                "slug": "junk-food",
+                                "count": 30,
+                                "children": []
+                            },
+                            {
+                                "id": 163,
+                                "parent_id": 19,
+                                "title": "دسر",
+                                "slug": "dessert",
+                                "count": 1,
+                                "children": []
+                            },
+                            {
+                                "id": 164,
+                                "parent_id": 19,
+                                "title": "سوهان",
+                                "slug": "sohan",
+                                "count": 1,
+                                "children": []
+                            },
+                            {
+                                "id": 166,
+                                "parent_id": 19,
+                                "title": "شیرینی",
+                                "slug": "sweets",
+                                "count": 230,
+                                "children": []
+                            },
+                            {
+                                "id": 167,
+                                "parent_id": 19,
+                                "title": "کلوچه و نان شیرینی",
+                                "slug": "cookies-sweets",
+                                "count": 3,
+                                "children": []
+                            },
+                            {
+                                "id": 168,
+                                "parent_id": 19,
+                                "title": "کیک",
+                                "slug": "cake",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 20,
+                        "parent_id": 1,
+                        "title": "عسل و فراورده های عسل",
+                        "slug": "honey-and-honey-products",
+                        "count": 7,
+                        "children": [
+                            {
+                                "id": 172,
+                                "parent_id": 20,
+                                "title": "عسل",
+                                "slug": "honey",
+                                "count": 6,
+                                "children": []
+                            },
+                            {
+                                "id": 173,
+                                "parent_id": 20,
+                                "title": "فرآورده های عسل",
+                                "slug": "honey-products",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 21,
+                        "parent_id": 1,
+                        "title": "لبنیات",
+                        "slug": "dairy",
+                        "count": 1,
+                        "children": [
+                            {
+                                "id": 180,
+                                "parent_id": 21,
+                                "title": "کشک و قره قوروت",
+                                "slug": "kashk-and-black-kashk",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 24,
+                        "parent_id": 1,
+                        "title": "نوشیدنی",
+                        "slug": "drinks",
+                        "count": 5,
+                        "children": [
+                            {
+                                "id": 194,
+                                "parent_id": 24,
+                                "title": "چای",
+                                "slug": "tea",
+                                "count": 2,
+                                "children": []
+                            },
+                            {
+                                "id": 197,
+                                "parent_id": 24,
+                                "title": "قهوه",
+                                "slug": "coffee",
+                                "count": 2,
+                                "children": []
+                            },
+                            {
+                                "id": 196,
+                                "parent_id": 24,
+                                "title": "عرقیات",
+                                "slug": "distillates",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 4,
+                "parent_id": 0,
+                "title": "صنایع دستی",
+                "slug": "handicrafts",
+                "count": 176,
+                "children": [
+                    {
+                        "id": 44,
+                        "parent_id": 4,
+                        "title": "چوبی و حصیری",
+                        "slug": "wooden-wicker-handicrafts",
+                        "count": 3,
+                        "children": [
+                            {
+                                "id": 381,
+                                "parent_id": 44,
+                                "title": "محصولات حصیری",
+                                "slug": "wicker-products",
+                                "count": 2,
+                                "children": []
+                            },
+                            {
+                                "id": 384,
+                                "parent_id": 44,
+                                "title": "منبت کاری",
+                                "slug": "woodcarving-products",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 47,
+                        "parent_id": 4,
+                        "title": "صنایع دستی پارچه ای",
+                        "slug": "fabric-handicraft",
+                        "count": 25,
+                        "children": [
+                            {
+                                "id": 394,
+                                "parent_id": 47,
+                                "title": "سوزن دوزی",
+                                "slug": "needlework",
+                                "count": 14,
+                                "children": []
+                            },
+                            {
+                                "id": 398,
+                                "parent_id": 47,
+                                "title": "محصولات بافتنی",
+                                "slug": "knitwear",
+                                "count": 11,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 48,
+                        "parent_id": 4,
+                        "title": "صنایع دستی سنگی",
+                        "slug": "stone-handicraft",
+                        "count": 145,
+                        "children": [
+                            {
+                                "id": 403,
+                                "parent_id": 48,
+                                "title": "سنگ های قیمتی",
+                                "slug": "gemstones",
+                                "count": 142,
+                                "children": []
+                            },
+                            {
+                                "id": 404,
+                                "parent_id": 48,
+                                "title": "فیروزه کوبی",
+                                "slug": "turquoise",
+                                "count": 3,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 49,
+                        "parent_id": 4,
+                        "title": "صنایع و ظروف فلزی",
+                        "slug": "metal-handicraft",
+                        "count": 2,
+                        "children": [
+                            {
+                                "id": 409,
+                                "parent_id": 49,
+                                "title": "ظروف مسی",
+                                "slug": "copper-dishes",
+                                "count": 1,
+                                "children": []
+                            },
+                            {
+                                "id": 414,
+                                "parent_id": 49,
+                                "title": "مینا کاری",
+                                "slug": "enameling",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 50,
+                        "parent_id": 4,
+                        "title": "کادویی و هدیه",
+                        "slug": "gifts",
+                        "count": 1,
+                        "children": [
+                            {
+                                "id": 415,
+                                "parent_id": 50,
+                                "title": "جعبه هدیه",
+                                "slug": "gift-box",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "parent_id": 0,
+                "title": "مد و پوشاک",
+                "slug": "apparel",
+                "count": 58,
+                "children": [
+                    {
+                        "id": 27,
+                        "parent_id": 2,
+                        "title": "زنانه",
+                        "slug": "women-apparel",
+                        "count": 32,
+                        "children": [
+                            {
+                                "id": 235,
+                                "parent_id": 27,
+                                "title": "زیورآلات زنانه",
+                                "slug": "women-jewelry",
+                                "count": 31,
+                                "children": []
+                            },
+                            {
+                                "id": 242,
+                                "parent_id": 27,
+                                "title": "کفش و دمپایی زنانه",
+                                "slug": "women-sheos-slipper",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 28,
+                        "parent_id": 2,
+                        "title": "مردانه",
+                        "slug": "men-apparel",
+                        "count": 26,
+                        "children": [
+                            {
+                                "id": 254,
+                                "parent_id": 28,
+                                "title": "زیورآلات مردانه",
+                                "slug": "men-jewelry",
+                                "count": 26,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 10,
+                "parent_id": 0,
+                "title": "کالای دیجیتال",
+                "slug": "electronic-devices",
+                "count": 57,
+                "children": [
+                    {
+                        "id": 90,
+                        "parent_id": 10,
+                        "title": "سایر لوازم دیجیتال",
+                        "slug": "other-electronic",
+                        "count": 27,
+                        "children": []
+                    },
+                    {
+                        "id": 91,
+                        "parent_id": 10,
+                        "title": "کامپیوتر و تجهیزات جانبی",
+                        "slug": "computer-and-accessories",
+                        "count": 27,
+                        "children": []
+                    },
+                    {
+                        "id": 95,
+                        "parent_id": 10,
+                        "title": "لوازم جانبی گوشی",
+                        "slug": "phone-accessories",
+                        "count": 2,
+                        "children": []
+                    },
+                    {
+                        "id": 99,
+                        "parent_id": 10,
+                        "title": "هدفون ، هدست، هندزفری",
+                        "slug": "headphones-headset-handsfree",
+                        "count": 1,
+                        "children": []
+                    }
+                ]
+            },
+            {
+                "id": 3,
+                "parent_id": 0,
+                "title": "خانه و آشپزخانه",
+                "slug": "appliances",
+                "count": 50,
+                "children": [
+                    {
+                        "id": 35,
+                        "parent_id": 3,
+                        "title": "کالای خواب",
+                        "slug": "sleep-products",
+                        "count": 1,
+                        "children": [
+                            {
+                                "id": 305,
+                                "parent_id": 35,
+                                "title": "بالش و کوسن",
+                                "slug": "pillow-cushion",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 36,
+                        "parent_id": 3,
+                        "title": "گل و گیاه",
+                        "slug": "flowers-and-plants",
+                        "count": 2,
+                        "children": [
+                            {
+                                "id": 312,
+                                "parent_id": 36,
+                                "title": "بذر و تخم گیاهان",
+                                "slug": "seeds-of-plants",
+                                "count": 1,
+                                "children": []
+                            },
+                            {
+                                "id": 311,
+                                "parent_id": 36,
+                                "title": "گیاهان آپارتمانی",
+                                "slug": "house-plants",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 37,
+                        "parent_id": 3,
+                        "title": "لوازم آشپزخانه",
+                        "slug": "kitchen-appliances",
+                        "count": 2,
+                        "children": [
+                            {
+                                "id": 315,
+                                "parent_id": 37,
+                                "title": "ابزار قنادی",
+                                "slug": "confectionery-tools",
+                                "count": 1,
+                                "children": []
+                            },
+                            {
+                                "id": 327,
+                                "parent_id": 37,
+                                "title": "لوازم تهیه و سرو چای",
+                                "slug": "tea-supplies",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 38,
+                        "parent_id": 3,
+                        "title": "لوازم برقی",
+                        "slug": "home-electrical",
+                        "count": 2,
+                        "children": [
+                            {
+                                "id": 349,
+                                "parent_id": 38,
+                                "title": "یخچال و فریزر",
+                                "slug": "refrigerator-freezer",
+                                "count": 2,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 39,
+                        "parent_id": 3,
+                        "title": "لوازم حمام و دستشویی",
+                        "slug": "bath-toilet-products",
+                        "count": 4,
+                        "children": [
+                            {
+                                "id": 352,
+                                "parent_id": 39,
+                                "title": "لوازم حمام",
+                                "slug": "bathroom-accessories",
+                                "count": 2,
+                                "children": []
+                            },
+                            {
+                                "id": 353,
+                                "parent_id": 39,
+                                "title": "لوازم دستشویی",
+                                "slug": "toilet-supplies",
+                                "count": 2,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 40,
+                        "parent_id": 3,
+                        "title": "مبلمان، میز و صندلی",
+                        "slug": "furniture-table-chair",
+                        "count": 2,
+                        "children": [
+                            {
+                                "id": 357,
+                                "parent_id": 40,
+                                "title": "مبل",
+                                "slug": "sofa",
+                                "count": 2,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 41,
+                        "parent_id": 3,
+                        "title": "نور و روشنایی",
+                        "slug": "lighting",
+                        "count": 16,
+                        "children": [
+                            {
+                                "id": 361,
+                                "parent_id": 41,
+                                "title": "تجهیزات جانبی نور و روشنایی",
+                                "slug": "lightng-accessories",
+                                "count": 12,
+                                "children": []
+                            },
+                            {
+                                "id": 365,
+                                "parent_id": 41,
+                                "title": "لامپ، چراغ و مهتابی",
+                                "slug": "lamps",
+                                "count": 4,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 30,
+                        "parent_id": 3,
+                        "title": "ابزار و مواد شوینده",
+                        "slug": "cleaning-products",
+                        "count": 2,
+                        "children": [
+                            {
+                                "id": 271,
+                                "parent_id": 30,
+                                "title": "ابزار نظافت",
+                                "slug": "cleaning-tools",
+                                "count": 2,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 33,
+                        "parent_id": 3,
+                        "title": "دکوری و تزئینی",
+                        "slug": "decorative",
+                        "count": 5,
+                        "children": [
+                            {
+                                "id": 287,
+                                "parent_id": 33,
+                                "title": "آینه و تابلو",
+                                "slug": "mirror-and-decorative-bord",
+                                "count": 4,
+                                "children": []
+                            },
+                            {
+                                "id": 289,
+                                "parent_id": 33,
+                                "title": "رومیزی و رانر",
+                                "slug": "tablecloths",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 34,
+                        "parent_id": 3,
+                        "title": "فرش و تابلو فرش",
+                        "slug": "carpets",
+                        "count": 14,
+                        "children": [
+                            {
+                                "id": 296,
+                                "parent_id": 34,
+                                "title": "پادری، روفرشی و پشتی",
+                                "slug": "area-rug-backrest",
+                                "count": 1,
+                                "children": []
+                            },
+                            {
+                                "id": 299,
+                                "parent_id": 34,
+                                "title": "فرش دستباف",
+                                "slug": "handmade-carpet",
+                                "count": 9,
+                                "children": []
+                            },
+                            {
+                                "id": 300,
+                                "parent_id": 34,
+                                "title": "فرش ماشینی",
+                                "slug": "machine-made-carpet",
+                                "count": 1,
+                                "children": []
+                            },
+                            {
+                                "id": 302,
+                                "parent_id": 34,
+                                "title": "گلیم و قالیچه",
+                                "slug": "kilim",
+                                "count": 3,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 7,
+                "parent_id": 0,
+                "title": "فرهنگی، آموزشی و سرگرمی",
+                "slug": "cultural-educational-entertainment",
+                "count": 38,
+                "children": [
+                    {
+                        "id": 68,
+                        "parent_id": 7,
+                        "title": "بازی فکری",
+                        "slug": "mind-game",
+                        "count": 1,
+                        "children": [
+                            {
+                                "id": 539,
+                                "parent_id": 68,
+                                "title": "پازل",
+                                "slug": "puzzle",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 69,
+                        "parent_id": 7,
+                        "title": "کتاب",
+                        "slug": "book",
+                        "count": 35,
+                        "children": [
+                            {
+                                "id": 555,
+                                "parent_id": 69,
+                                "title": "کتاب های مذهبی",
+                                "slug": "religious-books",
+                                "count": 1,
+                                "children": []
+                            },
+                            {
+                                "id": 791,
+                                "parent_id": 69,
+                                "title": "کتاب چاپی",
+                                "slug": "books",
+                                "count": 34,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 73,
+                        "parent_id": 7,
+                        "title": "محصولات مذهبی",
+                        "slug": "religious-products",
+                        "count": 2,
+                        "children": [
+                            {
+                                "id": 573,
+                                "parent_id": 73,
+                                "title": "تسبیح و صلوات شمار",
+                                "slug": "rosary-salawat-counter",
+                                "count": 2,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 12,
+                "parent_id": 0,
+                "title": "سایر",
+                "slug": "other",
+                "count": 31,
+                "children": [
+                    {
+                        "id": 112,
+                        "parent_id": 12,
+                        "title": "سایر",
+                        "slug": "other",
+                        "count": 31,
+                        "children": [
+                            {
+                                "id": 790,
+                                "parent_id": 112,
+                                "title": "سایر",
+                                "slug": "other",
+                                "count": 31,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 5,
+                "parent_id": 0,
+                "title": "سلامت، درمان و طب",
+                "slug": "health-treatment-medicine",
+                "count": 30,
+                "children": [
+                    {
+                        "id": 54,
+                        "parent_id": 5,
+                        "title": "گیاه درمانی",
+                        "slug": "herbal-therapy",
+                        "count": 30,
+                        "children": [
+                            {
+                                "id": 434,
+                                "parent_id": 54,
+                                "title": "داروهای گیاهی",
+                                "slug": "herbal-medicines",
+                                "count": 3,
+                                "children": []
+                            },
+                            {
+                                "id": 435,
+                                "parent_id": 54,
+                                "title": "گیاهان دارویی",
+                                "slug": "medicinal-plants",
+                                "count": 27,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 11,
+                "parent_id": 0,
+                "title": "ابزارآلات و تجهیزات خودرو",
+                "slug": "tools",
+                "count": 16,
+                "children": [
+                    {
+                        "id": 110,
+                        "parent_id": 11,
+                        "title": "لوازم یدکی خودرو",
+                        "slug": "car-spare-parts",
+                        "count": 6,
+                        "children": [
+                            {
+                                "id": 767,
+                                "parent_id": 110,
+                                "title": "سپر و بال خودرو",
+                                "slug": "bumper-spoiler",
+                                "count": 1,
+                                "children": []
+                            },
+                            {
+                                "id": 768,
+                                "parent_id": 110,
+                                "title": "سرسیلندر و واشر سرسیلندر",
+                                "slug": "cylinder-head-gasket",
+                                "count": 1,
+                                "children": []
+                            },
+                            {
+                                "id": 777,
+                                "parent_id": 110,
+                                "title": "لنت ترمز خودرو",
+                                "slug": "brake-pad",
+                                "count": 3,
+                                "children": []
+                            },
+                            {
+                                "id": 760,
+                                "parent_id": 110,
+                                "title": "جلوبندی و تعلیق خودرو",
+                                "slug": "suspension-systems-component",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 100,
+                        "parent_id": 11,
+                        "title": "ابزار برقی",
+                        "slug": "power-tools",
+                        "count": 3,
+                        "children": [
+                            {
+                                "id": 668,
+                                "parent_id": 100,
+                                "title": "قطعات الکترونیکی",
+                                "slug": "electronic-components",
+                                "count": 3,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 101,
+                        "parent_id": 11,
+                        "title": "ابزار غیر برقی",
+                        "slug": "non-electrical-tools",
+                        "count": 1,
+                        "children": [
+                            {
+                                "id": 681,
+                                "parent_id": 101,
+                                "title": "جعبه و کیف ابزار",
+                                "slug": "tool-box",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 102,
+                        "parent_id": 11,
+                        "title": "تاسیسات",
+                        "slug": "facilities",
+                        "count": 1,
+                        "children": [
+                            {
+                                "id": 698,
+                                "parent_id": 102,
+                                "title": "شیرآلات",
+                                "slug": "faucets",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 106,
+                        "parent_id": 11,
+                        "title": "لوازم جانبی خودرو",
+                        "slug": "car-accessory-parts",
+                        "count": 3,
+                        "children": [
+                            {
+                                "id": 723,
+                                "parent_id": 106,
+                                "title": "تجهیزات راحتی خودرو",
+                                "slug": "passenger-comfort-equipment",
+                                "count": 1,
+                                "children": []
+                            },
+                            {
+                                "id": 724,
+                                "parent_id": 106,
+                                "title": "جاسوئیچی",
+                                "slug": "keychain",
+                                "count": 1,
+                                "children": []
+                            },
+                            {
+                                "id": 732,
+                                "parent_id": 106,
+                                "title": "سایر لوازم خودرو",
+                                "slug": "in-car-accessories",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    },
+                    {
+                        "id": 109,
+                        "parent_id": 11,
+                        "title": "لوازم و یراق آلات ساختمانی",
+                        "slug": "construction-tools-and-equipment",
+                        "count": 2,
+                        "children": [
+                            {
+                                "id": 753,
+                                "parent_id": 109,
+                                "title": "مصالح ساختمانی",
+                                "slug": "building-material",
+                                "count": 2,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 6,
+                "parent_id": 0,
+                "title": "آرایشی و بهداشتی",
+                "slug": "beauty-and-personal-care",
+                "count": 1,
+                "children": [
+                    {
+                        "id": 65,
+                        "parent_id": 6,
+                        "title": "مراقبت پوست، مو و بدن",
+                        "slug": "body-care",
+                        "count": 1,
+                        "children": [
+                            {
+                                "id": 520,
+                                "parent_id": 65,
+                                "title": "ماسک صورت",
+                                "slug": "face-masque",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 8,
+                "parent_id": 0,
+                "title": "ورزش و سفر",
+                "slug": "sport-travel",
+                "count": 1,
+                "children": [
+                    {
+                        "id": 80,
+                        "parent_id": 8,
+                        "title": "لوازم ورزشی",
+                        "slug": "sporting-goods",
+                        "count": 1,
+                        "children": [
+                            {
+                                "id": 605,
+                                "parent_id": 80,
+                                "title": "تجهیزات ورزش های توپی",
+                                "slug": "ball-sports",
+                                "count": 1,
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "provinces": [
+            {
+                "id": 23,
+                "parent_id": 2,
+                "title": "كرمان",
+                "children": [
+                    {
+                        "id": 2564,
+                        "parent_id": 23,
+                        "title": "ارزوییه",
+                        "children": [],
+                        "count": 3
+                    },
+                    {
+                        "id": 2566,
+                        "parent_id": 23,
+                        "title": "انار",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2575,
+                        "parent_id": 23,
+                        "title": "بم",
+                        "children": [],
+                        "count": 7
+                    },
+                    {
+                        "id": 2581,
+                        "parent_id": 23,
+                        "title": "جیرفت",
+                        "children": [],
+                        "count": 11
+                    },
+                    {
+                        "id": 2591,
+                        "parent_id": 23,
+                        "title": "رابر",
+                        "children": [],
+                        "count": 5
+                    },
+                    {
+                        "id": 2592,
+                        "parent_id": 23,
+                        "title": "راور",
+                        "children": [],
+                        "count": 5
+                    },
+                    {
+                        "id": 2594,
+                        "parent_id": 23,
+                        "title": "رفسنجان",
+                        "children": [],
+                        "count": 23
+                    },
+                    {
+                        "id": 2597,
+                        "parent_id": 23,
+                        "title": "زرند",
+                        "children": [],
+                        "count": 18
+                    },
+                    {
+                        "id": 2601,
+                        "parent_id": 23,
+                        "title": "سیرجان",
+                        "children": [],
+                        "count": 5
+                    },
+                    {
+                        "id": 2610,
+                        "parent_id": 23,
+                        "title": "کرمان",
+                        "children": [],
+                        "count": 248
+                    },
+                    {
+                        "id": 2628,
+                        "parent_id": 23,
+                        "title": "نگار",
+                        "children": [],
+                        "count": 4
+                    }
+                ],
+                "count": 330
+            },
+            {
+                "id": 10,
+                "parent_id": 2,
+                "title": "تهران",
+                "children": [
+                    {
+                        "id": 2043,
+                        "parent_id": 10,
+                        "title": "اندیشه",
+                        "children": [],
+                        "count": 3
+                    },
+                    {
+                        "id": 2042,
+                        "parent_id": 10,
+                        "title": "اسلامشهر",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2046,
+                        "parent_id": 10,
+                        "title": "بومهن",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2047,
+                        "parent_id": 10,
+                        "title": "پاکدشت",
+                        "children": [],
+                        "count": 2
+                    },
+                    {
+                        "id": 2048,
+                        "parent_id": 10,
+                        "title": "پردیس",
+                        "children": [],
+                        "count": 2
+                    },
+                    {
+                        "id": 2051,
+                        "parent_id": 10,
+                        "title": "تجریش",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2052,
+                        "parent_id": 10,
+                        "title": "تهران",
+                        "children": [],
+                        "count": 173
+                    },
+                    {
+                        "id": 2057,
+                        "parent_id": 10,
+                        "title": "رباطکریم",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2059,
+                        "parent_id": 10,
+                        "title": "ری",
+                        "children": [],
+                        "count": 5
+                    },
+                    {
+                        "id": 2063,
+                        "parent_id": 10,
+                        "title": "شهریار",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2071,
+                        "parent_id": 10,
+                        "title": "قدس",
+                        "children": [],
+                        "count": 1
+                    }
+                ],
+                "count": 191
+            },
+            {
+                "id": 13,
+                "parent_id": 2,
+                "title": "خراسان رضوی",
+                "children": [
+                    {
+                        "id": 2157,
+                        "parent_id": 13,
+                        "title": "بردسکن",
+                        "children": [],
+                        "count": 2
+                    },
+                    {
+                        "id": 2160,
+                        "parent_id": 13,
+                        "title": "تربت جام",
+                        "children": [],
+                        "count": 4
+                    },
+                    {
+                        "id": 2161,
+                        "parent_id": 13,
+                        "title": "تربت حیدریه",
+                        "children": [],
+                        "count": 2
+                    },
+                    {
+                        "id": 2200,
+                        "parent_id": 13,
+                        "title": "قوچان",
+                        "children": [],
+                        "count": 2
+                    },
+                    {
+                        "id": 2203,
+                        "parent_id": 13,
+                        "title": "کاشمر",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2212,
+                        "parent_id": 13,
+                        "title": "مشهد",
+                        "children": [],
+                        "count": 52
+                    },
+                    {
+                        "id": 2213,
+                        "parent_id": 13,
+                        "title": "مشهد ثامن",
+                        "children": [],
+                        "count": 1
+                    }
+                ],
+                "count": 64
+            },
+            {
+                "id": 21,
+                "parent_id": 2,
+                "title": "قم",
+                "children": [
+                    {
+                        "id": 2531,
+                        "parent_id": 21,
+                        "title": "قم",
+                        "children": [],
+                        "count": 60
+                    }
+                ],
+                "count": 60
+            },
+            {
+                "id": 6,
+                "parent_id": 2,
+                "title": "اصفهان",
+                "children": [
+                    {
+                        "id": 1854,
+                        "parent_id": 6,
+                        "title": "آران وبیدگل",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 1858,
+                        "parent_id": 6,
+                        "title": "اصفهان",
+                        "children": [],
+                        "count": 19
+                    },
+                    {
+                        "id": 1884,
+                        "parent_id": 6,
+                        "title": "خمینی شهر",
+                        "children": [],
+                        "count": 2
+                    },
+                    {
+                        "id": 1900,
+                        "parent_id": 6,
+                        "title": "زرین شهر",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 1911,
+                        "parent_id": 6,
+                        "title": "شهرضا",
+                        "children": [],
+                        "count": 8
+                    },
+                    {
+                        "id": 1923,
+                        "parent_id": 6,
+                        "title": "کاشان",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 1935,
+                        "parent_id": 6,
+                        "title": "گلدشت",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 1940,
+                        "parent_id": 6,
+                        "title": "مبارکه",
+                        "children": [],
+                        "count": 1
+                    }
+                ],
+                "count": 34
+            },
+            {
+                "id": 19,
+                "parent_id": 2,
+                "title": "فارس",
+                "children": [
+                    {
+                        "id": 2405,
+                        "parent_id": 19,
+                        "title": "استهبان",
+                        "children": [],
+                        "count": 3
+                    },
+                    {
+                        "id": 2424,
+                        "parent_id": 19,
+                        "title": "جهرم",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2457,
+                        "parent_id": 19,
+                        "title": "شهرصدرا",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2458,
+                        "parent_id": 19,
+                        "title": "شیراز",
+                        "children": [],
+                        "count": 27
+                    }
+                ],
+                "count": 32
+            },
+            {
+                "id": 24,
+                "parent_id": 2,
+                "title": "کرمانشاه",
+                "children": [
+                    {
+                        "id": 2639,
+                        "parent_id": 24,
+                        "title": "پاوه",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2649,
+                        "parent_id": 24,
+                        "title": "سنقر",
+                        "children": [],
+                        "count": 3
+                    },
+                    {
+                        "id": 2654,
+                        "parent_id": 24,
+                        "title": "کرمانشاه",
+                        "children": [],
+                        "count": 25
+                    },
+                    {
+                        "id": 2664,
+                        "parent_id": 24,
+                        "title": "هرسین",
+                        "children": [],
+                        "count": 2
+                    }
+                ],
+                "count": 31
+            },
+            {
+                "id": 7,
+                "parent_id": 2,
+                "title": "البرز",
+                "children": [
+                    {
+                        "id": 1963,
+                        "parent_id": 7,
+                        "title": "شهرجدیدهشتگرد",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 1965,
+                        "parent_id": 7,
+                        "title": "فردیس",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 1966,
+                        "parent_id": 7,
+                        "title": "کرج",
+                        "children": [],
+                        "count": 13
+                    },
+                    {
+                        "id": 1967,
+                        "parent_id": 7,
+                        "title": "کمال شهر",
+                        "children": [],
+                        "count": 2
+                    },
+                    {
+                        "id": 1972,
+                        "parent_id": 7,
+                        "title": "محمدشهر",
+                        "children": [],
+                        "count": 3
+                    }
+                ],
+                "count": 20
+            },
+            {
+                "id": 32,
+                "parent_id": 2,
+                "title": "همدان",
+                "children": [
+                    {
+                        "id": 2943,
+                        "parent_id": 32,
+                        "title": "ملایر",
+                        "children": [],
+                        "count": 6
+                    },
+                    {
+                        "id": 2946,
+                        "parent_id": 32,
+                        "title": "همدان",
+                        "children": [],
+                        "count": 5
+                    }
+                ],
+                "count": 11
+            },
+            {
+                "id": 28,
+                "parent_id": 2,
+                "title": "لرستان",
+                "children": [
+                    {
+                        "id": 2766,
+                        "parent_id": 28,
+                        "title": "الشتر",
+                        "children": [],
+                        "count": 9
+                    },
+                    {
+                        "id": 2768,
+                        "parent_id": 28,
+                        "title": "بروجرد",
+                        "children": [],
+                        "count": 1
+                    }
+                ],
+                "count": 10
+            },
+            {
+                "id": 27,
+                "parent_id": 2,
+                "title": "گیلان",
+                "children": [
+                    {
+                        "id": 2720,
+                        "parent_id": 27,
+                        "title": "بندرانزلی",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2734,
+                        "parent_id": 27,
+                        "title": "رشت",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2750,
+                        "parent_id": 27,
+                        "title": "لاهیجان",
+                        "children": [],
+                        "count": 7
+                    }
+                ],
+                "count": 9
+            },
+            {
+                "id": 15,
+                "parent_id": 2,
+                "title": "خوزستان",
+                "children": [
+                    {
+                        "id": 2246,
+                        "parent_id": 15,
+                        "title": "آبادان",
+                        "children": [],
+                        "count": 2
+                    },
+                    {
+                        "id": 2254,
+                        "parent_id": 15,
+                        "title": "امیدیه",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2256,
+                        "parent_id": 15,
+                        "title": "اهواز",
+                        "children": [],
+                        "count": 5
+                    }
+                ],
+                "count": 8
+            },
+            {
+                "id": 3,
+                "parent_id": 2,
+                "title": "آذربایجان شرقی",
+                "children": [
+                    {
+                        "id": 1731,
+                        "parent_id": 3,
+                        "title": "بستان آباد",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 1734,
+                        "parent_id": 3,
+                        "title": "تبریز",
+                        "children": [],
+                        "count": 6
+                    }
+                ],
+                "count": 7
+            },
+            {
+                "id": 12,
+                "parent_id": 2,
+                "title": "خراسان جنوبی",
+                "children": [
+                    {
+                        "id": 2129,
+                        "parent_id": 12,
+                        "title": "بیرجند",
+                        "children": [],
+                        "count": 2
+                    },
+                    {
+                        "id": 2139,
+                        "parent_id": 12,
+                        "title": "طبس",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2143,
+                        "parent_id": 12,
+                        "title": "قاین",
+                        "children": [],
+                        "count": 2
+                    }
+                ],
+                "count": 5
+            },
+            {
+                "id": 33,
+                "parent_id": 2,
+                "title": "یزد",
+                "children": [
+                    {
+                        "id": 2963,
+                        "parent_id": 33,
+                        "title": "میبد",
+                        "children": [],
+                        "count": 3
+                    },
+                    {
+                        "id": 2967,
+                        "parent_id": 33,
+                        "title": "یزد",
+                        "children": [],
+                        "count": 2
+                    }
+                ],
+                "count": 5
+            },
+            {
+                "id": 17,
+                "parent_id": 2,
+                "title": "سمنان",
+                "children": [
+                    {
+                        "id": 2354,
+                        "parent_id": 17,
+                        "title": "سمنان",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2355,
+                        "parent_id": 17,
+                        "title": "شاهرود",
+                        "children": [],
+                        "count": 3
+                    }
+                ],
+                "count": 4
+            },
+            {
+                "id": 18,
+                "parent_id": 2,
+                "title": "سیستان و بلوچستان",
+                "children": [
+                    {
+                        "id": 2378,
+                        "parent_id": 18,
+                        "title": "زاهدان",
+                        "children": [],
+                        "count": 3
+                    }
+                ],
+                "count": 3
+            },
+            {
+                "id": 30,
+                "parent_id": 2,
+                "title": "مركزی",
+                "children": [
+                    {
+                        "id": 2847,
+                        "parent_id": 30,
+                        "title": "اراک",
+                        "children": [],
+                        "count": 3
+                    }
+                ],
+                "count": 3
+            },
+            {
+                "id": 4,
+                "parent_id": 2,
+                "title": "آذربایجان غربی",
+                "children": [
+                    {
+                        "id": 1784,
+                        "parent_id": 4,
+                        "title": "ارومیه",
+                        "children": [],
+                        "count": 2
+                    }
+                ],
+                "count": 2
+            },
+            {
+                "id": 14,
+                "parent_id": 2,
+                "title": "خراسان شمالی",
+                "children": [
+                    {
+                        "id": 2228,
+                        "parent_id": 14,
+                        "title": "بجنورد",
+                        "children": [],
+                        "count": 2
+                    }
+                ],
+                "count": 2
+            },
+            {
+                "id": 20,
+                "parent_id": 2,
+                "title": "قزوین",
+                "children": [
+                    {
+                        "id": 2504,
+                        "parent_id": 20,
+                        "title": "آبیک",
+                        "children": [],
+                        "count": 2
+                    }
+                ],
+                "count": 2
+            },
+            {
+                "id": 26,
+                "parent_id": 2,
+                "title": "گلستان",
+                "children": [
+                    {
+                        "id": 2701,
+                        "parent_id": 26,
+                        "title": "کلاله",
+                        "children": [],
+                        "count": 1
+                    },
+                    {
+                        "id": 2705,
+                        "parent_id": 26,
+                        "title": "گنبدکاووس",
+                        "children": [],
+                        "count": 1
+                    }
+                ],
+                "count": 2
+            },
+            {
+                "id": 5,
+                "parent_id": 2,
+                "title": "اردبیل",
+                "children": [
+                    {
+                        "id": 1843,
+                        "parent_id": 5,
+                        "title": "گرمی",
+                        "children": [],
+                        "count": 1
+                    }
+                ],
+                "count": 1
+            },
+            {
+                "id": 8,
+                "parent_id": 2,
+                "title": "ایلام",
+                "children": [
+                    {
+                        "id": 1988,
+                        "parent_id": 8,
+                        "title": "دهلران",
+                        "children": [],
+                        "count": 1
+                    }
+                ],
+                "count": 1
+            },
+            {
+                "id": 9,
+                "parent_id": 2,
+                "title": "بوشهر",
+                "children": [
+                    {
+                        "id": 2018,
+                        "parent_id": 9,
+                        "title": "بوشهر",
+                        "children": [],
+                        "count": 1
+                    }
+                ],
+                "count": 1
+            },
+            {
+                "id": 16,
+                "parent_id": 2,
+                "title": "زنجان",
+                "children": [
+                    {
+                        "id": 2332,
+                        "parent_id": 16,
+                        "title": "زنجان",
+                        "children": [],
+                        "count": 1
+                    }
+                ],
+                "count": 1
+            },
+            {
+                "id": 22,
+                "parent_id": 2,
+                "title": "کردستان",
+                "children": [
+                    {
+                        "id": 2553,
+                        "parent_id": 22,
+                        "title": "سنندج",
+                        "children": [],
+                        "count": 1
+                    }
+                ],
+                "count": 1
+            },
+            {
+                "id": 25,
+                "parent_id": 2,
+                "title": "کهگیلویه و بویراحمد",
+                "children": [
+                    {
+                        "id": 2670,
+                        "parent_id": 25,
+                        "title": "دهدشت",
+                        "children": [],
+                        "count": 1
+                    }
+                ],
+                "count": 1
+            },
+            {
+                "id": 29,
+                "parent_id": 2,
+                "title": "مازندران",
+                "children": [
+                    {
+                        "id": 2804,
+                        "parent_id": 29,
+                        "title": "جویبار",
+                        "children": [],
+                        "count": 1
+                    }
+                ],
+                "count": 1
+            }
+        ],
+        "namedTags": [
+            {
+                "id": 73580,
+                "title": "قاووت",
+                "count": 105
+            },
+            {
+                "id": 73581,
+                "title": "قوتو",
+                "count": 68
+            },
+            {
+                "id": 76278,
+                "title": "زیره سیاه",
+                "count": 48
+            },
+            {
+                "id": 77043,
+                "title": "کلمپه",
+                "count": 39
+            },
+            {
+                "id": 73667,
+                "title": "انگشتر فیروزه",
+                "count": 37
+            },
+            {
+                "id": 76607,
+                "title": "قاووت چهل گیاه",
+                "count": 36
+            },
+            {
+                "id": 74364,
+                "title": "فیروزه",
+                "count": 35
+            },
+            {
+                "id": 73039,
+                "title": "انگشتر نقره",
+                "count": 27
+            },
+            {
+                "id": 76606,
+                "title": "قوتو چهل گیاه",
+                "count": 25
+            },
+            {
+                "id": 73270,
+                "title": "کتاب",
+                "count": 24
+            },
+            {
+                "id": 73243,
+                "title": "نگین",
+                "count": 17
+            },
+            {
+                "id": 79446,
+                "title": "سنگ فیروزه",
+                "count": 16
+            },
+            {
+                "id": 75365,
+                "title": "زیره",
+                "count": 15
+            },
+            {
+                "id": 73404,
+                "title": "پته",
+                "count": 14
+            },
+            {
+                "id": 73423,
+                "title": "چاشنی",
+                "count": 9
+            },
+            {
+                "id": 73425,
+                "title": "ادویه",
+                "count": 9
+            },
+            {
+                "id": 74428,
+                "title": "غنچه گل",
+                "count": 9
+            },
+            {
+                "id": 73088,
+                "title": "شیرینی",
+                "count": 8
+            },
+            {
+                "id": 74429,
+                "title": "غنچه گل محمدی",
+                "count": 8
+            },
+            {
+                "id": 75366,
+                "title": "زیره سبز",
+                "count": 8
+            },
+            {
+                "id": 75481,
+                "title": "گردنبند فیروزه",
+                "count": 8
+            },
+            {
+                "id": 93785,
+                "title": "انگشتر نقره مردانه",
+                "count": 8
+            },
+            {
+                "id": 73689,
+                "title": "فرش",
+                "count": 6
+            },
+            {
+                "id": 75138,
+                "title": "دستبند فیروزه",
+                "count": 6
+            },
+            {
+                "id": 73139,
+                "title": "پسته",
+                "count": 5
+            },
+            {
+                "id": 73057,
+                "title": "رب انار",
+                "count": 4
+            },
+            {
+                "id": 73484,
+                "title": "کلوچه سنتی",
+                "count": 4
+            },
+            {
+                "id": 73579,
+                "title": "قاووت خشخاشی",
+                "count": 4
+            },
+            {
+                "id": 73616,
+                "title": "گردن آویز",
+                "count": 4
+            },
+            {
+                "id": 73984,
+                "title": "پودر سنجد",
+                "count": 4
+            },
+            {
+                "id": 74407,
+                "title": "فرش دستباف",
+                "count": 4
+            },
+            {
+                "id": 74538,
+                "title": "قاووت پسته‌ای",
+                "count": 4
+            },
+            {
+                "id": 81680,
+                "title": "کلمپه خرمایی",
+                "count": 4
+            },
+            {
+                "id": 95521,
+                "title": "گردنبند سنگ",
+                "count": 4
+            },
+            {
+                "id": 73055,
+                "title": "تابلو",
+                "count": 3
+            },
+            {
+                "id": 73062,
+                "title": "سفید آب",
+                "count": 3
+            },
+            {
+                "id": 73394,
+                "title": "پسته کله قوچی",
+                "count": 3
+            },
+            {
+                "id": 74355,
+                "title": "پسته احمد آقایی",
+                "count": 3
+            },
+            {
+                "id": 74530,
+                "title": "قطاب",
+                "count": 3
+            },
+            {
+                "id": 77963,
+                "title": "آویز گردنی",
+                "count": 3
+            },
+            {
+                "id": 79587,
+                "title": "کماچ سهن",
+                "count": 3
+            },
+            {
+                "id": 94980,
+                "title": "قاووت قهوه",
+                "count": 3
+            },
+            {
+                "id": 73015,
+                "title": "عسل",
+                "count": 2
+            },
+            {
+                "id": 73040,
+                "title": "انگشتر",
+                "count": 2
+            },
+            {
+                "id": 73140,
+                "title": "پسته فندقی",
+                "count": 2
+            },
+            {
+                "id": 73257,
+                "title": "عسل کنار",
+                "count": 2
+            },
+            {
+                "id": 73512,
+                "title": "قندان",
+                "count": 2
+            },
+            {
+                "id": 73825,
+                "title": "سنجد",
+                "count": 2
+            },
+            {
+                "id": 73987,
+                "title": "تسبیح",
+                "count": 2
+            },
+            {
+                "id": 79742,
+                "title": "پته دوزی",
+                "count": 2
+            }
+        ],
+        "minPrice": 35000,
+        "maxPrice": 590000000
+    },
+    "products": [
+        {
+            "_score": 99801,
+            "sales_count_week": 10,
+            "id": 1452395,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1346,
+            "has_delivery": true,
+            "name": "فیلتر چای چای سو کرمان  پک پنجاه عددی",
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/l4NBr/2104/TJQ8ySRYsj3AQYS18yFPhnAsBzk7ds5LCeFz5wmc.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/l4NBr/2104/TJQ8ySRYsj3AQYS18yFPhnAsBzk7ds5LCeFz5wmc.jpeg_256X256X70.jpeg"
+            },
+            "preparationDays": 2,
+            "price": 240000,
+            "primaryPrice": 330000,
+            "rating": {
+                "average": 4.9,
+                "count": 89,
+                "signals": 89
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 98480,
+            "video": {
+                "SMALL": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/W8mkrzk36X/h_240_375k.mp4",
+                "MEDIUM": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/W8mkrzk36X/h_360_375k.mp4",
+                "THUMBNAIL": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/W8mkrzk36X/thumbnail.png",
+                "EXTRA_LARGE": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/W8mkrzk36X/h_720_375k.mp4"
+            },
+            "weight": 20,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 194,
+            "vendor": {
+                "cityId": 2610,
+                "freeShippingToIran": 12000000,
+                "freeShippingToSameCity": null,
+                "has_delivery": true,
+                "identifier": "kermanchaiso",
+                "name": "چای سو کرمان: فیلتر  چای  - کیسه چای و دمنوش",
+                "provinceId": 23,
+                "statusId": 2987,
+                "score": 1,
+                "id": 219956,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 2514591,
+                    "hashId": "nrBLw"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "20 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "چای",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.99,
+            "sales_count_week": 2,
+            "id": 1414589,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1595,
+            "has_delivery": true,
+            "name": "قوتو چهل گیاه کرمان  خانگی  (نیم کیلویی)",
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public/users/5DY5B/04-06/0wWfJU1DDI3OZk3SgA2BBOWsAFSnOtfoN5BlZc1gvrkvHn7fkJ.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public/users/5DY5B/04-06/0wWfJU1DDI3OZk3SgA2BBOWsAFSnOtfoN5BlZc1gvrkvHn7fkJ.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 3,
+            "price": 1250000,
+            "primaryPrice": 0,
+            "rating": {
+                "average": 4.8,
+                "count": 179,
+                "signals": 179
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 90,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 500,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "cityId": 2610,
+                "freeShippingToIran": 6000000,
+                "freeShippingToSameCity": 5000000,
+                "has_delivery": true,
+                "identifier": "maryamatar",
+                "name": "خانم  عطار",
+                "provinceId": 23,
+                "statusId": 2987,
+                "score": 1,
+                "id": 215860,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 2041162,
+                    "hashId": "5DY5B"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "500 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.99,
+            "sales_count_week": 6,
+            "id": 108955,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "قاووت 40 گیاه خانگی با شکر قهوه ای (500گرمی) قوتو اصل کرمان گلپونه ها با تضمین کیفیت",
+            "price": 1650000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 486,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-8/users/PKjM/07-31/uaoBGpCbVuoAvZzfdHZJI9rKrQZDyBi7NIcuWLfdXJX6WVLE1T.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-8/users/PKjM/07-31/uaoBGpCbVuoAvZzfdHZJI9rKrQZDyBi7NIcuWLfdXJX6WVLE1T.jpg_256X256X70.jpg"
+            },
+            "rating": {
+                "average": 4.9,
+                "count": 105,
+                "signals": 105
+            },
+            "primaryPrice": 1750000,
+            "preparationDays": 2,
+            "weight": 500,
+            "categoryId": 1595,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "گلپونه ها",
+                "identifier": "shirinikhanegy",
+                "statusId": 2987,
+                "freeShippingToSameCity": null,
+                "cityId": 2575,
+                "freeShippingToIran": 1100000,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": 1,
+                "id": 5662,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "بم",
+                    "id": 64677,
+                    "hashId": "PKjM"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": true,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "500 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.99,
+            "sales_count_week": 0,
+            "id": 688113,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "قوتو چهل گیاه خانگی کرمان بسته ی یک کیلویی",
+            "price": 2350000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 5,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/B8ElJ/2104/eKvAvTAvrEEd0hukYOZBk1VI8pHNybqLhUKSHKZl.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/B8ElJ/2104/eKvAvTAvrEEd0hukYOZBk1VI8pHNybqLhUKSHKZl.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.9,
+                "count": 96,
+                "signals": 96
+            },
+            "primaryPrice": 2580000,
+            "preparationDays": 2,
+            "weight": 1000,
+            "categoryId": 1595,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "ارگانیک سرای  سمین",
+                "identifier": "ghovato_khatoon",
+                "statusId": 2987,
+                "freeShippingToIran": 2350000,
+                "freeShippingToSameCity": 2350000,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": null,
+                "id": 116473,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 797616,
+                    "hashId": "Q4MPA"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": true,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.99,
+            "sales_count_week": 0,
+            "id": 294989,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "قاووت  اصل کرمان-خانگی (ارسال رایگان)",
+            "price": 2299000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 3,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-8/users/3lERR/2101/7zLyfNl27Xn03h4pHPOTnb9GpdPa4jfIyhP8zshx.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-8/users/3lERR/2101/7zLyfNl27Xn03h4pHPOTnb9GpdPa4jfIyhP8zshx.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.9,
+                "count": 127,
+                "signals": 127
+            },
+            "primaryPrice": 2500000,
+            "preparationDays": 5,
+            "weight": 1000,
+            "categoryId": 1595,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": false,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "محصولات طبیعی نگار",
+                "identifier": "negar.gh",
+                "statusId": 2987,
+                "freeShippingToIran": 0,
+                "freeShippingToSameCity": 0,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": false,
+                "score": 1,
+                "id": 58899,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 195536,
+                    "hashId": "rBX44"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": true,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.99,
+            "sales_count_week": 0,
+            "id": 655657,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "قاووت پسته خوش طعم کرمان (500 گرم)",
+            "price": 1930000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 30,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/GgnkA/09-17/qqAG4rvloPrd6jXMnQI07WOtQwgHBlaPz4w7wayOojY1fgvmXs.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-3/users/GgnkA/09-17/qqAG4rvloPrd6jXMnQI07WOtQwgHBlaPz4w7wayOojY1fgvmXs.jpg_256X256X70.jpg"
+            },
+            "rating": {
+                "average": 4.7,
+                "count": 148,
+                "signals": 148
+            },
+            "primaryPrice": 2600000,
+            "preparationDays": 4,
+            "weight": 500,
+            "categoryId": 1595,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "فروشگاه آداس",
+                "identifier": "istgahsalamat",
+                "statusId": 2987,
+                "freeShippingToIran": 10000000,
+                "freeShippingToSameCity": 6000000,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": 1,
+                "id": 117475,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 808014,
+                    "hashId": "GgnkA"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "500 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.984,
+            "sales_count_week": 0,
+            "id": 558677,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "زیره سیاه عطری کرمان (100گرمی)",
+            "price": 650000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 6,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/p87A6/2008/d7iv9NetQ7zRrWjOZvJwLUMXUfRPT43PCFLkTh2o.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/p87A6/2008/d7iv9NetQ7zRrWjOZvJwLUMXUfRPT43PCFLkTh2o.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.6,
+                "count": 65,
+                "signals": 65
+            },
+            "primaryPrice": 800000,
+            "preparationDays": 3,
+            "weight": 100,
+            "categoryId": 1517,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 133,
+            "vendor": {
+                "name": "بوتیاس کرمان",
+                "identifier": "botyas",
+                "statusId": 2987,
+                "freeShippingToIran": 1500000,
+                "cityId": 2597,
+                "provinceId": 23,
+                "freeShippingToSameCity": 1000000,
+                "has_delivery": true,
+                "score": 0,
+                "id": 41608,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "زرند",
+                    "id": 365307,
+                    "hashId": "V6e1X"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "100 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "ادویه",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.984,
+            "sales_count_week": 0,
+            "id": 480027,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "قووتو(قاووت)خشخاش اصل و درجه1 کرمان 1کیلویی",
+            "price": 2890000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 3,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/p87A6/2010/KwnTNb5qWkL6FQLM3NTBIuvKCTtDZ5xh1Wjkufrs.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/p87A6/2010/KwnTNb5qWkL6FQLM3NTBIuvKCTtDZ5xh1Wjkufrs.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.4,
+                "count": 57,
+                "signals": 57
+            },
+            "primaryPrice": 3100000,
+            "preparationDays": 3,
+            "weight": 1000,
+            "freeShippingToIran": 1000000,
+            "categoryId": 1646,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 790,
+            "vendor": {
+                "name": "بوتیاس کرمان",
+                "identifier": "botyas",
+                "statusId": 2987,
+                "freeShippingToIran": 1500000,
+                "cityId": 2597,
+                "provinceId": 23,
+                "freeShippingToSameCity": 1000000,
+                "has_delivery": true,
+                "score": 0,
+                "id": 41608,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "زرند",
+                    "id": 365307,
+                    "hashId": "V6e1X"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": true,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "سایر",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.984,
+            "sales_count_week": 0,
+            "id": 294529,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "گندم  اعلا کرمان(ارسال رایگان)",
+            "price": 1499000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 30,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/3lERR/2003/Xvrjg0gbwbQckoqHWm4wYq0Lr3LHUYta9OaLuPDI.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-3/users/3lERR/2003/Xvrjg0gbwbQckoqHWm4wYq0Lr3LHUYta9OaLuPDI.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.9,
+                "count": 36,
+                "signals": 36
+            },
+            "primaryPrice": 1700000,
+            "preparationDays": 6,
+            "weight": 3000,
+            "categoryId": 170,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": false,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 156,
+            "vendor": {
+                "name": "محصولات طبیعی نگار",
+                "identifier": "negar.gh",
+                "statusId": 2987,
+                "freeShippingToIran": 0,
+                "freeShippingToSameCity": 0,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": false,
+                "score": 1,
+                "id": 58899,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 195536,
+                    "hashId": "rBX44"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": true,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "3000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "غلات",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.984,
+            "sales_count_week": 1,
+            "id": 622154,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "کماچ سهن بشقابی گردویی کرمان",
+            "price": 1300000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 29,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/zBol2/2009/ibOJg4XjY9cdd30fHlyTtj6c54Pfa09cv5t5Ccyp.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/zBol2/2009/ibOJg4XjY9cdd30fHlyTtj6c54Pfa09cv5t5Ccyp.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.7,
+                "count": 51,
+                "signals": 51
+            },
+            "primaryPrice": 1400000,
+            "preparationDays": 5,
+            "weight": 800,
+            "categoryId": 1315,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "فروشگاه آداس",
+                "identifier": "istgahsalamat",
+                "statusId": 2987,
+                "freeShippingToIran": 10000000,
+                "freeShippingToSameCity": 6000000,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": 1,
+                "id": 117475,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 808014,
+                    "hashId": "GgnkA"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "800 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.984,
+            "sales_count_week": 2,
+            "id": 178763,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "سفیداب نقره کرمان مخصوص رفع لکه های پوستی",
+            "price": 2090000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 240,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/DK15/11-26/8ae46LLhx5Ccg990FY1fux34Yvnd4jr6SHA5Kmgr6O2rqV3Bqx.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-3/users/DK15/11-26/8ae46LLhx5Ccg990FY1fux34Yvnd4jr6SHA5Kmgr6O2rqV3Bqx.jpg_256X256X70.jpg"
+            },
+            "rating": {
+                "average": 4.6,
+                "count": 28,
+                "signals": 28
+            },
+            "primaryPrice": 0,
+            "preparationDays": 5,
+            "weight": 120,
+            "categoryId": 1140,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": false,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 352,
+            "vendor": {
+                "name": "محصولات شفا بخش میس گردو",
+                "identifier": "misgerdoo",
+                "statusId": 2987,
+                "cityId": 2610,
+                "provinceId": 23,
+                "freeShippingToIran": null,
+                "freeShippingToSameCity": null,
+                "has_delivery": false,
+                "score": 0,
+                "id": 21781,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 54892,
+                    "hashId": "DK15"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "لوازم حمام",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.98,
+            "sales_count_week": 0,
+            "id": 561931,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "زیره سیاه کوهی کرمان",
+            "price": 380000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 15,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/zBol2/2010/WGm8BXEehlsphX1ZEqew5ubjzqGZVeqrljkjVyE9.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/zBol2/2010/WGm8BXEehlsphX1ZEqew5ubjzqGZVeqrljkjVyE9.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.9,
+                "count": 20,
+                "signals": 20
+            },
+            "primaryPrice": 500000,
+            "preparationDays": 3,
+            "weight": 50,
+            "categoryId": 1517,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 133,
+            "vendor": {
+                "name": "فروشگاه آداس",
+                "identifier": "istgahsalamat",
+                "statusId": 2987,
+                "freeShippingToIran": 10000000,
+                "freeShippingToSameCity": 6000000,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": 1,
+                "id": 117475,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 808014,
+                    "hashId": "GgnkA"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "50 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "ادویه",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.98,
+            "sales_count_week": 0,
+            "id": 553322,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "قاووت چهل گیاه بدون شکر(رژیمی) کرمان",
+            "price": 2400000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 14,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/zBol2/2008/KYt8N9k5cc8HuQROk7Zy1WkfAaBRcBpA1wK0NrCH.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/zBol2/2008/KYt8N9k5cc8HuQROk7Zy1WkfAaBRcBpA1wK0NrCH.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.8,
+                "count": 42,
+                "signals": 42
+            },
+            "primaryPrice": 3000000,
+            "preparationDays": 5,
+            "weight": 1000,
+            "categoryId": 1517,
+            "video": {
+                "SMALL": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/B607x07wbx/h_240_400k.mp4",
+                "MEDIUM": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/B607x07wbx/h_360_800k.mp4",
+                "THUMBNAIL": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/B607x07wbx/thumbnail.png",
+                "EXTRA_LARGE": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/B607x07wbx/h_720_2500k.mp4"
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "فروشگاه آداس",
+                "identifier": "istgahsalamat",
+                "statusId": 2987,
+                "freeShippingToIran": 10000000,
+                "freeShippingToSameCity": 6000000,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": 1,
+                "id": 117475,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 808014,
+                    "hashId": "GgnkA"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.98,
+            "sales_count_week": 0,
+            "id": 1356880,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1315,
+            "has_delivery": true,
+            "name": "کلمپه سنتی کرمان بدون شکر و تخم مرغ هرکیلو حدود 27 عدد",
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/xA2pq/2103/aW2jQxOF1aDg8WGStwi0apLycAIihcpd5brjoCfc.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/xA2pq/2103/aW2jQxOF1aDg8WGStwi0apLycAIihcpd5brjoCfc.jpeg_256X256X70.jpeg"
+            },
+            "preparationDays": 3,
+            "price": 2936000,
+            "primaryPrice": 3230000,
+            "rating": {
+                "average": 4.7,
+                "count": 53,
+                "signals": 53
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 47,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 1000,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "cityId": 2610,
+                "freeShippingToIran": null,
+                "freeShippingToSameCity": null,
+                "has_delivery": true,
+                "identifier": "colombeh_kerman",
+                "name": "کلمپه اصیل کرمان",
+                "provinceId": 23,
+                "statusId": 2987,
+                "score": 0,
+                "id": 209741,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 2313256,
+                    "hashId": "k68Qw"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.97,
+            "sales_count_week": 0,
+            "id": 535532,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "زیره سیاه عطری درجه یک کرمان 200گرمی",
+            "price": 1499000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 5,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/p87A6/2008/dHwTekGbislHcxCvR8sbpEdpcQzXFpSuMAJO0lXL.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/p87A6/2008/dHwTekGbislHcxCvR8sbpEdpcQzXFpSuMAJO0lXL.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.4,
+                "count": 31,
+                "signals": 31
+            },
+            "primaryPrice": 1600000,
+            "preparationDays": 3,
+            "weight": 200,
+            "categoryId": 1517,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 133,
+            "vendor": {
+                "name": "بوتیاس کرمان",
+                "identifier": "botyas",
+                "statusId": 2987,
+                "freeShippingToIran": 1500000,
+                "cityId": 2597,
+                "provinceId": 23,
+                "freeShippingToSameCity": 1000000,
+                "has_delivery": true,
+                "score": 0,
+                "id": 41608,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "زرند",
+                    "id": 365307,
+                    "hashId": "V6e1X"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "200 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "ادویه",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.97,
+            "sales_count_week": 1,
+            "id": 562053,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "قووتوچهل گیاه بدون شکر(رژیمی) کرمان",
+            "price": 1200000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 17,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/zBol2/2008/DmQt2yiXaz7hfAp4uOF2AleqZ8jKSfAFGtKNSt1L.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/zBol2/2008/DmQt2yiXaz7hfAp4uOF2AleqZ8jKSfAFGtKNSt1L.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.6,
+                "count": 41,
+                "signals": 41
+            },
+            "primaryPrice": 1500000,
+            "preparationDays": 5,
+            "weight": 500,
+            "categoryId": 1595,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "فروشگاه آداس",
+                "identifier": "istgahsalamat",
+                "statusId": 2987,
+                "freeShippingToIran": 10000000,
+                "freeShippingToSameCity": 6000000,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": 1,
+                "id": 117475,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 808014,
+                    "hashId": "GgnkA"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "500 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.97,
+            "sales_count_week": 2,
+            "id": 770690,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "قاووت چهل گیاه خانگی کرمان بسته ی  نیم کیلویی",
+            "price": 1175000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 4,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/B8ElJ/2101/feNrS7Za2BjE6u5ee77NkNTMgi01ec85DtSuczMe.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-3/users/B8ElJ/2101/feNrS7Za2BjE6u5ee77NkNTMgi01ec85DtSuczMe.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.8,
+                "count": 36,
+                "signals": 36
+            },
+            "primaryPrice": 1295000,
+            "preparationDays": 4,
+            "weight": 500,
+            "categoryId": 1595,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "ارگانیک سرای  سمین",
+                "identifier": "ghovato_khatoon",
+                "statusId": 2987,
+                "freeShippingToIran": 2350000,
+                "freeShippingToSameCity": 2350000,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": null,
+                "id": 116473,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 797616,
+                    "hashId": "Q4MPA"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "500 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.96,
+            "sales_count_week": 0,
+            "id": 644318,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "شیرینی کلمپه خانگی سوغات اصیل کرمان (1000گرمی)",
+            "price": 1550000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 41,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-4/users/X7pVk/2102/QClnFEvJTxbfu658bQpgymykAV4yoaAmbkGhZShq.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-4/users/X7pVk/2102/QClnFEvJTxbfu658bQpgymykAV4yoaAmbkGhZShq.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.1,
+                "count": 25,
+                "signals": 25
+            },
+            "primaryPrice": 0,
+            "preparationDays": 30,
+            "weight": 900,
+            "categoryId": 1315,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": false,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "کوئین شیرین",
+                "identifier": "pesterafsanjan7",
+                "statusId": 2987,
+                "cityId": 2594,
+                "freeShippingToIran": null,
+                "freeShippingToSameCity": null,
+                "provinceId": 23,
+                "has_delivery": false,
+                "score": 0,
+                "id": 116062,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "رفسنجان",
+                    "id": 794431,
+                    "hashId": "0XNjg"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "900 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.96,
+            "sales_count_week": 0,
+            "id": 848842,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "شیرینی سِهن سوغات کرمان (یک کیلو)",
+            "price": 1890000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 102,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-4/users/8YE8L/2102/Nrm5GhEmG1bFwB91F9NJ2dqacBgB1EsKyTJXjcqc.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-4/users/8YE8L/2102/Nrm5GhEmG1bFwB91F9NJ2dqacBgB1EsKyTJXjcqc.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4,
+                "count": 32,
+                "signals": 32
+            },
+            "primaryPrice": 2400000,
+            "preparationDays": 20,
+            "weight": 1000,
+            "categoryId": 1315,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": false,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "جزیرهِ شیرین",
+                "identifier": "anvae_shirinijat12345",
+                "statusId": 2987,
+                "cityId": 2594,
+                "freeShippingToIran": 1500000,
+                "freeShippingToSameCity": 2000000,
+                "provinceId": 23,
+                "has_delivery": false,
+                "score": null,
+                "id": 167172,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "رفسنجان",
+                    "id": 1291341,
+                    "hashId": "xy60r"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": true,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.95,
+            "sales_count_week": 7,
+            "id": 4500090,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 0,
+            "has_delivery": true,
+            "has_variation": false,
+            "name": "قاووت 500 گرمی چهل گیاه خانگی کرمان دارای سیب سلامت و ایزو 9001",
+            "new_categoryId": 166,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-7/users/Z0eoY/02-07/fb9Vx00pztCANSoFKqpUXMkAvHNhRDv7Xs8nftHcrZFPv2p1v0.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-7/users/Z0eoY/02-07/fb9Vx00pztCANSoFKqpUXMkAvHNhRDv7Xs8nftHcrZFPv2p1v0.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 3,
+            "price": 995000,
+            "primaryPrice": 0,
+            "rating": {
+                "average": 4.6,
+                "count": 17,
+                "signals": 17
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 11,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 500,
+            "vendor": {
+                "name": "قاووت خانگی صامد",
+                "identifier": "ghavoot_kerman",
+                "statusId": 2987,
+                "cityId": 2610,
+                "freeShippingToIran": 4000000,
+                "freeShippingToSameCity": 3500000,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": 1,
+                "id": 64217,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 492440,
+                    "hashId": "Z0eoY"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "500 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.95,
+            "sales_count_week": 0,
+            "id": 669925,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "قاوت چهل گیاه با شکر کرمان",
+            "price": 1180000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 15,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/zBol2/2010/VN0pq6Zpduc1L3LDah2zJ5jDsbXssggFaAa24UZv.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-3/users/zBol2/2010/VN0pq6Zpduc1L3LDah2zJ5jDsbXssggFaAa24UZv.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.9,
+                "count": 23,
+                "signals": 23
+            },
+            "primaryPrice": 1500000,
+            "preparationDays": 4,
+            "weight": 500,
+            "categoryId": 1595,
+            "video": {
+                "SMALL": "https://statics.basalam.com/public-4/video/product/GgnkA/01-10/ASeGNYwpHjz8J7Mf4LNFgRgHrbi9wOpWNHSiTlmpKE2shthfZK.mp4",
+                "THUMBNAIL": "https://statics.basalam.com/public/social/post/2101/jqyOl/FiCBCGXifjqgskA3albaq1bfGAFe7MCWHlXRNHD9.jpeg"
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "فروشگاه آداس",
+                "identifier": "istgahsalamat",
+                "statusId": 2987,
+                "freeShippingToIran": 10000000,
+                "freeShippingToSameCity": 6000000,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": 1,
+                "id": 117475,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 808014,
+                    "hashId": "GgnkA"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "500 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.95,
+            "sales_count_week": 0,
+            "id": 1364069,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1517,
+            "has_delivery": true,
+            "name": "زیره سیاه عطری درجه یک کرمان (500گرمی)",
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/p87A6/2008/dHwTekGbislHcxCvR8sbpEdpcQzXFpSuMAJO0lXL.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/p87A6/2008/dHwTekGbislHcxCvR8sbpEdpcQzXFpSuMAJO0lXL.jpeg_256X256X70.jpeg"
+            },
+            "preparationDays": 3,
+            "price": 2900000,
+            "primaryPrice": 3000000,
+            "rating": {
+                "average": 4.4,
+                "count": 21,
+                "signals": 21
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 3,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 500,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 133,
+            "vendor": {
+                "name": "بوتیاس کرمان",
+                "identifier": "botyas",
+                "statusId": 2987,
+                "freeShippingToIran": 1500000,
+                "cityId": 2597,
+                "provinceId": 23,
+                "freeShippingToSameCity": 1000000,
+                "has_delivery": true,
+                "score": 0,
+                "id": 41608,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "زرند",
+                    "id": 365307,
+                    "hashId": "V6e1X"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": true,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "500 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "ادویه",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.95,
+            "sales_count_week": 0,
+            "id": 1979535,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1315,
+            "has_delivery": true,
+            "name": "کماچ سهن کرمان بسته بندی یک کیلویی",
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/AYAj7/2111/OqM7lHKj5Jthyzyfg0dBEYKVrOBez8Zx1chFPqJm.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-3/users/AYAj7/2111/OqM7lHKj5Jthyzyfg0dBEYKVrOBez8Zx1chFPqJm.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 8,
+            "price": 1510000,
+            "primaryPrice": 1700000,
+            "rating": {
+                "average": 4.4,
+                "count": 20,
+                "signals": 20
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 20,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 1200,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 790,
+            "vendor": {
+                "cityId": 2594,
+                "freeShippingToIran": 5000000,
+                "freeShippingToSameCity": null,
+                "has_delivery": true,
+                "identifier": "shirinikhanegivanila",
+                "name": "شیرینی خانگی وانیلا رفسنجان",
+                "provinceId": 23,
+                "statusId": 2987,
+                "score": null,
+                "id": 254363,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "رفسنجان",
+                    "id": 2069559,
+                    "hashId": "qqO27"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "سایر",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.95,
+            "sales_count_week": 0,
+            "id": 765531,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "قاووت خشخاش خانگی کرمان نیم کیلویی",
+            "price": 1190000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 5,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/B8ElJ/2104/QZ7KoWj9t0pCSrhIABYcn3iU4deTrhvAynN3u52U.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-3/users/B8ElJ/2104/QZ7KoWj9t0pCSrhIABYcn3iU4deTrhvAynN3u52U.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.9,
+                "count": 26,
+                "signals": 26
+            },
+            "primaryPrice": 1250000,
+            "preparationDays": 3,
+            "weight": 500,
+            "categoryId": 1595,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "ارگانیک سرای  سمین",
+                "identifier": "ghovato_khatoon",
+                "statusId": 2987,
+                "freeShippingToIran": 2350000,
+                "freeShippingToSameCity": 2350000,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": null,
+                "id": 116473,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 797616,
+                    "hashId": "Q4MPA"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "500 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.945,
+            "sales_count_week": 0,
+            "id": 553304,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "زیره سیاه کرمان.",
+            "price": 750000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 15,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/zBol2/2010/6PnipRGfVfZ1t9vaojQ8GghhUaJVwo1N7pEZ4sJy.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/zBol2/2010/6PnipRGfVfZ1t9vaojQ8GghhUaJVwo1N7pEZ4sJy.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 5,
+                "count": 13,
+                "signals": 13
+            },
+            "primaryPrice": 800000,
+            "preparationDays": 3,
+            "weight": 100,
+            "categoryId": 1517,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 133,
+            "vendor": {
+                "name": "فروشگاه آداس",
+                "identifier": "istgahsalamat",
+                "statusId": 2987,
+                "freeShippingToIran": 10000000,
+                "freeShippingToSameCity": 6000000,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": 1,
+                "id": 117475,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 808014,
+                    "hashId": "GgnkA"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "100 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "ادویه",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.945,
+            "sales_count_week": 0,
+            "id": 3309955,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1595,
+            "has_delivery": true,
+            "has_variation": false,
+            "name": "قاووت پسته کرمان با شکر قهوه ای",
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/GgnkA/02-04/4RLdXQCpmBTiD2vVZ6pZiqD1umN3uaKIDFMzOpoPBdYueSpqwm.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-3/users/GgnkA/02-04/4RLdXQCpmBTiD2vVZ6pZiqD1umN3uaKIDFMzOpoPBdYueSpqwm.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 5,
+            "price": 1950000,
+            "primaryPrice": 2700000,
+            "promotions": null,
+            "rating": {
+                "average": 5,
+                "count": 13,
+                "signals": 13
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 35,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 500,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "فروشگاه آداس",
+                "identifier": "istgahsalamat",
+                "statusId": 2987,
+                "freeShippingToIran": 10000000,
+                "freeShippingToSameCity": 6000000,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": 1,
+                "id": 117475,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 808014,
+                    "hashId": "GgnkA"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "500 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.945,
+            "sales_count_week": 0,
+            "id": 655674,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "قاووت نخودی نارگیلی کرمان",
+            "price": 950000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 25,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/zBol2/2010/bYk4oawpmJJYYArewUVyaEN24UxkW2JEzNCvfZOr.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-3/users/zBol2/2010/bYk4oawpmJJYYArewUVyaEN24UxkW2JEzNCvfZOr.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.8,
+                "count": 21,
+                "signals": 21
+            },
+            "primaryPrice": 1300000,
+            "preparationDays": 4,
+            "weight": 500,
+            "categoryId": 1595,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "فروشگاه آداس",
+                "identifier": "istgahsalamat",
+                "statusId": 2987,
+                "freeShippingToIran": 10000000,
+                "freeShippingToSameCity": 6000000,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": 1,
+                "id": 117475,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 808014,
+                    "hashId": "GgnkA"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "500 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.945,
+            "sales_count_week": 1,
+            "id": 2274956,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1315,
+            "has_delivery": true,
+            "name": "کلمپه آژینه کرمان در  بسته بندی جفتی و فله با بهترین کیفیت",
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-7/users/3OEk1/01-31/TtJe5Ut0MvLCk6hCmh2u1IitBQ2IbgMYDkepfjwKdoYKdUwMTF.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-7/users/3OEk1/01-31/TtJe5Ut0MvLCk6hCmh2u1IitBQ2IbgMYDkepfjwKdoYKdUwMTF.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 2,
+            "price": 2000000,
+            "primaryPrice": 0,
+            "rating": {
+                "average": 4.9,
+                "count": 17,
+                "signals": 17
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 972,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 5000,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "cityId": 2610,
+                "freeShippingToIran": 20000000,
+                "freeShippingToSameCity": 5000000,
+                "has_delivery": true,
+                "identifier": "azhine",
+                "name": "کلمپه آژینه کرمان",
+                "provinceId": 23,
+                "statusId": 2987,
+                "score": 0,
+                "id": 283906,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 3109421,
+                    "hashId": "3OEk1"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "5000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.94,
+            "sales_count_week": 0,
+            "id": 3615297,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1189,
+            "has_delivery": true,
+            "name": "سنجد گوشتی درجه یک کرمان 1 کیلویی تازه امسالی",
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/V6e1X/04-10/I2nx7rBlNlDxOYQcWq72HB4mdIftY9nBYVQmhbkQWdNDoQapXG.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-6/users/V6e1X/04-10/I2nx7rBlNlDxOYQcWq72HB4mdIftY9nBYVQmhbkQWdNDoQapXG.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 3,
+            "price": 1499000,
+            "primaryPrice": 1700000,
+            "promotions": null,
+            "rating": {
+                "average": 3,
+                "count": 6,
+                "signals": 6
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 3,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 1000,
+            "new_categoryId": 121,
+            "has_variation": false,
+            "vendor": {
+                "name": "بوتیاس کرمان",
+                "identifier": "botyas",
+                "statusId": 2987,
+                "freeShippingToIran": 1500000,
+                "cityId": 2597,
+                "provinceId": 23,
+                "freeShippingToSameCity": 1000000,
+                "has_delivery": true,
+                "score": 0,
+                "id": 41608,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "زرند",
+                    "id": 365307,
+                    "hashId": "V6e1X"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "سنجد",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.94,
+            "sales_count_week": 1,
+            "id": 4500110,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 0,
+            "has_delivery": true,
+            "has_variation": false,
+            "name": "قاووت 500 گرمی خشخاش خانگی کرمان دارای سیب سلامت و ایزو 9001",
+            "new_categoryId": 166,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-7/users/Z0eoY/02-07/q2XVrhDDaw62xV7EPnDglTGqwmsPq71D28CzW50lZR6g9AAhss.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-7/users/Z0eoY/02-07/q2XVrhDDaw62xV7EPnDglTGqwmsPq71D28CzW50lZR6g9AAhss.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 3,
+            "price": 1490000,
+            "primaryPrice": 0,
+            "rating": {
+                "average": 4.8,
+                "count": 10,
+                "signals": 10
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 21,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 500,
+            "vendor": {
+                "name": "قاووت خانگی صامد",
+                "identifier": "ghavoot_kerman",
+                "statusId": 2987,
+                "cityId": 2610,
+                "freeShippingToIran": 4000000,
+                "freeShippingToSameCity": 3500000,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": 1,
+                "id": 64217,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 492440,
+                    "hashId": "Z0eoY"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "500 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.94,
+            "sales_count_week": 0,
+            "id": 622146,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "کماچ سهن بدون گردو کرمان",
+            "price": 1200000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 30,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/zBol2/2009/SXh6vZnbJJai6T4FeG4otV15XlDQg2ZMFD7thoNV.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/zBol2/2009/SXh6vZnbJJai6T4FeG4otV15XlDQg2ZMFD7thoNV.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.8,
+                "count": 16,
+                "signals": 16
+            },
+            "primaryPrice": 1300000,
+            "preparationDays": 5,
+            "weight": 800,
+            "categoryId": 1315,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 790,
+            "vendor": {
+                "name": "فروشگاه آداس",
+                "identifier": "istgahsalamat",
+                "statusId": 2987,
+                "freeShippingToIran": 10000000,
+                "freeShippingToSameCity": 6000000,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": 1,
+                "id": 117475,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 808014,
+                    "hashId": "GgnkA"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "سایر",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.93,
+            "sales_count_week": 2,
+            "id": 3548832,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1595,
+            "has_delivery": true,
+            "has_variation": false,
+            "name": "قاووت( قووتو ) چهل گیاه رژیمی (بدون شکر و با خرما خشک )  خانگی سوغاتو کرمان( 250gr )",
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/BdZ4w/05-09/zG02ib7MxQaiofzRknFSlfr0XRDosihfi2t6IUffegJnlM2wNQ.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-3/users/BdZ4w/05-09/zG02ib7MxQaiofzRknFSlfr0XRDosihfi2t6IUffegJnlM2wNQ.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 3,
+            "price": 660000,
+            "primaryPrice": 780000,
+            "promotions": null,
+            "rating": {
+                "average": 5,
+                "count": 10,
+                "signals": 10
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 5,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 200,
+            "new_categoryId": 166,
+            "vendor": {
+                "cityId": 2610,
+                "freeShippingToIran": 2000000,
+                "freeShippingToSameCity": null,
+                "has_delivery": true,
+                "identifier": "soghatoo",
+                "name": "سوغاتو",
+                "provinceId": 23,
+                "score": 1,
+                "statusId": 2987,
+                "id": 316378,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 3527876,
+                    "hashId": "BdZ4w"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "200 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.93,
+            "sales_count_week": 3,
+            "id": 3297480,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1189,
+            "has_delivery": true,
+            "name": "پسته خام فندقی 1000 گرمی  کرمان  لوکس درجه یک صادراتی آجیلی",
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-4/users/neWGJO/04-18/8K75PzjHg85YUS5CLDodiymgAIqLgkh17RTmsSKUfwvAeDWUTE.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-4/users/neWGJO/04-18/8K75PzjHg85YUS5CLDodiymgAIqLgkh17RTmsSKUfwvAeDWUTE.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 3,
+            "price": 6750000,
+            "primaryPrice": 6900000,
+            "promotions": null,
+            "rating": {
+                "average": 5,
+                "count": 14,
+                "signals": 14
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 3,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 1000,
+            "new_categoryId": 118,
+            "has_variation": false,
+            "vendor": {
+                "cityId": 2610,
+                "freeShippingToIran": 0,
+                "freeShippingToSameCity": 0,
+                "has_delivery": true,
+                "identifier": "aminpuyan",
+                "name": "خشکبار و پسته توفیق",
+                "provinceId": 23,
+                "score": null,
+                "statusId": 2987,
+                "id": 375607,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 5091647,
+                    "hashId": "neWGJO"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": true,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "پسته",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.93,
+            "sales_count_week": 0,
+            "id": 173272,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "قوتو چهل گیاه خانگی کرمان(500 گرمی)",
+            "price": 1690000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 92,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/mpX9/2003/FdZeUtQqSlmnsBeOXbDv3AnVAMvdTCQzhPUioDQu.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-3/users/mpX9/2003/FdZeUtQqSlmnsBeOXbDv3AnVAMvdTCQzhPUioDQu.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 4.7,
+                "count": 11,
+                "signals": 11
+            },
+            "primaryPrice": 0,
+            "preparationDays": 5,
+            "weight": 500,
+            "categoryId": 1595,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": false,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "محصولات شفا بخش میس گردو",
+                "identifier": "misgerdoo",
+                "statusId": 2987,
+                "cityId": 2610,
+                "provinceId": 23,
+                "freeShippingToIran": null,
+                "freeShippingToSameCity": null,
+                "has_delivery": false,
+                "score": 0,
+                "id": 21781,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 54892,
+                    "hashId": "DK15"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "500 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.93,
+            "sales_count_week": 1,
+            "id": 5166414,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 0,
+            "has_delivery": true,
+            "has_variation": false,
+            "name": "کلمپه  پسته ای  سنتی کرمان در بسته بندی 1 کیلوگرمی",
+            "new_categoryId": 166,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/57gkma/11-19/XwApK6XEcxlbYfL4u2LbiS41zZoKAeixTAxX9DRilHfjkhOt3S.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-3/users/57gkma/11-19/XwApK6XEcxlbYfL4u2LbiS41zZoKAeixTAxX9DRilHfjkhOt3S.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 3,
+            "price": 900000,
+            "primaryPrice": 950000,
+            "rating": {
+                "average": 4.9,
+                "count": 16,
+                "signals": 16
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 72,
+            "video": {
+                "SMALL": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/jxb7Ow7JA4/h_240_400k.mp4",
+                "MEDIUM": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/jxb7Ow7JA4/h_360_800k.mp4",
+                "THUMBNAIL": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/jxb7Ow7JA4/thumbnail.jpg",
+                "EXTRA_LARGE": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/jxb7Ow7JA4/h_720_2500k.mp4"
+            },
+            "weight": 1000,
+            "vendor": {
+                "cityId": 2610,
+                "freeShippingToIran": 10000000,
+                "freeShippingToSameCity": 4500000,
+                "has_delivery": true,
+                "identifier": "kolompeh_rahimi",
+                "name": "شیرینی سنتی و سوغات کرمان",
+                "provinceId": 23,
+                "score": 1,
+                "statusId": 2987,
+                "id": 531265,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 4856362,
+                    "hashId": "57gkma"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.92,
+            "sales_count_week": 0,
+            "id": 2653671,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1517,
+            "has_delivery": true,
+            "name": "زیره سیاه عطری درجه یک کرمان (1کیلویی)",
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/p87A6/2008/dHwTekGbislHcxCvR8sbpEdpcQzXFpSuMAJO0lXL.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/p87A6/2008/dHwTekGbislHcxCvR8sbpEdpcQzXFpSuMAJO0lXL.jpeg_256X256X70.jpeg"
+            },
+            "preparationDays": 3,
+            "price": 5499000,
+            "primaryPrice": 6000000,
+            "rating": {
+                "average": 4.9,
+                "count": 9,
+                "signals": 9
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 3,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 1000,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 133,
+            "vendor": {
+                "name": "بوتیاس کرمان",
+                "identifier": "botyas",
+                "statusId": 2987,
+                "freeShippingToIran": 1500000,
+                "cityId": 2597,
+                "provinceId": 23,
+                "freeShippingToSameCity": 1000000,
+                "has_delivery": true,
+                "score": 0,
+                "id": 41608,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "زرند",
+                    "id": 365307,
+                    "hashId": "V6e1X"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": true,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "ادویه",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.92,
+            "sales_count_week": 0,
+            "id": 4035405,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1517,
+            "has_delivery": true,
+            "name": "زیره کرمان 100گرم زیره کوهی درجه1سوغات اصیل کرمان ",
+            "new_categoryId": 133,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-4/users/QDwb/06-19/hFulMEADHIdq5iAeM8At3SgkeiZfBa1eUzc4EqPwkQjrbfr85F.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-4/users/QDwb/06-19/hFulMEADHIdq5iAeM8At3SgkeiZfBa1eUzc4EqPwkQjrbfr85F.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 4,
+            "price": 700000,
+            "primaryPrice": 750000,
+            "rating": {
+                "average": 4.4,
+                "count": 8,
+                "signals": 8
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 979,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 100,
+            "has_variation": false,
+            "vendor": {
+                "cityId": 2610,
+                "freeShippingToIran": 3000000,
+                "freeShippingToSameCity": 2000000,
+                "has_delivery": true,
+                "identifier": "tabiatkefeh_bahargol",
+                "name": "تولیدات روستایی بهارگل",
+                "provinceId": 23,
+                "score": null,
+                "statusId": 2987,
+                "id": 366004,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 59460,
+                    "hashId": "QDwb"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "100 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "ادویه",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.92,
+            "sales_count_week": 1,
+            "id": 1410922,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1595,
+            "has_delivery": true,
+            "name": "قاووت کرمان چهل گیاه خانگی و درجه یک  2بسته  نیم کیلو  ",
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public/users/5DY5B/04-06/3FY91REeGg06yY2eudsu5Z9pWWMqMbVJhCfcW1PMkXIekBq7hy.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public/users/5DY5B/04-06/3FY91REeGg06yY2eudsu5Z9pWWMqMbVJhCfcW1PMkXIekBq7hy.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 3,
+            "price": 2500000,
+            "primaryPrice": 0,
+            "rating": {
+                "average": 5,
+                "count": 17,
+                "signals": 17
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 98,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 1000,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "cityId": 2610,
+                "freeShippingToIran": 6000000,
+                "freeShippingToSameCity": 5000000,
+                "has_delivery": true,
+                "identifier": "maryamatar",
+                "name": "خانم  عطار",
+                "provinceId": 23,
+                "statusId": 2987,
+                "score": 1,
+                "id": 215860,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 2041162,
+                    "hashId": "5DY5B"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.914,
+            "sales_count_week": 0,
+            "id": 1754990,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1315,
+            "has_delivery": true,
+            "name": "شیرینی کلمپه دورپیچ سنتی کرمان با طعم هل بسته بندی یک کیلویی",
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public/users/qqO27/04-18/dAq2HQEJzIu0JPlIpLsCfD7SvALA6dUh8HMqj1iSL096sJus5N.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public/users/qqO27/04-18/dAq2HQEJzIu0JPlIpLsCfD7SvALA6dUh8HMqj1iSL096sJus5N.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 8,
+            "price": 1780000,
+            "primaryPrice": 1800000,
+            "rating": {
+                "average": 4.5,
+                "count": 8,
+                "signals": 8
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 20,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 1000,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "cityId": 2594,
+                "freeShippingToIran": 5000000,
+                "freeShippingToSameCity": null,
+                "has_delivery": true,
+                "identifier": "shirinikhanegivanila",
+                "name": "شیرینی خانگی وانیلا رفسنجان",
+                "provinceId": 23,
+                "statusId": 2987,
+                "score": null,
+                "id": 254363,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "رفسنجان",
+                    "id": 2069559,
+                    "hashId": "qqO27"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.91,
+            "sales_count_week": 4,
+            "id": 4617986,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 0,
+            "has_delivery": true,
+            "has_variation": false,
+            "name": "کماچ سهن خوشمزه کرمان ",
+            "new_categoryId": 166,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/V4aEQa/09-12/0xec8YYJZrexUETkvAJ07j7LLVARrWNr8wjQYouNXluAbJg2hW.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-3/users/V4aEQa/09-12/0xec8YYJZrexUETkvAJ07j7LLVARrWNr8wjQYouNXluAbJg2hW.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 2,
+            "price": 1400000,
+            "primaryPrice": 0,
+            "rating": {
+                "average": 5,
+                "count": 6,
+                "signals": 6
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 16,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 1000,
+            "vendor": {
+                "cityId": 2610,
+                "freeShippingToIran": 8000000,
+                "freeShippingToSameCity": 4000000,
+                "has_delivery": true,
+                "identifier": "amoo_ghanad72",
+                "name": "عموقناد",
+                "provinceId": 23,
+                "score": null,
+                "statusId": 2987,
+                "id": 491997,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 7447395,
+                    "hashId": "V4aEQa"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.91,
+            "sales_count_week": 0,
+            "id": 259436,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "قاووت چهل گیاه اصیل کرمان(بسته 500گرمی)",
+            "price": 1250000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 98,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/6XD8O/2104/3YJDzZww263zjdDzdsTwoQqAR2IyU9YsutgCWUOZ.jpeg_512X512X70.jpeg",
+                "SMALL": "https://statics.basalam.com/public-6/users/6XD8O/2104/3YJDzZww263zjdDzdsTwoQqAR2IyU9YsutgCWUOZ.jpeg_256X256X70.jpeg"
+            },
+            "rating": {
+                "average": 5,
+                "count": 10,
+                "signals": 10
+            },
+            "primaryPrice": 1400000,
+            "preparationDays": 5,
+            "weight": 480,
+            "categoryId": 1595,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": false,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "قوتو هدهد",
+                "identifier": "qvotoo",
+                "statusId": 2987,
+                "cityId": 2594,
+                "freeShippingToIran": 7000000,
+                "freeShippingToSameCity": 5000000,
+                "provinceId": 23,
+                "has_delivery": false,
+                "score": null,
+                "id": 49632,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "رفسنجان",
+                    "id": 414383,
+                    "hashId": "jaqlL"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "480 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.91,
+            "sales_count_week": 0,
+            "id": 5622817,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 0,
+            "has_delivery": true,
+            "has_variation": false,
+            "name": " قاووت  نخودچی نارگیل قوتو   بهترین مارک اصل کرمان  1000گرم قاووت برای کودکان   ",
+            "new_categoryId": 166,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-7/users/LGZ1L6/12-26/MKmfdEwwQfpdzsfLYkO0xUM7XBItrIyvFMKd2Ai8EoEs5CZqZ5.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-7/users/LGZ1L6/12-26/MKmfdEwwQfpdzsfLYkO0xUM7XBItrIyvFMKd2Ai8EoEs5CZqZ5.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 2,
+            "price": 1990000,
+            "primaryPrice": 2500000,
+            "rating": {
+                "average": 4.9,
+                "count": 15,
+                "signals": 15
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 20,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 1000,
+            "vendor": {
+                "cityId": 2610,
+                "freeShippingToIran": 7500000,
+                "freeShippingToSameCity": 7500000,
+                "has_delivery": true,
+                "identifier": "najmeh_shop",
+                "name": "سوغات  کرمانی (انواع قاووت  .زیره .کماچ کرمان)",
+                "provinceId": 23,
+                "score": 1,
+                "statusId": 2987,
+                "id": 557385,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 8724869,
+                    "hashId": "LGZ1L6"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.91,
+            "sales_count_week": 1,
+            "id": 4926074,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 0,
+            "has_delivery": true,
+            "has_variation": false,
+            "name": "پودر کاچی کرمان خانگی یا دوای زایمان(200 گرمی) دوای تاسویی یا آب روغنو کرمان",
+            "new_categoryId": 434,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-6/users/PKjM/10-23/61jCIT1Z8KAx4zT9TSlErWHgxUuP1ONcCJFxx3aAywZZDbvgAV.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-6/users/PKjM/10-23/61jCIT1Z8KAx4zT9TSlErWHgxUuP1ONcCJFxx3aAywZZDbvgAV.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 2,
+            "price": 890000,
+            "primaryPrice": 1100000,
+            "rating": {
+                "average": 4.8,
+                "count": 12,
+                "signals": 12
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 81,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 200,
+            "vendor": {
+                "name": "گلپونه ها",
+                "identifier": "shirinikhanegy",
+                "statusId": 2987,
+                "freeShippingToSameCity": null,
+                "cityId": 2575,
+                "freeShippingToIran": 1100000,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": 1,
+                "id": 5662,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "بم",
+                    "id": 64677,
+                    "hashId": "PKjM"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "داروهای گیاهی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.91,
+            "sales_count_week": 0,
+            "id": 4566252,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 0,
+            "has_delivery": true,
+            "has_variation": false,
+            "name": "زیره سیاه کرمان 100 گرم باضمانت مرجوع  وقیمت مناسب",
+            "new_categoryId": 133,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/QDwb/09-05/0aqG69PA9Wwpfu2d16NHVhpb12eE6D5CUDL67h6xr6pdWSMEm9.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-3/users/QDwb/09-05/0aqG69PA9Wwpfu2d16NHVhpb12eE6D5CUDL67h6xr6pdWSMEm9.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 4,
+            "price": 600000,
+            "primaryPrice": 700000,
+            "rating": {
+                "average": 4.2,
+                "count": 4,
+                "signals": 4
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 181,
+            "video": {
+                "SMALL": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/gKQjm2DkeB/h_240_400k.mp4",
+                "MEDIUM": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/gKQjm2DkeB/h_360_800k.mp4",
+                "THUMBNAIL": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/gKQjm2DkeB/thumbnail.png",
+                "EXTRA_LARGE": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/gKQjm2DkeB/h_720_1015k.mp4"
+            },
+            "weight": 100,
+            "vendor": {
+                "cityId": 2610,
+                "freeShippingToIran": 3000000,
+                "freeShippingToSameCity": 2000000,
+                "has_delivery": true,
+                "identifier": "tabiatkefeh_bahargol",
+                "name": "تولیدات روستایی بهارگل",
+                "provinceId": 23,
+                "score": null,
+                "statusId": 2987,
+                "id": 366004,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 59460,
+                    "hashId": "QDwb"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "100 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "ادویه",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.9,
+            "sales_count_week": 0,
+            "id": 5169922,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 0,
+            "has_delivery": true,
+            "has_variation": false,
+            "name": "کلمپه  پسته ای سنتی کرمان در بسته بندی 2 کیلوگرمی ",
+            "new_categoryId": 166,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/57gkma/11-19/krQ8As6ErEdTy6ARaRma7saz839PBBj5TdM0oU18GUvLoTbwRM.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-3/users/57gkma/11-19/krQ8As6ErEdTy6ARaRma7saz839PBBj5TdM0oU18GUvLoTbwRM.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 3,
+            "price": 1700000,
+            "primaryPrice": 1750000,
+            "rating": {
+                "average": 4.8,
+                "count": 13,
+                "signals": 13
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 83,
+            "video": {
+                "SMALL": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/lpwGpW5LeZ/h_240_400k.mp4",
+                "MEDIUM": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/lpwGpW5LeZ/h_360_800k.mp4",
+                "THUMBNAIL": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/lpwGpW5LeZ/thumbnail.jpg"
+            },
+            "weight": 1800,
+            "vendor": {
+                "cityId": 2610,
+                "freeShippingToIran": 10000000,
+                "freeShippingToSameCity": 4500000,
+                "has_delivery": true,
+                "identifier": "kolompeh_rahimi",
+                "name": "شیرینی سنتی و سوغات کرمان",
+                "provinceId": 23,
+                "score": 1,
+                "statusId": 2987,
+                "id": 531265,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 4856362,
+                    "hashId": "57gkma"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1800 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.88,
+            "sales_count_week": 1,
+            "id": 3977885,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 1595,
+            "has_delivery": false,
+            "name": "کلمپه کرمان",
+            "new_categoryId": 166,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/NGMxV/06-08/dflntierjS6sS1WtkhrnvUk5NiYQeQJvd6S9hMOq1ZA1enjhvT.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-3/users/NGMxV/06-08/dflntierjS6sS1WtkhrnvUk5NiYQeQJvd6S9hMOq1ZA1enjhvT.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 3,
+            "price": 1100000,
+            "primaryPrice": 1300000,
+            "rating": {
+                "average": 4.3,
+                "count": 3,
+                "signals": 3
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 42,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "weight": 1000,
+            "has_variation": false,
+            "vendor": {
+                "cityId": 2628,
+                "freeShippingToIran": null,
+                "freeShippingToSameCity": null,
+                "has_delivery": false,
+                "identifier": "kerman_soghat",
+                "name": "کرمان سوغات1",
+                "provinceId": 23,
+                "statusId": 2987,
+                "score": 0,
+                "id": 285828,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "نگار",
+                    "id": 3128913,
+                    "hashId": "NGMxV"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.88,
+            "sales_count_week": 1,
+            "id": 5168023,
+            "facet_color": null,
+            "matchType": "phrase",
+            "categoryId": 0,
+            "has_delivery": true,
+            "has_variation": false,
+            "name": "کلمپه  گردویی سنتی  کرمان دربسته بندی  یک کیلوگرمی ",
+            "new_categoryId": 166,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/57gkma/11-17/Bx52EN1ZoSvg7NaGgyLJNQhjVZjxAkz9BEIzAH5nPHOhPx0HYo.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-3/users/57gkma/11-17/Bx52EN1ZoSvg7NaGgyLJNQhjVZjxAkz9BEIzAH5nPHOhPx0HYo.jpg_256X256X70.jpg"
+            },
+            "preparationDays": 3,
+            "price": 950000,
+            "primaryPrice": 1000000,
+            "rating": {
+                "average": 4.2,
+                "count": 5,
+                "signals": 5
+            },
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "stock": 85,
+            "video": {
+                "SMALL": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/5JVBKNOwLQ/h_240_400k.mp4",
+                "MEDIUM": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/5JVBKNOwLQ/h_360_800k.mp4",
+                "THUMBNAIL": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/5JVBKNOwLQ/thumbnail.png",
+                "EXTRA_LARGE": "https://basalam-com.arvanvod.ir/yOpvGE3e0D/5JVBKNOwLQ/h_720_2500k.mp4"
+            },
+            "weight": 1000,
+            "vendor": {
+                "cityId": 2610,
+                "freeShippingToIran": 10000000,
+                "freeShippingToSameCity": 4500000,
+                "has_delivery": true,
+                "identifier": "kolompeh_rahimi",
+                "name": "شیرینی سنتی و سوغات کرمان",
+                "provinceId": 23,
+                "score": 1,
+                "statusId": 2987,
+                "id": 531265,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 4856362,
+                    "hashId": "57gkma"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        },
+        {
+            "_score": 99800.88,
+            "sales_count_week": 0,
+            "id": 1002597,
+            "facet_color": null,
+            "matchType": "phrase",
+            "name": "قاووت (قوتو) چهل گیاه شاهان اصل کرمان یک کیلویی",
+            "price": 1990000,
+            "status": {
+                "id": 2976,
+                "title": "در دسترس"
+            },
+            "published": true,
+            "stock": 14,
+            "photo": {
+                "MEDIUM": "https://statics.basalam.com/public-3/users/o6Jog/11-21/KTHNwoplZ1NX7nQhaChmwyZS7Zxj6Ulgip26Log8GAWd9lA9Cf.jpg_512X512X70.jpg",
+                "SMALL": "https://statics.basalam.com/public-3/users/o6Jog/11-21/KTHNwoplZ1NX7nQhaChmwyZS7Zxj6Ulgip26Log8GAWd9lA9Cf.jpg_256X256X70.jpg"
+            },
+            "rating": {
+                "average": 4.5,
+                "count": 11,
+                "signals": 11
+            },
+            "primaryPrice": 2500000,
+            "preparationDays": 3,
+            "weight": 1000,
+            "freeShippingToIran": 7000000,
+            "freeShippingToSameCity": 0,
+            "categoryId": 1595,
+            "video": {
+                "MEDIUM": "",
+                "SMALL": ""
+            },
+            "has_delivery": true,
+            "has_variation": false,
+            "promotions": null,
+            "new_categoryId": 166,
+            "vendor": {
+                "name": "قاووت شاهان",
+                "identifier": "h_soltani",
+                "statusId": 2987,
+                "freeShippingToIran": 5000000,
+                "freeShippingToSameCity": 1000000,
+                "cityId": 2610,
+                "provinceId": 23,
+                "has_delivery": true,
+                "score": null,
+                "id": 168981,
+                "status": {
+                    "id": 2987,
+                    "title": "فعال"
+                },
+                "owner": {
+                    "city": "کرمان",
+                    "id": 1541486,
+                    "hashId": "o6Jog"
+                }
+            },
+            "ads": {},
+            "isFreeShipping": false,
+            "canAddToCart": true,
+            "IsAvailable": true,
+            "IsSaleable": true,
+            "mainAttribute": "1000 گرم",
+            "has_mlt": false,
+            "currentPromotion": {},
+            "impression": 0,
+            "clickCount": 0,
+            "fastBookMark": true,
+            "categoryTitle": "شیرینی",
+            "isVendorOnline": false,
+            "listingIds": []
+        }
+    ],
+    "inputChanges": {},
+    "similar_vendors": {
+        "count": 0,
+        "vendors": []
+    },
+    "selectedCategoryList": null
+}
