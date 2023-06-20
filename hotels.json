@@ -1,0 +1,3145 @@
+{
+    "status": "success",
+    "error": false,
+    "result": {
+        "result": [
+            {
+                "id": "dh-7cfd3c3efdfd3c",
+                "score": 30,
+                "maxScore": 10,
+                "star": 5,
+                "accommodation": {
+                    "id": 204,
+                    "name": {
+                        "en": "Hotels",
+                        "fa": "هتل"
+                    }
+                },
+                "facilities": [
+                    1048
+                ],
+                "minPriceProviderName": "DomesticHotels",
+                "minPrice": 53370000,
+                "minBoardPrice": 74169369,
+                "pricePerNight": 17790000,
+                "special": false,
+                "usable": true,
+                "currency": "IRR",
+                "providers": [],
+                "hotelId": "634550f8db652e0728243676",
+                "name": {
+                    "en": "kerman-karvanika",
+                    "fa": "کاروانیکا"
+                },
+                "reserveRules": [],
+                "location": {
+                    "coordinates": [
+                        57.080718,
+                        30.291963
+                    ],
+                    "type": "Point"
+                },
+                "image": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/8429dd93-70b7-4d31-af99-5886c2c370e8.jpg?w=964",
+                "area": "",
+                "images": [
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/8429dd93-70b7-4d31-af99-5886c2c370e8.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/d7fa9afe-f3ce-499e-923c-6667cb76c5cc.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/15f41ac3-dd5e-4edf-8ca3-75b21b2dae29.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/a799c15f-8a49-4c28-976a-eec669231aeb.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/2a0b982c-1f8f-464a-8f96-d5c6987692b1.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/1dae7391-c628-4dd2-8f32-5a359d0a9e1f.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/ce0edfd7-fe78-40f8-97b1-6b1e4b14a4d7.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/c7d84bf2-6ac7-4981-bf38-5642101f2640.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/8f2143b9-bc34-49d1-b92c-5b7c70d49b3e.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/a26b6541-d2ae-414f-9025-9178ecb2284a.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/62347e01-d10b-4c03-8b11-442321066b4d.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/da2808fa-de8a-4d8e-9020-8e1e67ed5865.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/4fa16349-12e8-471c-b1fc-d674b45fe4cc.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/d07d2d88-589e-444f-8ec2-e299546f4f53.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/fdc4bc72-250c-4201-94c9-d5c5ecf2b49c.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/87b3c92c-7a56-4094-b3bd-32a4be47e51c.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/3e75d22c-c588-4564-9c3d-4639c0c668b1.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/509c2317-40b0-4766-bda5-2dce1e889f51.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/2f62ff8a-3c37-4b55-93be-dd1d80f96fd6.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/462ded38-9632-4892-b751-8e95aa5424a7.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/8f46b3ac-50a1-4d11-978b-01e90b285a57.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/2a65ffe7-e441-4db0-8acb-19182ceed8d1.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/29416bdc-1a9c-44db-ab1a-78cae647c3fc.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/cda364b1-1e93-4a41-9e6a-f17a47b33706.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/6b7865b6-683f-472e-a3e8-9e6f9bd349fb.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/4b781b80-5f5f-4c5b-b91f-17fdd8bb5b9d.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/1f39ce89-9494-4eb9-a1fa-3c476bac1878.JPG?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/e61131dd-2e3a-43ac-9fc9-475dc52e81a7.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/d22a2147-a12a-4073-8225-9288728e121e.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-10-12/8a5d45ad-85ef-4e76-9912-1286a76b6ab2.jpeg?w=964"
+                ],
+                "link": "ir-kerman/kerman-karvanika",
+                "country": {
+                    "code": "IR"
+                },
+                "places": [],
+                "badges": [
+                    {
+                        "_id": "639343712e97640022538407",
+                        "text": "هتل تازه تاسیس",
+                        "icon": "",
+                        "color": {
+                            "text": "#1e7b33",
+                            "background": "#eafaee",
+                            "variant": "success"
+                        }
+                    }
+                ],
+                "facilitiesNames": [
+                    "صندوق امانات"
+                ],
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "specialOffer": false,
+                "oldPrice": 74170000,
+                "discountPercent": 28
+            },
+            {
+                "id": "dh-fd6f1fb3fd171b",
+                "score": 12,
+                "maxScore": 10,
+                "star": 3,
+                "accommodation": {
+                    "id": 219,
+                    "name": {
+                        "en": "Aparthotels",
+                        "fa": "هتل آپارتمان"
+                    }
+                },
+                "facilities": [],
+                "minPriceProviderName": "DomesticHotels",
+                "minPrice": 25800000,
+                "minBoardPrice": 36000000,
+                "pricePerNight": 8600000,
+                "special": false,
+                "usable": true,
+                "currency": "IRR",
+                "providers": [],
+                "hotelId": "5e1c6e43ff42b8e4bc713a28",
+                "name": {
+                    "en": "kerman-asam",
+                    "fa": "آسام "
+                },
+                "reserveRules": [],
+                "location": {
+                    "coordinates": [
+                        57.057408,
+                        30.288977
+                    ],
+                    "type": "Point"
+                },
+                "image": "https://cdn.alibaba.ir/inh/domestic-hotel/image_13a97085-3684-4cae-adeb-3fa097cdadc3.jpg",
+                "area": "",
+                "images": [
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_13a97085-3684-4cae-adeb-3fa097cdadc3.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_444cfdba-be77-40f9-b31e-f89dd8afc048.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_cc38ebda-2984-4fc3-92bd-c97ec7f761e9.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_35bd0fbf-f4de-4c01-a616-444b99d51a2e.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_7341f171-91c6-4e67-8dc5-414b820194bc.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_76f76b57-e091-4e4a-874f-c45188a39862.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_fb9e47b2-f22e-459f-8044-ca0aecfc811e.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_5615fe76-f34a-4401-96dd-35d020649fcc.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_00f50516-c979-41b7-ab11-b58d62c4d0b9.jpg",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-08-28/f4c639a1-ac09-4d09-886c-1e0e303df60d.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-08-28/85dcdf42-5337-40a5-855c-207312a2414a.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-08-28/95dfa944-47c3-488c-a6c2-c7536ea419f1.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-08-28/a860c2d4-058a-459b-bf0f-42ee8b678665.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-08-28/a887d4ad-9504-46ab-879f-43f042f89b99.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-08-28/4d93c17d-2304-435c-a5c6-36ab94041a0b.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-08-28/e52e1271-a43f-4f27-9782-0561a4dd76d2.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-08-28/39d3446d-a7fc-4860-b17a-a32089e7ec6e.jpg?w=964"
+                ],
+                "link": "ir-kerman/kerman-asam",
+                "country": {
+                    "code": "IR"
+                },
+                "places": [],
+                "badges": [],
+                "facilitiesNames": [],
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "specialOffer": false,
+                "oldPrice": 36000000,
+                "discountPercent": 28
+            },
+            {
+                "id": "138119",
+                "score": 11,
+                "maxScore": 10,
+                "star": 2,
+                "accommodation": {
+                    "id": 204,
+                    "name": {
+                        "en": "Hotels",
+                        "fa": "هتل"
+                    }
+                },
+                "facilities": [
+                    1048
+                ],
+                "minPriceProviderName": "DomesticHotels",
+                "minPrice": 21600000,
+                "minBoardPrice": 27600000,
+                "pricePerNight": 7200000,
+                "special": false,
+                "usable": true,
+                "currency": "IRR",
+                "providers": [],
+                "hotelId": "5be3ebfae9a116befc4cc227",
+                "name": {
+                    "en": "kerman-akhavan",
+                    "fa": "اخوان"
+                },
+                "reserveRules": [],
+                "location": {
+                    "coordinates": [
+                        57.04723,
+                        30.284898
+                    ],
+                    "type": "Point"
+                },
+                "image": "https://cdn.alibaba.ir/inh/domestic-hotel/image_19de3ba1-ea83-43fe-9ea8-c4b63444a63b.jpg",
+                "area": "",
+                "images": [
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_19de3ba1-ea83-43fe-9ea8-c4b63444a63b.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ee900476-88f8-41e6-8c0f-706cb2b9d8b3.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_1a8e8e35-3b8c-4402-b194-0fe43a828246.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_8e105b31-9061-42e2-90cf-ba7a130f21d6.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_66354104-5c2f-4091-b673-dd1e11005dbe.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_78c96b42-3025-42a4-be4d-4d1ac032d2f9.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_12ddd684-ad92-406b-a30e-4466417d2c9f.jpg"
+                ],
+                "link": "ir-kerman/kerman-akhavan",
+                "country": {
+                    "code": "IR"
+                },
+                "places": [],
+                "badges": [],
+                "facilitiesNames": [
+                    "صندوق امانات"
+                ],
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "specialOffer": false,
+                "oldPrice": 27600000,
+                "discountPercent": 22
+            },
+            {
+                "id": "dh-39fd31fd566e7e",
+                "score": 9,
+                "maxScore": 10,
+                "star": 2,
+                "accommodation": {
+                    "id": 204,
+                    "name": {
+                        "en": "Hotels",
+                        "fa": "هتل"
+                    }
+                },
+                "facilities": [
+                    1048
+                ],
+                "minPriceProviderName": "DomesticHotels",
+                "minPrice": 13590000,
+                "minBoardPrice": 13590000,
+                "pricePerNight": 4530000,
+                "special": false,
+                "usable": true,
+                "currency": "IRR",
+                "providers": [],
+                "hotelId": "5d3595574a6d0cbd4313b5c0",
+                "name": {
+                    "en": "kerman-kerman",
+                    "fa": "کرمان "
+                },
+                "reserveRules": [],
+                "location": {
+                    "coordinates": [
+                        57.060172,
+                        30.27006
+                    ],
+                    "type": "Point"
+                },
+                "image": "https://cdn.alibaba.ir/inh/domestic-hotel/image_3bde68fe-6a9c-4fa8-a700-53022e3d3ed9.jpg",
+                "area": "",
+                "images": [
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_3bde68fe-6a9c-4fa8-a700-53022e3d3ed9.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_dbb80b89-6130-4593-b113-cf725c8ea813.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_a94e7107-620b-48d4-a304-85991b97626c.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_1dcf9655-a4c2-4a46-b248-292a85758dad.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_b83880ff-54b9-41de-b873-7de5a402be68.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_b55ab61d-c7b7-4db6-9743-bc3d8748bc83.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_721952a8-3d6a-4057-bab9-e6676a0782a6.jpg"
+                ],
+                "link": "ir-kerman/kerman-kerman",
+                "country": {
+                    "code": "IR"
+                },
+                "places": [],
+                "badges": [],
+                "facilitiesNames": [
+                    "صندوق امانات"
+                ],
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "specialOffer": false
+            },
+            {
+                "id": "dh-fdfd39650f647e",
+                "score": 8,
+                "maxScore": 10,
+                "star": 0,
+                "accommodation": {
+                    "id": 219,
+                    "name": {
+                        "en": "Aparthotels",
+                        "fa": "هتل آپارتمان"
+                    }
+                },
+                "facilities": [
+                    1048
+                ],
+                "minPriceProviderName": "Lamasoo",
+                "minPrice": 39432000,
+                "minBoardPrice": 39000000,
+                "pricePerNight": 13144000,
+                "special": null,
+                "usable": true,
+                "currency": "IRR",
+                "providers": [],
+                "hotelId": "625ad0dcf98194d25f96e7a3",
+                "name": {
+                    "en": "kerman-hiva",
+                    "fa": "آپارتمان هیوا"
+                },
+                "reserveRules": [],
+                "location": {
+                    "coordinates": [
+                        57.05132521534074,
+                        30.28699251418777
+                    ],
+                    "type": "Point"
+                },
+                "image": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-07-19/21f90395-8149-4165-b7b8-bc2085eb80cc.jpg?w=964",
+                "area": "",
+                "images": [
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-07-19/21f90395-8149-4165-b7b8-bc2085eb80cc.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-07-19/c3610bec-a8a9-4d00-aa1e-746e6d93f065.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-07-19/89bb3096-8a77-4d01-8bb7-dde905a06425.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-07-19/1741d719-af6b-437d-af9a-2db56aa608a0.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-07-19/ad8e2407-7eef-4070-83ae-c6966a44f59d.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-07-19/5d4e320b-d687-4fe1-b135-61a7e82c738d.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-07-19/6ffad902-5646-4377-9399-a20b4887706b.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-07-19/95030933-c87b-4201-ab57-4acfa514f10c.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-07-19/39dbeb40-f19b-4544-a040-d4600e4ce367.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-07-19/b89a652d-82d0-4f2d-8765-e9b2a7a3fa6a.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-07-19/5d580287-fa86-4b82-94dc-197d1b5ee685.jpg?w=964"
+                ],
+                "link": "ir-kerman/kerman-hiva",
+                "country": {
+                    "code": "IR"
+                },
+                "places": [],
+                "badges": [],
+                "facilitiesNames": [
+                    "صندوق امانات"
+                ],
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "specialOffer": false
+            },
+            {
+                "id": "dh-50fd2bfd07fd0a",
+                "score": 8,
+                "maxScore": 10,
+                "star": 4,
+                "accommodation": {
+                    "id": 204,
+                    "name": {
+                        "en": "Hotels",
+                        "fa": "هتل"
+                    }
+                },
+                "facilities": [
+                    1006,
+                    1048
+                ],
+                "minPriceProviderName": "Lamasoo",
+                "minPrice": 60420000,
+                "minBoardPrice": 60000000,
+                "pricePerNight": 20140000,
+                "special": false,
+                "usable": true,
+                "currency": "IRR",
+                "providers": [],
+                "hotelId": "63832ecddb652e07283568a9",
+                "name": {
+                    "en": "hiva",
+                    "fa": "هیوا"
+                },
+                "reserveRules": [],
+                "location": {
+                    "coordinates": [
+                        57.018741083573,
+                        30.2727440147431
+                    ],
+                    "type": "Point"
+                },
+                "image": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/0bf625fc-c1f1-4853-ba2d-afa618e02b97.jpg?w=964",
+                "area": "",
+                "images": [
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/0bf625fc-c1f1-4853-ba2d-afa618e02b97.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-11-27/b9ebda5c-c40d-4cf3-b107-665789025307.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-11-27/26e8afc2-d5ca-418a-bff8-24990cb78e6f.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-11-27/c39d5324-0110-4fd6-9422-58ee3cb92240.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-11-27/afded06c-7a4c-434b-a627-fd47c1ead656.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-11-27/b9464fe8-8876-4628-867c-1ac14db24ec8.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-11-27/9b1a89fa-b680-471e-ba78-cbed80fb1b98.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-11-27/f52f0447-ca5e-4b0f-ae6f-854aab79b78c.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-11-27/3a7833f6-3781-4a77-9716-6e84e5d4e6bc.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-11-27/053540ff-4842-4bb6-8cd3-a70741801634.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-11-27/140921cb-321c-408b-86bd-839e69d6c053.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-11-27/75523f2d-d94c-4943-b92a-44133dffb6bf.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-11-27/22ef8026-71df-4da7-aea2-58427c633556.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-11-27/64995c40-781a-4521-bd49-5b9443b69825.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/26897b2f-4955-45bf-a268-c4672b6f7349.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-11-27/7b3211fa-a797-4cc8-9804-15f75ce0a1f5.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/fcea4164-2ae9-4f81-80fe-e8d51b1ad301.JPG?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/5479dc0e-3193-416d-a39f-18659bd94b69.JPG?w=964"
+                ],
+                "link": "ir-kerman/kerman-hiva4star",
+                "country": {
+                    "code": "IR"
+                },
+                "places": [],
+                "badges": [
+                    {
+                        "color": {
+                            "text": "#1e7b33",
+                            "background": "#eafaee",
+                            "variant": "success"
+                        },
+                        "_id": "638336e0c3ba6a0024e0bcb1",
+                        "text": "هتل تازه تاسیس",
+                        "icon": ""
+                    },
+                    {
+                        "_id": "6395e76549cab80023dd68b1",
+                        "color": {
+                            "text": "#1e7b33",
+                            "background": "#eafaee",
+                            "variant": "success"
+                        },
+                        "text": "صبحانه‌های خاص و متنوع",
+                        "icon": ""
+                    }
+                ],
+                "facilitiesNames": [
+                    "کولر گازی",
+                    "صندوق امانات"
+                ],
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "specialOffer": false
+            },
+            {
+                "id": "dh-fdfdfd4dfd50fd",
+                "score": 0,
+                "maxScore": 10,
+                "star": 0,
+                "accommodation": {
+                    "id": 204,
+                    "name": {
+                        "en": "Hotels",
+                        "fa": "هتل"
+                    }
+                },
+                "facilities": [
+                    60
+                ],
+                "minPriceProviderName": "DomesticHotels",
+                "minPrice": 13500000,
+                "minBoardPrice": 13500000,
+                "pricePerNight": 4500000,
+                "special": null,
+                "usable": true,
+                "currency": "IRR",
+                "providers": [],
+                "hotelId": "639edb3edb652e07281ac3e5",
+                "name": {
+                    "en": "kerman-parsin",
+                    "fa": "پارسین"
+                },
+                "reserveRules": [
+                    {
+                        "value": {
+                            "minNight": 2
+                        },
+                        "type": "min-night",
+                        "fromDate": "2023-03-18T20:30:00.000Z",
+                        "toDate": "2023-04-02T20:30:00.000Z",
+                        "createdAt": "2023-03-28T20:32:14.735Z"
+                    }
+                ],
+                "location": {
+                    "coordinates": [
+                        57.086870482216,
+                        30.2942229913279
+                    ],
+                    "type": "Point"
+                },
+                "image": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/a9475b03-7740-4470-a119-f71989b32212.jpeg?w=964",
+                "area": "",
+                "images": [
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/a9475b03-7740-4470-a119-f71989b32212.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/788c6bd9-0a9a-4fd0-ae05-7fd5ccf5075f.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/a44c35d2-f631-4c58-b4ba-87730c7a6766.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/c79e013a-e625-4678-80f3-0c95eea9097b.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/ccd57921-f5ee-4669-a7fd-4b21717358e2.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/86d80923-e5c8-4578-a416-48ffe94fb7ac.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/d8709365-257c-43bf-b67c-12ae376650bd.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/a3c38ea7-4351-4bc8-a810-e079c36d7019.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/1d6275a2-7048-403f-94d9-23bf18f4a767.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/ffe3a6ba-c704-49d7-a037-9e9585e928cf.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/9be8878e-46fb-48a1-ada4-f1418f1c5061.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/ddcd6b0e-3e30-46b9-a074-4f24470c1d54.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/2995338b-4528-499b-aec0-714e37869f2f.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/67f25936-8e8f-4cd4-bdca-95e76e428b1e.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/17ae7d80-2615-46cc-a99e-9e7057f24d9d.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/89ece5c7-7683-4210-ab53-248db69980e9.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/2f86e4f1-2bbb-4ebf-826e-8bbff576e21e.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/0c7b8dc6-0ea7-4534-8e0d-02491eafb2cd.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/6574b20b-67d1-4cd2-b204-cfb0a5f3f14f.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/8aed8639-04c8-46aa-9b59-4ab84f2804b3.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/85efe04d-8c98-4326-83cf-07c2efdbfaf4.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/fbd74109-637e-4306-a693-70c971f5e23f.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-21/792d03ef-3c1d-4360-a46b-ee68d1ecfc01.jpeg?w=964"
+                ],
+                "link": "ir-kerman/kerman-parsin",
+                "country": {
+                    "code": "IR"
+                },
+                "places": [],
+                "badges": [],
+                "facilitiesNames": [
+                    "فروشگاه و خرید"
+                ],
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "specialOffer": false
+            },
+            {
+                "id": "dh-fdfdfdfd334c3f",
+                "score": 0,
+                "maxScore": 10,
+                "star": 0,
+                "accommodation": {
+                    "id": 204,
+                    "name": {
+                        "en": "Hotels",
+                        "fa": "هتل"
+                    }
+                },
+                "facilities": [],
+                "minPriceProviderName": "DomesticHotels",
+                "minPrice": 30800000,
+                "minBoardPrice": 45000000,
+                "pricePerNight": 10266666.666666666,
+                "special": null,
+                "usable": true,
+                "currency": "IRR",
+                "providers": [],
+                "hotelId": "637f0202db652e07283ee2ac",
+                "name": {
+                    "en": "kerman-shahbaz",
+                    "fa": "اقامتگاه سنتی شهباز"
+                },
+                "reserveRules": [],
+                "location": {
+                    "coordinates": [
+                        57.0648392963045,
+                        30.2872484255427
+                    ],
+                    "type": "Point"
+                },
+                "image": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/a49271b2-9529-4ab8-912c-e367ec0db755.jpeg?w=964",
+                "area": "",
+                "images": [
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/a49271b2-9529-4ab8-912c-e367ec0db755.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/29f8e785-1c2e-493e-ab6e-52c4432cb79c.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/e1a089e9-c661-4d5e-b917-d10d82ae9063.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/d32c589b-e813-49d1-be1c-79b959b02c05.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/aaf4657e-d52b-4a1a-b7a8-3b0513a624f8.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/f6cedb0b-8195-474b-a866-21b3d4ba3a91.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/e475af56-a371-47d9-8752-f512758db927.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/9b12f9e4-c67c-4894-bcd3-f9344a5e73ff.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/9bf5e71e-15fb-42ab-b9fd-242b570e97e9.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/1c310243-08a5-4aaa-b6a3-92217b113c46.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/1a7b6ed7-4142-417b-9b2b-aa7db7bf5691.jpeg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/2311279a-6506-487c-9cae-9095f9e47a08.jpeg?w=964"
+                ],
+                "link": "ir-kerman/kerman-shahbaz",
+                "country": {
+                    "code": "IR"
+                },
+                "places": [],
+                "badges": [],
+                "facilitiesNames": [],
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "specialOffer": false,
+                "oldPrice": 45000000,
+                "discountPercent": 32
+            },
+            {
+                "_id": "5d19d4fb4a6d0cbd432e9746",
+                "giataId": "dh-7f0511fdfd6924",
+                "__v": 12,
+                "accommodation": null,
+                "address": "بلوار جمهوری",
+                "checkinTime": "14:00",
+                "checkoutTime": "12:00",
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "country": {
+                    "code": "IR"
+                },
+                "dataProvider": "DomesticHotels",
+                "dataStatus": "ProviderFull",
+                "description": {
+                    "fa": "\n          <p data-description=\"location\">هتل جهانگردی کرمان یک هتل چهار‌ستاره واقع در جنوب شهر کرمان است. در کرمان قسمت جنوبی شهر تراکم جمعیت کمتری دارد و در نتیجه از آرامش بیشتری برخوردارست.<br>این هتل همچنین دسترسی خوبی به مراکز دیدنی شهر همچون مجموعه گنجعلی‌خان، بازار بزرگ کرمان، مسجد جامع و گنبد جبلیه دارد. به‌علاوه از این هتل می‌توانید با طی مسافتی 15 دقیقه‌ای به ترمینال وفرودگاه برسید.‌ای ستگاه اتوبوس نزدیک هتل هم امکان تردد کم‌هزینه به دیگر نقاط شهر را فراهم کرده‌است.</p>\n          <p data-description=\"rooms\">واحدهای اقامتی هتل از اتاق‌های دو و سه‌تخته و سوئیت‌های رویال تشکیل شده‌است. تمامی ‌واحدها دارای امکانات کامل رفاهی هستند. ازجمله می‌توان به سیستم تهویه‌مطبوع، اینترنت، تلویزیون، صندوق‌امانات، تختخوابهای راحت، مبلمانريا، یخچال، مینی‌بار و حمام اختصاصی اشاره کرد.</p>\n          <p data-description=\"restaurants\">رستوران هتل با داشتن بهترین سر‌آشپزها تجربه‌ای لذت‌بخش‌ ازصرف غذا برای میهمانان فراهم می‌کند. در این رستوران که ظرفیت پذیرایی از 150 نفر را دارد، با انواع غذاهای لذیذ ایرانی از میهمانان پذیرایی می‌شود.<br>در کافی‌شاپ دنج هتل هم می‌توانید انواع دسرهای خوشمزه و نوشیدنی‌را نوش‌جان کنید.<br>به‌علاوه چنانچه مایل به صرف غذا در اتاق خود باشید می‌توانید از روم‌سرویس (سفارش غذا و نوشیدنی از داخل اتاق) به صورت 24‌ساعته استفاده کنید.</p>\n          <p data-description=\"amenities\">هتل جهانگردی کرمان برای رفاه حال میهمانان خود امکانات و خدمات مطلوبی ارائه می‌کند.<br>برای مثال اینترنت پرسرعت در فضای هتل در دسترس است.<br>یک سالن پذیرایی چندمنظوره مجهز به امکانات کامل جهت برگزاری انواع همایش، مجالس و جشن‌ها اختصاص داده‌ شده‌است. <br>هتل همچنین از امکانات تفریحی و ورزشی خوبی برخوردارست. اگر اهل ورزش هستید و یا به تناسب اندام خود اهمیت می‌دهید می‌توانید از سالن بدنسازی هتل استفاده کنید. یک زمین تنیس و سالن بیلیارد هم برای‌ای جاد لحظاتی شاد و مفرح برای میهمانان درنظر گرفته شده‌است.<br>فروشگاه و غرفه‌های صنایع‌دستی موجود در هتل کار میهمانان برای خرید سوغاتی را راحت کرده‌است.<br>برای آن‌دسته از میهمانانی که با اتومبیل شخصی خود سفر کرده‌اند هم پارکینگ مهیا است.<br>ضمنا در طول اقامت خود می‌توانید خدمات خشک‌شویی خود را با خیال راحت به هتل بسپارید.<br>عابربانک، صندوق‌امانات در لابی، خدمات فکس و فتوکپی و پذیرش 24‌ساعته از دیگر خدماتی است که در هتل جهانگردی کرمان به میهمانان عرضه می‌شود.</p>\n      ",
+                    "en": ""
+                },
+                "email": null,
+                "endTime": null,
+                "facilities": [
+                    3,
+                    22,
+                    60,
+                    71,
+                    1040,
+                    1041,
+                    1042,
+                    1044,
+                    1045,
+                    1046,
+                    1048,
+                    1049,
+                    1050,
+                    1052,
+                    1053,
+                    1058,
+                    1063,
+                    1064,
+                    1065,
+                    1066
+                ],
+                "fax": null,
+                "image": "https://cdn.alibaba.ir/inh/domestic-hotel/image_ccdb923d-b016-4704-94b6-04c1a54b766b.jpg",
+                "images": [
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ccdb923d-b016-4704-94b6-04c1a54b766b.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_bbdd6fae-c650-47e1-9828-84dcf1416819.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_f07f8102-e9b9-4e76-ad92-cc1615ca3414.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_9aeeb368-f578-433d-a903-42b0678126c3.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_cbcaccdf-457f-4557-8b7c-0ef24db9b95e.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_f8fe888a-d24d-406e-b6ad-ab9409274264.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_abadfca9-6a30-40e3-9acf-91393acd015f.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_4acb0924-8083-4bb9-9962-2381c5929e60.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_21cd3ed6-3cd2-4055-a181-2ec915e93d17.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_b1aa6304-be9c-4ca4-845c-e3f6db61217a.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_5efd8a4e-fcfb-4dd2-a94f-6b176a5d6519.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ca5d290c-c54e-447e-803c-1f24b5d3c98b.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ad7ecb91-9fe9-4cbe-8b3e-df5f68f4272a.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_2cfa50ad-1e28-48f9-acf0-a684cdebc9aa.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_29a2de08-86a7-4d16-9cae-46b40e7d2afa.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_dfae1f6d-c879-4ac4-b7f4-4a794c64db0f.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_c91fb133-a856-4126-9883-c5a1e663dbc3.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_7434ef61-d7b3-478d-99b7-6fb931f82f7f.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_6a0f15a1-215f-4d57-b871-f6f906c2d47e.jpg"
+                ],
+                "instruction": {
+                    "en": "",
+                    "fa": ""
+                },
+                "link": "ir-kerman/kerman-jahangardi",
+                "location": {
+                    "coordinates": [
+                        57.0338433980942,
+                        30.2841175958998
+                    ],
+                    "type": "Point"
+                },
+                "mandatoryFee": {
+                    "en": "<div>Accommodation fee for children aged 2-6 is according to the policy of each hotel.<br/></div>",
+                    "fa": "<div>هزینه اقامت کودک زیر سه سال رایگان می‌باشد. <br/> \n    هزینه اقامت کودک سه تا شش سال طبق قوانین هتل در خود هتل مبلغ پرداخت می‌گردد. <br/>\n    هزینه اقامت کودک بالای شش سال یک نفر کامل محاسبه می‌گردد.</div>"
+                },
+                "minAge": null,
+                "name": {
+                    "en": "kerman-jahangardi",
+                    "fa": "جهانگردی "
+                },
+                "phone": null,
+                "postalCode": null,
+                "providerId": "dh-7f0511fdfd6924",
+                "score": 30,
+                "star": 4,
+                "state": null,
+                "website": null,
+                "area": "",
+                "disabled": false,
+                "hidden": [],
+                "imageStatus": 0,
+                "rooms": [],
+                "stats": {
+                    "minPrice": 13301335,
+                    "totalView": 35839,
+                    "minPriceDate": "2023-06-14T00:00:00.000Z"
+                },
+                "special": false,
+                "updateLock": true,
+                "places": [],
+                "urgencyText": {
+                    "disabled": true
+                },
+                "reserveRules": [],
+                "disabledNote": "",
+                "metaDescription": "رزرو هتل جهانگردی کرمان در علی بابا، معتبرترین سامانه رزرو هتل در ایران - رزرو هتل های کرمان با تخفیف - گارانتی بهترین قیمت و پشتیبانی  24 ساعته- مشاهده آنلاین مشخصات، امکانات، تصاویر هتل جهانگردی",
+                "seoTitle": "هتل جهانگردی کرمان: رزرو با 30% تخفیف | علی بابا",
+                "faq": [
+                    {
+                        "_id": "6381fef2c3ba6a00249ae65e",
+                        "question": "هتل جهانگردی شیراز چند ستاره است؟",
+                        "answer": "هتل سه ستاره جهانگردی شیراز در سال 57 و در سه طبقه و 44 واحد اقامتی ساخته شده است. این هتل زیرمجموعه هتل‌های جهانگردی محسوب می‌شود. کیفیت امکانات و خدمات و نظافت اتاق‌ها از نقاط قوت هتل جهانگردی شیراز هستند."
+                    },
+                    {
+                        "_id": "6381fef2c3ba6a00249ae65f",
+                        "question": "قوانین کنسلی هتل جهانگردی شیراز چگونه است؟",
+                        "answer": "پیش از رزرو هتل جهانگردی شیراز بهتر است از قوانین کنسلی آن اطلاع داشته باشید. کنسلی این هتل تا 48 ساعت مانده به شروع اقامت، جریمه‌ای برابر با 20 درصد از هزینه یک شب اقامت را درپی دارد. اگر بین 24 تا 48 ساعت پیش از اقامت در هتل، رزروتان را کنسل کنید، باید 40 درصد از هزینه یک شب اقامت در هتل را بپردازید. برای دریافت اطلاعات بیشتر، با تیم پشتیبانی علی بابا تماس بگیرید."
+                    },
+                    {
+                        "_id": "6381fef2c3ba6a00249ae660",
+                        "question": "امکانات هتل جهانگردی شیراز چیست؟",
+                        "answer": "در سفر زمینی به شیراز می‌توانید ماشین‌تان را در پارکینگ هتل جهانگردی شیراز نگه دارید. پارک کودک این مجموعه جایی مناسب برای سرگرمی کودک شما خواهد بود. برای سرو غذاهای سنتی شیراز، سری به رستوران هتل جهانگردی شیراز بزنید. کافی‌شاپ هتل، بهترین نوشیدنی‌ها و میان‌وعده‌ها را سرو می‌کند. ترانسفر رفت‌وبرگشت هتل کار شما را برای طی فاصله تا فرودگاه راحت‌تر خواهد کرد."
+                    },
+                    {
+                        "_id": "6381fef2c3ba6a00249ae661",
+                        "question": "زمان‌های ورود و خروج در هتل جهانگردی شیراز چگونه است؟",
+                        "answer": "زمان‌های ورود و خروج هتل جهانگردی شیراز، ساعات 14 و 12 اعلام شده است. اگر پس از ساعت 20 به هتل می‌رسید، حتما به پرسنل پذیرش این موضوع را اطلاع دهید تا رزروتان را نگه دارند. تخلیه اتاق دیرتر از ساعت 12 شما را مجبور می‌کند هزینه‌ای برابر با نصف یک شب اقامت را برای جریمه بپردازید."
+                    },
+                    {
+                        "_id": "6381fef2c3ba6a00249ae662",
+                        "question": "فاصله هتل جهانگردی شیراز تا فرودگاه و بیمارستان شیراز چقدر است؟",
+                        "answer": "فرودگاه بین‌المللی شیراز در فاصله 10 کیلومتری و 12 دقیقه‌ای از هتل جهانگردی واقع شده است. بیمارستان شهید چمران شیراز 13 کیلومتر و بیمارستان حافظ هشت کیلومتر تا هتل سه ستاره جهانگردی شیراز فاصله دارند."
+                    },
+                    {
+                        "_id": "6381fef2c3ba6a00249ae663",
+                        "question": "موقعیت جغرافیایی هتل جهانگردی شیراز کجاست و فاصله آن تا مکان‌های مهم شیراز چقدر است؟",
+                        "answer": "برای اقامت در هتل جهانگردی شیراز باید خودتان را به کلبه سعدی، ابتدای بلوار نصر برسانید. این هتل سه کیلومتر تا آرامگاه سعدی، چهار کیلومتر تا امامزاده علی‌بن‌حمزه، سه کیلومتر تا آرامگاه شاه شجاع، پنج کیلومتر تا ارگ کریمخانی، چهار کیلومتر تا آرامگاه حافظ، پنج کیلومتر تا باغ نارنجستان قوام، پنج کیلومتر تا دروازه قرآن و 58 کیلومتر تا تخت‌جمشید فاصله دارد."
+                    },
+                    {
+                        "_id": "6381fef2c3ba6a00249ae664",
+                        "question": "چرا هتل جهانگردی شیراز را از علی بابا رزرو کنیم؟",
+                        "answer": "معرفی کامل هتل، شرح اتاق‌ها، قوانین و مقررات کنسلی، فهرست امکانات و خدمات، قیمت رزرو هتل، نظرات کاربران و فهرست هتل‌های مشابه بخشی از اطلاعاتی است که در سایت رزرو هتل داخلی یا اپلیکیشن علی بابا به آن دسترسی خواهید داشت."
+                    }
+                ],
+                "badges": [
+                    {
+                        "_id": "639723f51a9cb000237aadc1",
+                        "text": "هتل برگزیده از نگاه کاربران ",
+                        "icon": "",
+                        "color": {
+                            "text": "#1e7b33",
+                            "background": "#eafaee",
+                            "variant": "success"
+                        }
+                    },
+                    {
+                        "_id": "6397240db1a7780022d42b21",
+                        "text": "موقعیت مکانی عالی ",
+                        "color": {
+                            "text": "#0f697a",
+                            "background": "#e8f9fc",
+                            "variant": "info"
+                        }
+                    },
+                    {
+                        "_id": "639991ed29b0d50022ddf05c",
+                        "text": "تضمین بهترین نرخ",
+                        "icon": "",
+                        "color": {
+                            "text": "#1e7b33",
+                            "background": "#eafaee",
+                            "variant": "success"
+                        }
+                    }
+                ],
+                "maxScore": 10,
+                "messages": [],
+                "seoLinks": [
+                    {
+                        "title": "هتل درویشی مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-darvishi"
+                    },
+                    {
+                        "title": "هتل ترنج کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-toranj"
+                    },
+                    {
+                        "title": "هتل شایگان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shaygan"
+                    },
+                    {
+                        "title": "هتل شایان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shayan"
+                    },
+                    {
+                        "title": "هتل ماریناپارک کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-marina-park"
+                    },
+                    {
+                        "title": "هتل بین‌المللی کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-International-kish"
+                    },
+                    {
+                        "title": "هتل الماس نوین مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-almasnovin"
+                    },
+                    {
+                        "title": "هتل آزادی تهران",
+                        "href": "https://www.alibaba.ir/hotel/ir-tehran/tehran-azadi"
+                    },
+                    {
+                        "title": "هتل پارس تبریز",
+                        "href": "https://www.alibaba.ir/hotel/ir-tabriz/tabriz-pars"
+                    },
+                    {
+                        "title": "هتل بزرگ شیراز",
+                        "href": "https://www.alibaba.ir/hotel/ir-shiraz/shiraz-bozorg"
+                    },
+                    {
+                        "title": "هتل پارسیان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-parsian"
+                    },
+                    {
+                        "title": "هتل قصر طلایی مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-ghasr-talai"
+                    },
+                    {
+                        "title": "هتل شایلی کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shaili"
+                    },
+                    {
+                        "title": "هتل انقلاب مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-enghlab"
+                    },
+                    {
+                        "title": "هتل اسپیناس پالاس تهران",
+                        "href": "https://www.alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+                    }
+                ],
+                "mergeRoomForce": false,
+                "createdAt": "2022-08-14T09:04:05.740Z",
+                "updatedAt": "2023-06-20T04:12:51.257Z",
+                "video": {
+                    "source": null,
+                    "thumbnail": null
+                },
+                "isStrategic": true,
+                "hotelId": "5d19d4fb4a6d0cbd432e9746",
+                "id": "dh-7f0511fdfd6924",
+                "unavailable": true,
+                "providers": [],
+                "facilitiesNames": [
+                    "رستوران",
+                    "خدمات خشکشویی",
+                    "فروشگاه و خرید",
+                    "نمازخانه",
+                    "تاکسی سرویس",
+                    "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+                    "مبلمان راحتی",
+                    "سرویس روزانه اتاق",
+                    "حمام",
+                    "سرویس بهداشتی فرنگی",
+                    "صندوق امانات",
+                    "تلفن",
+                    "تلویزیون",
+                    "سیستم تهویه هوا",
+                    "یخچال",
+                    "دستگاه خودپرداز بانک",
+                    "اعلام حریق",
+                    "سالن اجتماعات",
+                    "سالن کنفرانس",
+                    "آسانسور"
+                ],
+                "specialOffer": false,
+                "minPrice": null,
+                "pricePerNight": null,
+                "discountPercent": null
+            },
+            {
+                "_id": "5be3ebfae9a116befc4cc0fd",
+                "giataId": "137706",
+                "accommodation": null,
+                "address": "كرمان، بلوار جمهوری اسلامی، چهارراه فرهنگيان",
+                "checkinTime": "14:00",
+                "checkoutTime": "12:00",
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "country": {
+                    "code": "IR"
+                },
+                "dataProvider": "DomesticHotels",
+                "dataStatus": "ProviderFull",
+                "description": {
+                    "fa": "<p>\n          </p><p data-description=\"location\">هتل بین‌المللی پارس کرمان یک هتل پنج‌ستاره واقع در مرکز شهر کرمان است. ازجمله مزایای این هتل دسترسی راحت به فرودگاه و جاذبه‌های گردشگری شهر چون بازار گنجعلی خان و حمام وکیل است. همچنین می‌توانید به آسانی به بازار بزرگ کرمان رفته و از صنایع‌دستی و شیرینی‌های مخصوص محلی برای سوغات خریداری کنید.</p><p>\n          </p><p data-description=\"rooms\">واحدهای اقامتی هتل شامل اتاق‌های دو نفره، سوئیت‌های یک‌خوابه، سوئیت‌های دو‌خوابه و سوئیت مخصوص عروس و داماد است. تمامی ‌واحدها بسیار شیک چیدمان شده و دارای امکاناتی چون تهویه‌مطبوع، تلویزیون، صندوق‌امانات، مبلمان، یخچال، مینی‌بار، سرویس‌بهداشتی و حمام اختصاصی هستند.روم‌سرویس (سفارش غذا و نوشیدنی از داخل اتاق) به صورت ۲۴‌ساعته در این هتل فراهم است.</p><p>\n          </p><p data-description=\"restaurants\">صبحانه متنوع هتل در رستوران «ستاره» واقع در طبقه همکف هتل سرو می‌شود. رستوران آینه با ارائه انواع غذاهای لذیذ در فضایی شیک و مجلل میزبان میهمانان عزیز برای وعده‌های ناهار و شام است. همچنین هتل دارای یک رستوران تابستانی بوده که علاقه‌مندان را به صرف غذا در هوای آزاد و محوطه سرسبز آن دعوت می‌کند. دو کافی‌شاپ لابی و کارمانیا هم با ارائه انواع دسرهای خوشمزه و نوشیدنی‌های گوارا مکان مناسبی برای گپ و گفت، دورهمی‌های دوستانه و قرارهای کاری هستند.</p><p>\n          </p><p data-description=\"amenities\">چندین سالن پذیرایی و چندمنظوره با امکانات و تجهیزات کامل جهت برگزاری انواع جشن‌ها، مراسم، جلسات و کنفرانس‌ها در هتل موجود است. همینطور هتل دارای یک سالن آمفی‌تئاتر مخصوص اکران فیلم‌های روز است.از امکانات تفریحی و ورزشی هتل باشگاه بدنسازی است. اگر به تناسب اندام خود اهمیت می‌دهید می‌توانید در باشگاه بدنسازی مجهز هتل ورزش کنید. همینطور برای علاقه‌مندان به شنا یک استخر سرپوشیده درنظر گرفته شده‌است. بعد از ورزش و شنا یا گذراندن یک روز شلوغ در شهر می‌توانید در مجموعه سونا و جکوزی هتل استراحت کرده و خستگی را از تن به در کنید. زمین تنیس و میز بیلیارد هم از دیگر امکانات تفریحی و ورزشی هتل به‌شمار می‌رود.غرفه‌های تجاری هتل شامل صرافی، لوازم کادوئی، پوشاک مردانه، آتلیه فیلم وعکس، کتاب‌فروشی، گل‌فروشی، آرایشگاه، غرفه گردشگری، اتاق کودک و غرفه سوغات پته و گلیم بسیاری از نیازهای میهمانان را برآورده می‌کند.پارکینگ هتل هم برای آن‌دسته از میهمانانی که با اتومبیل شخصی سفر کرده‌اند، فراهم است. ضمن اینکه تاکسی‌سرویس هتل هم به صورت شبانه‌روزی آماده ارائه خدمات است. بع علاوه اینترنت وای‌فای در تمامی ‌فضاهای هتل در دسترس بوده و در صورت نیازهم می‌توانید از کافی‌نت هتل استفاده کنید. از دیگر تسهیلات ارائه شده در هتل پارس کرمان می‌توان به خدمات خشک‌شویی، انبار چمدان و پذیرش ۲۴‌ساعته اشاره کرد.</p><p>\n      </p>",
+                    "en": ""
+                },
+                "email": null,
+                "endTime": null,
+                "facilities": [
+                    1040,
+                    1041,
+                    1042,
+                    1044,
+                    1045,
+                    1046,
+                    1048,
+                    1049,
+                    1050,
+                    1052,
+                    1053,
+                    1058,
+                    1063,
+                    1064,
+                    1065,
+                    1066
+                ],
+                "fax": null,
+                "image": "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/b59186cd-9cc7-4d20-a488-1872ed7e967a.jpg?w=964",
+                "instruction": {
+                    "en": "",
+                    "fa": "<p>استفاده از استخر برای مهمانان هتل، رایگان است.</p>"
+                },
+                "lastUpdate": "2018-10-03T00:08:32.000Z",
+                "location": {
+                    "coordinates": [
+                        57.0252747,
+                        30.2803743
+                    ],
+                    "type": "Point"
+                },
+                "mandatoryFee": {
+                    "en": "<div>Accommodation fee for children aged 2-6 is according to the policy of each hotel.<br/></div>",
+                    "fa": "<p>هزینه اقامت کودک کوچک‌تر از دو سال رایگان است.</p><p>هزینه اقامت کودک دو تا شش سال طبق قوانین هتل در هتل دریافت می‌شود.</p><p>هزینه اقامت کودک بزرگ‌تر از شش سال به صورت یک فرد کامل محاسبه می‌شود.</p>"
+                },
+                "minAge": null,
+                "name": {
+                    "en": "kerman-pars",
+                    "fa": "پارس"
+                },
+                "phone": null,
+                "postalCode": null,
+                "score": 21,
+                "star": 5,
+                "state": null,
+                "website": null,
+                "providerId": "137706",
+                "link": "ir-kerman/kerman-pars",
+                "images": [
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/b59186cd-9cc7-4d20-a488-1872ed7e967a.jpg?w=964",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_c889335c-811e-46d2-acef-862beb95b374.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_6cd6475f-9139-44a7-8202-b5aa59f7acd3.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_a47b9d6a-2fa9-4c13-bfca-291f4ea6530b.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_299774b4-67b9-46c1-9ff0-a73203e5e976.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_76afac23-0a11-46cb-b0b8-9bc9eac7890b.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_9c4725a7-4d7f-4521-a141-70a5160671ce.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_25c21fff-6c40-40f5-b5a5-3fb0fca10d8a.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_86d23b9e-8917-49ca-bad5-786672ca740a.jpg",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/e4cc5a28-fefa-4703-b324-e46877b825b1.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/7f9b663c-09f8-4fc7-b8f4-8922c9154e49.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/5351173b-638e-499a-909a-bdb5b8faa545.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/bd66bd35-0923-4f0d-b762-8a8baf17bcf1.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/b7e09615-31c0-4980-950e-b67e99ba8276.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/85d80cc0-e37e-45af-ba73-f43435cb8b04.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/590bf938-ed9c-412f-90fe-3836a5a97b20.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/0918e36b-a8bc-42f5-bcf6-2a7f08ccf9ef.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/77071146-c7b5-40b8-b2cb-482c4ad0b10d.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/3c3fbe58-57b0-4916-a770-1f0e54dde0fb.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/e2b9b908-36a5-4c7b-a314-a69e3147f020.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/699ffae1-132f-45b4-9834-aad639896976.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/79849903-ceef-4882-bb5a-66d340ee56e9.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/40ad735d-221c-4407-922b-fdc1a7ce9c5e.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/7c65f321-2aec-4331-b85c-8a7c8d21fc0a.jpg?w=964",
+                    "https://cdn.alibaba.ir/ostorage/hotel-accommodation-images/2022-12-12/f476159e-3a01-4a30-a61f-9dcf044d9858.jpg?w=964"
+                ],
+                "__v": 13,
+                "hidden": [],
+                "imageStatus": 1,
+                "rooms": [],
+                "stats": {
+                    "minPrice": 16319999,
+                    "minPriceDate": "2023-06-18T00:00:00.000Z",
+                    "totalView": 62730
+                },
+                "area": "",
+                "disabled": false,
+                "special": false,
+                "updateLock": true,
+                "places": [],
+                "urgencyText": {
+                    "disabled": true
+                },
+                "reserveRules": [],
+                "disabledNote": "",
+                "metaDescription": "رزرو هتل پارس-kerman-pars در علی بابا، معتبرترین سامانه رزرو هتل در ایران - رزرو هتل های کرمان با تخفیف - گارانتی بهترین قیمت و پشتیبانی  24 ساعته- مشاهده آنلاین مشخصات، امکانات، تصاویر هتل kerman-pars",
+                "seoTitle": "رزرو هتل پارس در کرمان | علی بابا",
+                "faq": [],
+                "badges": [
+                    {
+                        "color": {
+                            "text": "#1e7b33",
+                            "background": "#eafaee",
+                            "variant": "success"
+                        },
+                        "_id": "641ebcfbda825a0024652254",
+                        "text": "لوکس‌ترین هتل کرمان",
+                        "icon": ""
+                    }
+                ],
+                "maxScore": 10,
+                "messages": [],
+                "seoLinks": [
+                    {
+                        "title": "هتل درویشی مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-darvishi"
+                    },
+                    {
+                        "title": "هتل ترنج کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-toranj"
+                    },
+                    {
+                        "title": "هتل شایگان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shaygan"
+                    },
+                    {
+                        "title": "هتل شایان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shayan"
+                    },
+                    {
+                        "title": "هتل ماریناپارک کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-marina-park"
+                    },
+                    {
+                        "title": "هتل بین‌المللی کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-International-kish"
+                    },
+                    {
+                        "title": "هتل الماس نوین مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-almasnovin"
+                    },
+                    {
+                        "title": "هتل آزادی تهران",
+                        "href": "https://www.alibaba.ir/hotel/ir-tehran/tehran-azadi"
+                    },
+                    {
+                        "title": "هتل پارس تبریز",
+                        "href": "https://www.alibaba.ir/hotel/ir-tabriz/tabriz-pars"
+                    },
+                    {
+                        "title": "هتل بزرگ شیراز",
+                        "href": "https://www.alibaba.ir/hotel/ir-shiraz/shiraz-bozorg"
+                    },
+                    {
+                        "title": "هتل پارسیان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-parsian"
+                    },
+                    {
+                        "title": "هتل قصر طلایی مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-ghasr-talai"
+                    },
+                    {
+                        "title": "هتل شایلی کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shaili"
+                    },
+                    {
+                        "title": "هتل انقلاب مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-enghlab"
+                    },
+                    {
+                        "title": "هتل اسپیناس پالاس تهران",
+                        "href": "https://www.alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+                    }
+                ],
+                "mergeRoomForce": false,
+                "createdAt": "2022-08-14T07:42:46.512Z",
+                "updatedAt": "2023-06-20T04:08:07.074Z",
+                "isStrategic": true,
+                "video": {
+                    "source": null,
+                    "thumbnail": null
+                },
+                "hotelId": "5be3ebfae9a116befc4cc0fd",
+                "id": "137706",
+                "unavailable": true,
+                "providers": [],
+                "facilitiesNames": [
+                    "تاکسی سرویس",
+                    "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+                    "مبلمان راحتی",
+                    "سرویس روزانه اتاق",
+                    "حمام",
+                    "سرویس بهداشتی فرنگی",
+                    "صندوق امانات",
+                    "تلفن",
+                    "تلویزیون",
+                    "سیستم تهویه هوا",
+                    "یخچال",
+                    "دستگاه خودپرداز بانک",
+                    "اعلام حریق",
+                    "سالن اجتماعات",
+                    "سالن کنفرانس",
+                    "آسانسور"
+                ],
+                "specialOffer": false,
+                "minPrice": null,
+                "pricePerNight": null,
+                "discountPercent": null
+            },
+            {
+                "_id": "5d19d5024a6d0cbd432ea4e1",
+                "giataId": "dh-fdfdfd62fd2042",
+                "__v": 3,
+                "accommodation": null,
+                "address": "ماهان- جنب آستانه شاه نعمت الله ولی ",
+                "checkinTime": "14:00",
+                "checkoutTime": "12:00",
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "country": {
+                    "code": "IR"
+                },
+                "dataProvider": "DomesticHotels",
+                "dataStatus": "ProviderFull",
+                "description": {
+                    "fa": "\n          <p data-description=\"location\">هتل سنتی ایوان ماهان در شهر ماهان کرمان قرار دارد. موقعیت مکانی هتل موجب شده به جاذبه‌های تاریخی و گردشگری چون آرامگاه شاعر بزرگ شاه نعمت الله ولی، خانه شترگلو و غیره نزدیک باشد و میهمانان بتوانند به راحتی از این اماکن دیدن کنند.</p>\n          <p data-description=\"rooms\">هتل در مجموع 14 واحداقامتی دارد که با پنجره‌های چوبی دور تا دور حیاط مرکزی زیبا و سرسبز هتل قرار گرفته‌اند. برخی واحدها دارای چشم‌اندازی زیبا رو به حیاط مرکزی هتل هستند. ازجمله امکانات ارائه شده در واحدهای اقامتی می‌توان به تهویه‌مطبوع، تختخوابهای راحت، تلویزیون و یخچال اشاره کرد. حمام اختصاصی و سرویس‌بهداشتی فرنگی هم در همه واحدها موجود است. اتاق‌ها در ظرفیت‌های دو‌تخته و سه‌تخته و سوئیت‌ها با ظرفیت سه و پنج نفره ارائه می‌شود.<br>گفتنی است واحدهای اقامتی این هتل فضایی دنج و راحت دارند به طوری که از اقامت در آن‌ها احساس خوشایندی خواهید داشت.</p>\n          <p data-description=\"restaurants\">برای صرف غذا نیازی نیست از هتل خارج شوید. رستوران هتل با ارائه منو غذایی متنوع در هر سه وعده غذایی میزبان میهمانان با ذائقه‌های گوناگون است. بعد از گشت‌و‌گذار در شهر هم می‌توانید سری به کافی‌شاپ هتل بزنید و ضمن استراحت و گپ وگفت با هم‌سفران از سفارش انواع نوشیدنی و دسر لذت ببرید.</p>\n          <p data-description=\"amenities\">حیاط هتل سنتی ایوان دارای چهار باغ بوده که جلوه‌ای زیبا و سرسبز به فضای حیاط بخشیده و برای برپایی جشن‌ها هم مورد استفاده قرار می‌گیرند. در لابی هتل غرفه صنایع‌دستی، کتابخانه و اینترنت برای استفاده میهمانان فراهم شده‌است. همچنین در صورت سفر با اتومبیل شخصی می‌توانید از پارکینگ هتل استفاده کنید. پرسنل مسلط به زبان انگلیسی و راهنمای تور نیز از دیگر تسهیلات ارائه شده در این هتل است.</p>\n      ",
+                    "en": null,
+                    "contentIndex": true
+                },
+                "email": null,
+                "endTime": null,
+                "facilities": [
+                    2,
+                    3,
+                    1038,
+                    1041,
+                    1042,
+                    1045,
+                    1050,
+                    1052,
+                    1053,
+                    1057
+                ],
+                "fax": null,
+                "image": "https://cdn.alibaba.ir/inh/domestic-hotel/image_c631d4eb-39f7-4b7b-8587-6d1057e3629d.png",
+                "images": [
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_05f58af5-bd87-48a2-afff-c2ea9f1840a1.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_07505e30-5692-419e-9e5d-b7ae21d6d891.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_624d522a-c0ec-496e-ba1d-6a40d5e615e9.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_f11dde1a-a359-4ec9-9d80-be1253f071e8.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_c631d4eb-39f7-4b7b-8587-6d1057e3629d.png",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_7a3c4574-5f62-4ef9-963f-319423a868d7.png",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_54e3e830-6782-499c-b48c-964465ab771c.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_759a5ac6-4dcb-4d21-b358-65e19a79d579.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_0ded2029-154f-446e-8260-a2eea7b976e4.jpg"
+                ],
+                "instruction": {
+                    "en": null
+                },
+                "link": "ir-kerman/kerman-mahan eyvan",
+                "location": {
+                    "coordinates": [
+                        57.2912832,
+                        30.0597688
+                    ],
+                    "type": "Point"
+                },
+                "mandatoryFee": {
+                    "fa": "<div>هزینه اقامت کودک زیر دوسال رایگان می‌باشد. <br/> \n    هزینه اقامت کودک دو تا شش سال طبق قوانین هتل در خود هتل مبلغ پرداخت می‌گردد. <br/>\n    هزینه اقامت کودک بالای شش سال یک نفر کامل محاسبه می‌گردد.</div>",
+                    "en": "<div>Accommodation fee for children aged 2-6 is according to the policy of each hotel.<br/></div>"
+                },
+                "minAge": null,
+                "name": {
+                    "en": "kerman-mahan eyvan",
+                    "fa": " سنتی ایوان ماهان"
+                },
+                "phone": null,
+                "postalCode": null,
+                "providerId": "dh-fdfdfd62fd2042",
+                "score": 8,
+                "star": 3,
+                "state": null,
+                "website": null,
+                "imageStatus": 1,
+                "area": "",
+                "disabled": false,
+                "hidden": [],
+                "rooms": [],
+                "stats": {
+                    "minPrice": 2100000,
+                    "minPriceDate": "2020-03-02T00:00:00.000Z",
+                    "totalView": 1350
+                },
+                "special": false,
+                "updateLock": false,
+                "places": [],
+                "urgencyText": {
+                    "disabled": true
+                },
+                "reserveRules": [],
+                "disabledNote": "",
+                "metaDescription": "رزرو هتل  سنتی ایوان ماهان-kerman-mahan eyvan در علی بابا، معتبرترین سامانه رزرو هتل در ایران - رزرو هتل های کرمان با تخفیف - گارانتی بهترین قیمت و پشتیبانی  24 ساعته- مشاهده آنلاین مشخصات، امکانات، تصاویر هتل kerman-mahan eyvan",
+                "seoTitle": "رزرو هتل  سنتی ایوان ماهان در کرمان | علی بابا",
+                "seoLinks": [
+                    {
+                        "title": "هتل درویشی مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-darvishi"
+                    },
+                    {
+                        "title": "هتل ترنج کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-toranj"
+                    },
+                    {
+                        "title": "هتل شایگان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shaygan"
+                    },
+                    {
+                        "title": "هتل شایان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shayan"
+                    },
+                    {
+                        "title": "هتل ماریناپارک کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-marina-park"
+                    },
+                    {
+                        "title": "هتل بین‌المللی کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-International-kish"
+                    },
+                    {
+                        "title": "هتل الماس نوین مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-almasnovin"
+                    },
+                    {
+                        "title": "هتل آزادی تهران",
+                        "href": "https://www.alibaba.ir/hotel/ir-tehran/tehran-azadi"
+                    },
+                    {
+                        "title": "هتل پارس تبریز",
+                        "href": "https://www.alibaba.ir/hotel/ir-tabriz/tabriz-pars"
+                    },
+                    {
+                        "title": "هتل بزرگ شیراز",
+                        "href": "https://www.alibaba.ir/hotel/ir-shiraz/shiraz-bozorg"
+                    },
+                    {
+                        "title": "هتل پارسیان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-parsian"
+                    },
+                    {
+                        "title": "هتل قصر طلایی مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-ghasr-talai"
+                    },
+                    {
+                        "title": "هتل شایلی کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shaili"
+                    },
+                    {
+                        "title": "هتل انقلاب مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-enghlab"
+                    },
+                    {
+                        "title": "هتل اسپیناس پالاس تهران",
+                        "href": "https://www.alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+                    }
+                ],
+                "badges": [],
+                "hotelId": "5d19d5024a6d0cbd432ea4e1",
+                "id": "dh-fdfdfd62fd2042",
+                "unavailable": true,
+                "providers": [],
+                "facilitiesNames": [
+                    "پارکینگ",
+                    "رستوران",
+                    "خدمات اينترنت بی‌سیم (Wifi)",
+                    "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+                    "مبلمان راحتی",
+                    "حمام",
+                    "تلویزیون",
+                    "سیستم تهویه هوا",
+                    "یخچال",
+                    "کافی‌شاپ"
+                ],
+                "specialOffer": false,
+                "minPrice": null,
+                "pricePerNight": null,
+                "discountPercent": null
+            },
+            {
+                "_id": "625ad0dcf98194d25f96e7c6",
+                "giataId": "dh-fdfdd1fd642a1b",
+                "__v": 0,
+                "accommodation": null,
+                "address": "میدان آزادی خیابان بهمنیار.بهمنیار3",
+                "checkinTime": "14:00",
+                "checkoutTime": "12:30",
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "country": {
+                    "code": "IR"
+                },
+                "dataProvider": "DomesticHotels",
+                "dataStatus": "ProviderFull",
+                "description": {
+                    "fa": "واقع در مرکز شهر.تمامی واحد ها مشرف به چشم انداز زیبا شهر کرمان.مجهز به اینترنت پرسرعت در تمامی نقاط هتل دارای کافی شاپ.رستوران.پارکینگ.تمامی واحد ها دارای سرویس ایرانی و فرنگی به همراه صبحانه سلف سرویس",
+                    "en": null
+                },
+                "email": null,
+                "endTime": null,
+                "facilities": [
+                    2,
+                    22,
+                    60,
+                    103,
+                    1029,
+                    1033,
+                    1038,
+                    1039,
+                    1040,
+                    1041,
+                    1042,
+                    1043,
+                    1044,
+                    1045,
+                    1046,
+                    1047,
+                    1048,
+                    1049,
+                    1050,
+                    1051,
+                    1052,
+                    1053,
+                    1057,
+                    1058,
+                    1063,
+                    1066
+                ],
+                "fax": null,
+                "image": "https://cdn.alibaba.ir/inh/domestic-hotel/image_e98f8fb9-4629-494f-9ac3-a3c0d998daf5.jpg",
+                "images": [
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_9c9383f0-e607-4adf-8e49-c53db3f8e971.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_555ca7ec-b13a-4cd3-97f8-2519a48c7aab.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_962d39b3-f10b-4a7a-a1a9-b73d4136bb1b.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_9c0dd470-043b-4228-abb9-974c9a421f08.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_e98f8fb9-4629-494f-9ac3-a3c0d998daf5.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_69c04a0c-c9d0-48ed-abf4-c8a34f76d9d8.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_996111bb-d731-49f5-9d7e-6351a83e82db.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_06e2bd07-0cb5-4645-acee-ff643e9729c2.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_23d11f48-d34f-46ac-9515-413db02760d3.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_6b3daf5b-c5bd-4d71-a7ff-205a58ee223e.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_45060eb4-7aee-4bd4-ad16-9d15451d2eee.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_91bb86ea-551c-4aa6-8254-3416c9ed1180.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_3c2d77a7-842f-48c3-9205-2682781d1bb5.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_2be1db10-4c63-4821-9a7b-f9d2ad76c2d0.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_f491c286-1eca-41ae-bb1d-5517b5245d54.jpg"
+                ],
+                "instruction": {
+                    "en": null
+                },
+                "link": "ir-kerman/cd14ec23e2",
+                "location": {
+                    "coordinates": [
+                        56.53564453125,
+                        30.6757154041677
+                    ],
+                    "type": "Point"
+                },
+                "mandatoryFee": {
+                    "fa": "<div>هزینه اقامت کودک زیر دوسال رایگان می‌باشد. <br/> \n      هزینه اقامت کودک دو تا شش سال طبق قوانین هتل در خود هتل مبلغ پرداخت می‌گردد. <br/>\n      هزینه اقامت کودک بالای شش سال یک نفر کامل محاسبه می‌گردد.</div>",
+                    "en": "<div>Accommodation fee for children aged 2-6 is according to the policy of each hotel.<br/></div>"
+                },
+                "minAge": null,
+                "name": {
+                    "en": "cd14ec23e2",
+                    "fa": "ملکوتی"
+                },
+                "phone": null,
+                "postalCode": null,
+                "providerId": "dh-fdfdd1fd642a1b",
+                "score": 8,
+                "star": 0,
+                "state": null,
+                "website": null,
+                "badges": [],
+                "hotelId": "625ad0dcf98194d25f96e7c6",
+                "id": "dh-fdfdd1fd642a1b",
+                "unavailable": true,
+                "providers": [],
+                "area": "",
+                "places": [],
+                "facilitiesNames": [
+                    "پارکینگ",
+                    "خدمات خشکشویی",
+                    "فروشگاه و خرید",
+                    "استخر سرپوشیده",
+                    "چای‌ساز",
+                    "اتو",
+                    "خدمات اينترنت بی‌سیم (Wifi)",
+                    "خدمات تماس بیدار باش (Wakeup Call)",
+                    "تاکسی سرویس",
+                    "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+                    "مبلمان راحتی",
+                    "آشپزخانه",
+                    "سرویس روزانه اتاق",
+                    "حمام",
+                    "سرویس بهداشتی فرنگی",
+                    "سرویس بهداشتی ایرانی",
+                    "صندوق امانات",
+                    "تلفن",
+                    "تلویزیون",
+                    "سشوار",
+                    "سیستم تهویه هوا",
+                    "یخچال",
+                    "کافی‌شاپ",
+                    "دستگاه خودپرداز بانک",
+                    "اعلام حریق",
+                    "آسانسور"
+                ],
+                "specialOffer": false,
+                "minPrice": null,
+                "pricePerNight": null,
+                "discountPercent": null
+            },
+            {
+                "_id": "5d19d4fa4a6d0cbd432e9382",
+                "giataId": "dh-fd1975fd2dfdfd",
+                "__v": 6,
+                "accommodation": null,
+                "address": "قلعه گنج",
+                "checkinTime": "14:00",
+                "checkoutTime": "12:00",
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "country": {
+                    "code": "IR"
+                },
+                "dataProvider": "DomesticHotels",
+                "dataStatus": "ProviderFull",
+                "description": {
+                    "fa": "\n          <p data-description=\"location\">هتل سنتی کپری قلعه گنج در جنوبی‌ترین نقطه استان کرمان، شهر قلعه گنج واقع شده‌است. این هتل چهار‌ستاره که در دل کویر قرار گرفته با طراحی ویژه‌ای که دارد اولین هتل کپری ایران به‌شمار می‌رود. <br> هتل کپری قلعه گنج با ارائه امکاناتی منحصربه‌فرد و خدماتی ویژه، همواره گردشگران بسیاری را به خود جذب می‌کند.</p>\n          <p data-description=\"rooms\">هتل دارای پنج راهروی سنتی بوده که هر راهرو شش اتاق کپری دارد. اتاق‌ها با سبک سنتی چیدمان شده و دارای امکاناتی چون تهویه‌مطبوع، تلویزیون، مبلمان، چای‌ساز، یخچال، سرویس‌بهداشتی و حمام اختصاصی هستند.</p>\n          <p data-description=\"restaurants\">در رستوران هتل که به صورت کپری ساخته شده‌‌ می‌توانید طعم انواع غذاهای سنتی محلی مانند بز قرمه، کباب تنوری و دوغ پای را بچشید. همینطور کافی‌شاپ کپری هتل، هم در فضای داخلی و هم در فضای آزاد آماده پذیرایی از میهمانان است.</p>\n          <p data-description=\"amenities\">هتل سنتی کپری قلعه گنج برای رفاه میهمانان مجموعه‌ای از امکانات و خدمات را فراهم ساخته‌است. <br>ازجمله امکانات هتل، لابی آن است که در فضای موزه مانند آن اشیا عتیقه به نمایش گذاشته شده‌است. یک نمایشگاه صنایع‌دستی محلی هم در آن دایر است. همینطور لابی دارای فضای نشیمن بوده و در آن با نوشیدنی و دمنوش از میهمانان پذیرایی می‌شود.<br>اگر به گشت‌و‌گذار در روستا و جاذبه‌های دیدنی اطراف علاقه دارید می‌توانید همراه با راهنمای محلی از تالاب جاموزیان و طولانی‌ترین رمل‌های شنی کشور دیدن کنید. آفرود در شن‌زارهایکویری، آب‌تنی در قنات و شتر‌سواری هم با پرداخت هزینه جداگانه امکان‌پذیر است.<br>از دیگر امکانات هتل می‌توان به اینترنت و پارکینگ اشاره کرد.</p>\n      ",
+                    "en": ""
+                },
+                "email": null,
+                "endTime": null,
+                "facilities": [
+                    2,
+                    3,
+                    1042,
+                    1045,
+                    1047,
+                    1049,
+                    1050,
+                    1053
+                ],
+                "fax": null,
+                "image": "https://cdn.alibaba.ir/inh/domestic-hotel/image_bc2774ad-6e9e-48e5-95e4-f4511ac7a04c.jpg",
+                "images": [
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_bc2774ad-6e9e-48e5-95e4-f4511ac7a04c.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_79f8dd09-2ac2-4eb4-b220-8dd25d9b00c9.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_c9e7fafa-a5e0-425c-982d-b19f91e9302a.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ecfe5210-649d-472d-92ab-33bd97f09a76.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_71c076d3-5ab9-4eb5-8800-337aa7d8d2f2.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_e333c0d4-430c-4c99-907f-6ad55ca673fe.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_275fb010-161d-45e6-afde-8283cef790a4.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_37c41b06-180d-443f-b4bb-16fa1e5aa0dd.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_6cc05e9e-c1cd-4b49-a0e0-9561009ee4d8.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_d792f623-9688-40a9-9f67-b2e020153ded.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ea9bee03-23c9-42fe-af3c-b7d190b94f5d.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_5171e125-6b16-4d4f-9089-4b371387fb39.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_7eef488a-993c-4c98-b77d-e4faa66a5cfe.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_5146cb85-6bb2-476a-83e8-acd1bf47e63f.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_760bf547-075b-436a-bdc8-510fc34afe77.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_2a0ce9b5-c926-4279-b1dd-ab6a3def8f1a.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_42f49281-495c-4dd8-9b33-7d4c31147b75.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_f4891e73-d495-4ba2-9c91-d9247e84701c.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_8932c268-b445-472c-860b-c3b2d10a1fe9.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_5cd41ad2-6dd0-4a7d-98dd-4ce73c002eeb.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_e98a2044-c5d9-4c3a-a1bf-06c0414b46c9.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_322ca7db-a2db-423d-8b0c-404a75e78c22.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_eb1bfe8a-83e6-471b-aa90-e5b050217d46.jpg"
+                ],
+                "instruction": {
+                    "en": "",
+                    "fa": "نرخ میهمان غیر ایرانی در این هتل متفاوت می باشد. لطفا قبل از رزرو استعلام بفرمایید و در صورت عدم پرداخت به سامانه علی بابا،باید مابه تفاوت در هتل پرداخت گردد"
+                },
+                "link": "ir-kerman/kerman-ghaleganj",
+                "location": {
+                    "coordinates": [
+                        57.8537356853485,
+                        27.5131910130825
+                    ],
+                    "type": "Point"
+                },
+                "mandatoryFee": {
+                    "en": "<div>Accommodation fee for children aged 2-6 is according to the policy of each hotel.<br/></div>",
+                    "fa": "<div>هزینه اقامت کودک زیر دوسال رایگان می‌باشد. <br/> \n    هزینه اقامت کودک دو تا شش سال طبق قوانین هتل در خود هتل مبلغ پرداخت می‌گردد. <br/>\n    هزینه اقامت کودک بالای شش سال یک نفر کامل محاسبه می‌گردد.</div>"
+                },
+                "minAge": null,
+                "name": {
+                    "en": "kerman-ghaleganj",
+                    "fa": "سنتی کپری قلعه گنج"
+                },
+                "phone": null,
+                "postalCode": null,
+                "providerId": "dh-fd1975fd2dfdfd",
+                "score": 7,
+                "star": 4,
+                "state": null,
+                "website": null,
+                "imageStatus": 1,
+                "area": "",
+                "disabled": false,
+                "hidden": [],
+                "rooms": [],
+                "stats": {
+                    "minPrice": 7410000,
+                    "totalView": 18002,
+                    "minPriceDate": "2022-10-17T00:00:00.000Z"
+                },
+                "special": false,
+                "updateLock": true,
+                "places": [],
+                "urgencyText": {
+                    "disabled": true
+                },
+                "reserveRules": [],
+                "disabledNote": "",
+                "metaDescription": "رزرو هتل سنتی کپری قلعه گنج-kerman-ghaleganj در علی بابا، معتبرترین سامانه رزرو هتل در ایران - رزرو هتل های کرمان با تخفیف - گارانتی بهترین قیمت و پشتیبانی  24 ساعته- مشاهده آنلاین مشخصات، امکانات، تصاویر هتل kerman-ghaleganj",
+                "seoTitle": "رزرو هتل سنتی کپری قلعه گنج در کرمان | علی بابا",
+                "faq": [],
+                "seoLinks": [
+                    {
+                        "title": "هتل درویشی مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-darvishi"
+                    },
+                    {
+                        "title": "هتل ترنج کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-toranj"
+                    },
+                    {
+                        "title": "هتل شایگان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shaygan"
+                    },
+                    {
+                        "title": "هتل شایان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shayan"
+                    },
+                    {
+                        "title": "هتل ماریناپارک کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-marina-park"
+                    },
+                    {
+                        "title": "هتل بین‌المللی کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-International-kish"
+                    },
+                    {
+                        "title": "هتل الماس نوین مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-almasnovin"
+                    },
+                    {
+                        "title": "هتل آزادی تهران",
+                        "href": "https://www.alibaba.ir/hotel/ir-tehran/tehran-azadi"
+                    },
+                    {
+                        "title": "هتل پارس تبریز",
+                        "href": "https://www.alibaba.ir/hotel/ir-tabriz/tabriz-pars"
+                    },
+                    {
+                        "title": "هتل بزرگ شیراز",
+                        "href": "https://www.alibaba.ir/hotel/ir-shiraz/shiraz-bozorg"
+                    },
+                    {
+                        "title": "هتل پارسیان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-parsian"
+                    },
+                    {
+                        "title": "هتل قصر طلایی مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-ghasr-talai"
+                    },
+                    {
+                        "title": "هتل شایلی کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shaili"
+                    },
+                    {
+                        "title": "هتل انقلاب مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-enghlab"
+                    },
+                    {
+                        "title": "هتل اسپیناس پالاس تهران",
+                        "href": "https://www.alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+                    }
+                ],
+                "badges": [],
+                "maxScore": 10,
+                "messages": [
+                    {
+                        "_id": "62bab7d31d87ed0023ac6c7a",
+                        "color": {
+                            "text": "#1e7b33",
+                            "border": "#84e199",
+                            "background": "#eafaee"
+                        },
+                        "icon": "",
+                        "message": "نرخ میهمان غیر ایرانی در این هتل متفاوت می باشد. لطفا قبل از رزرو استعلام بفرمایید و در صورت عدم پرداخت به سامانه علی بابا،باید مابه تفاوت در هتل پرداخت گردد"
+                    }
+                ],
+                "mergeRoomForce": false,
+                "createdAt": "2022-08-14T07:35:30.421Z",
+                "updatedAt": "2022-10-22T19:45:11.813Z",
+                "hotelId": "5d19d4fa4a6d0cbd432e9382",
+                "id": "dh-fd1975fd2dfdfd",
+                "unavailable": true,
+                "providers": [],
+                "facilitiesNames": [
+                    "پارکینگ",
+                    "رستوران",
+                    "مبلمان راحتی",
+                    "حمام",
+                    "سرویس بهداشتی ایرانی",
+                    "تلفن",
+                    "تلویزیون",
+                    "یخچال"
+                ],
+                "specialOffer": false,
+                "minPrice": null,
+                "pricePerNight": null,
+                "discountPercent": null
+            },
+            {
+                "_id": "5be3f3c8e9a116befc5fef13",
+                "giataId": "752593",
+                "accommodation": null,
+                "address": "بزرگراه امام خمينی",
+                "checkinTime": "14:00",
+                "checkoutTime": "12:00",
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "country": {
+                    "code": "IR"
+                },
+                "dataProvider": "DomesticHotels",
+                "dataStatus": "ProviderFull",
+                "description": {
+                    "fa": "هتل گواشیر کرمان، در بلوار امام این شهر واقع شده است. هتل گواشیر که در سال 1370 ساخته شده، در سال 1392 مورد بازسازی و تعمیرات قرار گرفته است. اگر می‌خواهید اقامتی بی‌دردسر و در عین حال با هزینه‌ای نه چندان زیاد را در کرمان پشت سر بگذارید، این هتل 3 ستاره، انتخاب مناسبی برای شما خواهد بود. امکاناتی نظیر پارکینگ، خشکشویی و اینترنت پرسرعت نیز در هتل گواشیر کرمان در اختیار میهمانان قرار می‌گیرد. ",
+                    "en": null
+                },
+                "email": null,
+                "endTime": null,
+                "facilities": [
+                    2,
+                    3,
+                    1040,
+                    1041,
+                    1042,
+                    1045,
+                    1046,
+                    1049,
+                    1050,
+                    1052,
+                    1053,
+                    1063,
+                    1064,
+                    1065,
+                    1066
+                ],
+                "fax": null,
+                "image": "https://cdn.alibaba.ir/inh/domestic-hotel/image_b83a2085-33c0-4de6-9521-281b1cecf44d.jpg",
+                "instruction": {
+                    "en": null
+                },
+                "lastUpdate": "2018-09-02T01:27:22.000Z",
+                "location": {
+                    "coordinates": [
+                        57.0525062084198,
+                        30.2627461706443
+                    ],
+                    "type": "Point"
+                },
+                "mandatoryFee": {
+                    "fa": "<div>هزینه اقامت کودک زیر دوسال رایگان می‌باشد. <br/> \n    هزینه اقامت کودک دو تا شش سال طبق قوانین هتل در خود هتل مبلغ پرداخت می‌گردد. <br/>\n    هزینه اقامت کودک بالای شش سال یک نفر کامل محاسبه می‌گردد.</div>",
+                    "en": "<div>Accommodation fee for children aged 2-6 is according to the policy of each hotel.<br/></div>"
+                },
+                "minAge": null,
+                "name": {
+                    "en": "kerman-goashir",
+                    "fa": "گواشیر"
+                },
+                "phone": null,
+                "postalCode": null,
+                "score": 5,
+                "star": 3,
+                "state": null,
+                "website": null,
+                "providerId": "752593",
+                "link": "ir-kerman/kerman-goashir",
+                "images": [
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_504352ef-3786-4365-9f50-443a6d7b11ce.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_bdab1afc-03ed-4357-81ad-f5cdf7607d93.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_b83a2085-33c0-4de6-9521-281b1cecf44d.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_fa55204a-7d85-4d96-9d42-a87b0bff7ce1.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_553167d1-f990-4e06-bc42-f4c44e3f1ea5.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_2caede3c-8d79-49ae-9421-cb3a64b02a01.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_08ca344b-5aca-4bd5-8edd-929f7b08e7a3.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_0e4686e6-eb9b-453e-810f-ab9e486ec2e6.jpg"
+                ],
+                "imageStatus": 1,
+                "__v": 7,
+                "area": "",
+                "disabled": false,
+                "hidden": [],
+                "rooms": [],
+                "stats": {
+                    "minPrice": 8000000,
+                    "totalView": 15289,
+                    "minPriceDate": "2023-06-09T00:00:00.000Z"
+                },
+                "special": false,
+                "updateLock": false,
+                "places": [],
+                "urgencyText": {
+                    "disabled": true
+                },
+                "reserveRules": [],
+                "disabledNote": "",
+                "metaDescription": "رزرو هتل گواشیر-kerman-goashir در علی بابا، معتبرترین سامانه رزرو هتل در ایران - رزرو هتل های کرمان با تخفیف - گارانتی بهترین قیمت و پشتیبانی  24 ساعته- مشاهده آنلاین مشخصات، امکانات، تصاویر هتل kerman-goashir",
+                "seoTitle": "رزرو هتل گواشیر در کرمان | علی بابا",
+                "faq": [],
+                "badges": [],
+                "maxScore": 10,
+                "messages": [],
+                "seoLinks": [
+                    {
+                        "title": "هتل درویشی مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-darvishi"
+                    },
+                    {
+                        "title": "هتل ترنج کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-toranj"
+                    },
+                    {
+                        "title": "هتل شایگان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shaygan"
+                    },
+                    {
+                        "title": "هتل شایان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shayan"
+                    },
+                    {
+                        "title": "هتل ماریناپارک کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-marina-park"
+                    },
+                    {
+                        "title": "هتل بین‌المللی کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-International-kish"
+                    },
+                    {
+                        "title": "هتل الماس نوین مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-almasnovin"
+                    },
+                    {
+                        "title": "هتل آزادی تهران",
+                        "href": "https://www.alibaba.ir/hotel/ir-tehran/tehran-azadi"
+                    },
+                    {
+                        "title": "هتل پارس تبریز",
+                        "href": "https://www.alibaba.ir/hotel/ir-tabriz/tabriz-pars"
+                    },
+                    {
+                        "title": "هتل بزرگ شیراز",
+                        "href": "https://www.alibaba.ir/hotel/ir-shiraz/shiraz-bozorg"
+                    },
+                    {
+                        "title": "هتل پارسیان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-parsian"
+                    },
+                    {
+                        "title": "هتل قصر طلایی مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-ghasr-talai"
+                    },
+                    {
+                        "title": "هتل شایلی کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shaili"
+                    },
+                    {
+                        "title": "هتل انقلاب مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-enghlab"
+                    },
+                    {
+                        "title": "هتل اسپیناس پالاس تهران",
+                        "href": "https://www.alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+                    }
+                ],
+                "createdAt": "2022-08-21T06:21:22.259Z",
+                "mergeRoomForce": false,
+                "updatedAt": "2023-06-19T22:31:26.939Z",
+                "isStrategic": false,
+                "hotelId": "5be3f3c8e9a116befc5fef13",
+                "id": "752593",
+                "unavailable": true,
+                "providers": [],
+                "facilitiesNames": [
+                    "پارکینگ",
+                    "رستوران",
+                    "تاکسی سرویس",
+                    "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+                    "مبلمان راحتی",
+                    "حمام",
+                    "سرویس بهداشتی فرنگی",
+                    "تلفن",
+                    "تلویزیون",
+                    "سیستم تهویه هوا",
+                    "یخچال",
+                    "اعلام حریق",
+                    "سالن اجتماعات",
+                    "سالن کنفرانس",
+                    "آسانسور"
+                ],
+                "specialOffer": false,
+                "minPrice": null,
+                "pricePerNight": null,
+                "discountPercent": null
+            },
+            {
+                "_id": "5d3595574a6d0cbd4313b6bc",
+                "giataId": "dh-fd03fdfdfd11fd",
+                "__v": 3,
+                "accommodation": null,
+                "address": "خیابان سعدی",
+                "checkinTime": "14:00",
+                "checkoutTime": "12:00",
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "country": {
+                    "code": "IR"
+                },
+                "dataProvider": "DomesticHotels",
+                "dataStatus": "ProviderFull",
+                "description": {
+                    "fa": "هتل سه ستاره هزار کرمان در سال 1394 بازسازی شده است با 3 طبقه و 42 واحد اقامتی و ظرفیت 90 تخت آماده میزبانی از گردشگران و مسافران ارجمند این شهر است. این هتل در مرکز شهر واقع است و به مراکز تفریحی و خرید دسترسی دارد. رستوران هتل هزار با ظرفیت پذیرایی 200 نفر بطور همزمان آماده سرو انواع غذاهای لذیذ ایرانی برای مهمانان ارجمند است.",
+                    "en": ""
+                },
+                "email": null,
+                "endTime": null,
+                "facilities": [
+                    2,
+                    3,
+                    71,
+                    1039,
+                    1041,
+                    1046,
+                    1049,
+                    1050,
+                    1053,
+                    1063,
+                    1066
+                ],
+                "fax": null,
+                "image": "https://cdn.alibaba.ir/inh/domestic-hotel/image_00abb754-e139-4bd6-8478-c85361c10f65.jpg",
+                "images": [
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_00abb754-e139-4bd6-8478-c85361c10f65.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_a052561f-4a4f-47ab-b182-f6a3897c0048.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ae1da12d-f3c3-457b-8419-94f0ff50dec9.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ad54529b-d596-4a8e-a5b5-a922ef39f920.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_5a6fdec2-0a20-4a07-9482-992f0b799039.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_adedcc51-e2bf-48fc-ac5a-18a102c5793e.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ccc3fbe5-d4b8-4e18-8d90-7f7b34578e60.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_8c9366f2-a234-4e57-976c-c9fadee1fd9e.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_7bf63c86-eaa2-4b18-b2f5-f2f2fc727ac9.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_4087bffd-de68-4ea6-af04-7ab184a62532.jpg"
+                ],
+                "instruction": {
+                    "en": "",
+                    "fa": ""
+                },
+                "link": "ir-kerman/kerman-hezar",
+                "location": {
+                    "coordinates": [
+                        57.0688965171576,
+                        30.2816230357855
+                    ],
+                    "type": "Point"
+                },
+                "mandatoryFee": {
+                    "en": "<div>Accommodation fee for children aged 2-6 is according to the policy of each hotel.<br/></div>",
+                    "fa": "<div>هزینه اقامت کودک زیر دوسال رایگان می‌باشد. <br/> \n    هزینه اقامت کودک دو تا شش سال طبق قوانین هتل در خود هتل مبلغ پرداخت می‌گردد. <br/>\n    هزینه اقامت کودک بالای شش سال یک نفر کامل محاسبه می‌گردد.</div>"
+                },
+                "minAge": null,
+                "name": {
+                    "en": "kerman-hezar",
+                    "fa": "هزار"
+                },
+                "phone": null,
+                "postalCode": null,
+                "providerId": "dh-fd03fdfdfd11fd",
+                "score": 5,
+                "star": 3,
+                "state": null,
+                "website": null,
+                "imageStatus": 1,
+                "area": "",
+                "disabled": false,
+                "hidden": [],
+                "rooms": [],
+                "stats": {
+                    "minPrice": 10000000,
+                    "totalView": 5460,
+                    "minPriceDate": "2023-06-14T00:00:00.000Z"
+                },
+                "special": false,
+                "updateLock": true,
+                "places": [],
+                "disabledNote": "",
+                "metaDescription": "رزرو هتل هزار-kerman-hezar در علی بابا، معتبرترین سامانه رزرو هتل در ایران - رزرو هتل های کرمان با تخفیف - گارانتی بهترین قیمت و پشتیبانی  24 ساعته- مشاهده آنلاین مشخصات، امکانات، تصاویر هتل kerman-hezar",
+                "seoTitle": "رزرو هتل هزار در کرمان | علی بابا",
+                "seoLinks": [
+                    {
+                        "title": "هتل درویشی مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-darvishi"
+                    },
+                    {
+                        "title": "هتل ترنج کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-toranj"
+                    },
+                    {
+                        "title": "هتل شایگان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shaygan"
+                    },
+                    {
+                        "title": "هتل شایان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shayan"
+                    },
+                    {
+                        "title": "هتل ماریناپارک کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-marina-park"
+                    },
+                    {
+                        "title": "هتل بین‌المللی کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-International-kish"
+                    },
+                    {
+                        "title": "هتل الماس نوین مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-almasnovin"
+                    },
+                    {
+                        "title": "هتل آزادی تهران",
+                        "href": "https://www.alibaba.ir/hotel/ir-tehran/tehran-azadi"
+                    },
+                    {
+                        "title": "هتل پارس تبریز",
+                        "href": "https://www.alibaba.ir/hotel/ir-tabriz/tabriz-pars"
+                    },
+                    {
+                        "title": "هتل بزرگ شیراز",
+                        "href": "https://www.alibaba.ir/hotel/ir-shiraz/shiraz-bozorg"
+                    },
+                    {
+                        "title": "هتل پارسیان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-parsian"
+                    },
+                    {
+                        "title": "هتل قصر طلایی مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-ghasr-talai"
+                    },
+                    {
+                        "title": "هتل شایلی کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shaili"
+                    },
+                    {
+                        "title": "هتل انقلاب مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-enghlab"
+                    },
+                    {
+                        "title": "هتل اسپیناس پالاس تهران",
+                        "href": "https://www.alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+                    }
+                ],
+                "badges": [],
+                "faq": [],
+                "maxScore": 10,
+                "messages": [],
+                "reserveRules": [],
+                "urgencyText": {
+                    "disabled": true
+                },
+                "createdAt": "2022-08-23T08:57:15.049Z",
+                "mergeRoomForce": false,
+                "updatedAt": "2023-06-20T00:04:51.154Z",
+                "isStrategic": false,
+                "hotelId": "5d3595574a6d0cbd4313b6bc",
+                "id": "dh-fd03fdfdfd11fd",
+                "unavailable": true,
+                "providers": [],
+                "facilitiesNames": [
+                    "پارکینگ",
+                    "رستوران",
+                    "نمازخانه",
+                    "خدمات تماس بیدار باش (Wakeup Call)",
+                    "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+                    "سرویس بهداشتی فرنگی",
+                    "تلفن",
+                    "تلویزیون",
+                    "یخچال",
+                    "اعلام حریق",
+                    "آسانسور"
+                ],
+                "specialOffer": false,
+                "minPrice": null,
+                "pricePerNight": null,
+                "discountPercent": null
+            },
+            {
+                "_id": "625e68e6f98194d25f9cbc02",
+                "giataId": "dh-07fd505efdfd2a",
+                "__v": 0,
+                "accommodation": null,
+                "address": "میدان شهدا (مشتاق)، خیابان 17 شهریور، کوچه شماره 40، پلاک 4",
+                "checkinTime": "14:00",
+                "checkoutTime": "12:00",
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "country": {
+                    "code": "IR"
+                },
+                "dataProvider": "DomesticHotels",
+                "dataStatus": "ProviderFull",
+                "description": {
+                    "fa": "خانه مسافر گنجعلیخان با 25نفر ظرفیت با 4سوئیت مجزا تخت خواب و زمین خواب سنتی.در بافت قدیم شهر.نزدیک به بازار و اماکن تاریخی و دیدنیهای شهر\nنزدیک به سوپر مارکت و نانوائی",
+                    "en": null
+                },
+                "email": null,
+                "endTime": null,
+                "facilities": [
+                    103,
+                    1033,
+                    1034,
+                    1042,
+                    1043,
+                    1045,
+                    1046,
+                    1047,
+                    1050
+                ],
+                "fax": null,
+                "image": "https://cdn.alibaba.ir/inh/domestic-hotel/image_f7f18479-d42d-4f1c-b2a6-a82c7521f9a5.jpg",
+                "images": [
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_f7f18479-d42d-4f1c-b2a6-a82c7521f9a5.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_2a21b34b-edfb-4aa2-a8f2-3f8beab69d2b.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_8331d5b6-0fcf-424d-925a-f0343cb2bf09.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_e2d3b093-b5ed-4534-b890-eac32ae42684.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_af45e3cd-569a-46c8-accf-078aa0c4115c.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ad5cdfa0-a458-4a25-b6bf-462125290a40.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_b697737b-c80d-4bcc-b009-373b757f854d.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_5455df46-fc1a-4061-ae0a-72dc242fa8d1.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_dd0099a2-77d1-45f0-bc60-b22ba36bdafa.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_70b5ee2f-8649-4a62-94d1-b6387d6ffe3c.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_44709658-002e-424c-8ea4-ebf7845efdd1.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_5ca34daa-d65a-46ce-be68-f9decb676fe3.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_c4138bca-f1be-4d7f-8219-81372f07b5bc.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_5750ce86-dcc4-4b8b-9a04-8cc61363caf0.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ec57d175-f795-4a24-9310-85667f7ccccd.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ee82b84f-ccfa-4647-a9fc-3b6184223547.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_c0169fb2-5481-4e7e-9e20-5d483732a1f8.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_c8b1e332-866a-40d7-a549-9c69f4d67b8d.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_d325f7cd-4e5d-423e-8243-0cdfd05a4869.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ab6f2e04-3bc5-40c4-a2db-344add4c14a4.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_edda7a25-742b-481a-909f-cd5543caa09e.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_86db8a38-0d1a-4f72-9e23-f8382e98f9cc.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_87c96678-f679-483d-a00b-9a7cd782680f.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_d03dbe71-d064-4523-a904-35711939bd86.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_f0cc49af-ed52-46c2-a6c4-76214b048d4a.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_b6aa10b4-7fe0-4040-bc0a-245ff861007d.jpg"
+                ],
+                "instruction": {
+                    "en": null
+                },
+                "link": "ir-kerman/d153e3d4ab",
+                "location": {
+                    "coordinates": [
+                        57.096228,
+                        30.288555
+                    ],
+                    "type": "Point"
+                },
+                "mandatoryFee": {
+                    "fa": "<div>هزینه اقامت کودک زیر دوسال رایگان می‌باشد. <br/> \n      هزینه اقامت کودک دو تا شش سال طبق قوانین هتل در خود هتل مبلغ پرداخت می‌گردد. <br/>\n      هزینه اقامت کودک بالای شش سال یک نفر کامل محاسبه می‌گردد.</div>",
+                    "en": "<div>Accommodation fee for children aged 2-6 is according to the policy of each hotel.<br/></div>"
+                },
+                "minAge": null,
+                "name": {
+                    "en": "d153e3d4ab",
+                    "fa": "گنجعلیخان"
+                },
+                "phone": null,
+                "postalCode": null,
+                "providerId": "dh-07fd505efdfd2a",
+                "score": 5,
+                "star": 0,
+                "state": null,
+                "website": null,
+                "hotelId": "625e68e6f98194d25f9cbc02",
+                "id": "dh-07fd505efdfd2a",
+                "unavailable": true,
+                "providers": [],
+                "area": "",
+                "places": [],
+                "facilitiesNames": [
+                    "استخر سرپوشیده",
+                    "اتو",
+                    "جاروبرقی",
+                    "مبلمان راحتی",
+                    "آشپزخانه",
+                    "حمام",
+                    "سرویس بهداشتی فرنگی",
+                    "سرویس بهداشتی ایرانی",
+                    "تلویزیون"
+                ],
+                "specialOffer": false,
+                "minPrice": null,
+                "pricePerNight": null,
+                "discountPercent": null
+            },
+            {
+                "_id": "5d3595574a6d0cbd4313b615",
+                "giataId": "dh-0627212cfd7e5d",
+                "__v": 1,
+                "accommodation": null,
+                "address": "خیابان شریعتی خیابان شهید دکتر چمران ",
+                "checkinTime": "14:00",
+                "checkoutTime": "12:00",
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "country": {
+                    "code": "IR"
+                },
+                "dataProvider": "DomesticHotels",
+                "dataStatus": "ProviderFull",
+                "description": {
+                    "fa": "هتل امین در مرکز شهر کرمان واقع شده با 5 دقیقه پیاده روی به بازار بزرگ می رسید دارای اتاق و سوئیت می باشد با تمام امکانات لازم اقامتی و رفاهی اماده پذیرایی از مهمان های گرامی هستیم ",
+                    "en": null
+                },
+                "email": null,
+                "endTime": null,
+                "facilities": [
+                    2,
+                    103,
+                    1038,
+                    1041,
+                    1043,
+                    1044,
+                    1045,
+                    1046,
+                    1049,
+                    1050,
+                    1052,
+                    1053
+                ],
+                "fax": null,
+                "image": "https://cdn.alibaba.ir/inh/domestic-hotel/image_bc3d5b7f-3923-4e41-b5db-2b63f5147536.jpg",
+                "images": [
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_bc3d5b7f-3923-4e41-b5db-2b63f5147536.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_b6c21be9-3bf3-46c6-a903-1e6245d4e8e9.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_7a3d48b5-f1ce-40d6-b103-7c5de4a6443c.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_bfce3195-1ca4-4409-ba4c-25f8fdcab8f1.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_5db3b202-b0d8-49cf-ac67-6636f3e6ea2c.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_cf8ea49e-4707-4ec6-bec6-1ee7a4b034b9.jpg"
+                ],
+                "instruction": {
+                    "en": null
+                },
+                "link": "ir-kerman/1df98c0d3d",
+                "location": {
+                    "coordinates": [
+                        57.0787918567658,
+                        30.2962119545999
+                    ],
+                    "type": "Point"
+                },
+                "mandatoryFee": {
+                    "fa": "<div>هزینه اقامت کودک زیر دوسال رایگان می‌باشد. <br/> \n    هزینه اقامت کودک دو تا شش سال طبق قوانین هتل در خود هتل مبلغ پرداخت می‌گردد. <br/>\n    هزینه اقامت کودک بالای شش سال یک نفر کامل محاسبه می‌گردد.</div>",
+                    "en": "<div>Accommodation fee for children aged 2-6 is according to the policy of each hotel.<br/></div>"
+                },
+                "minAge": null,
+                "name": {
+                    "en": "1df98c0d3d",
+                    "fa": "امین"
+                },
+                "phone": null,
+                "postalCode": null,
+                "providerId": "dh-0627212cfd7e5d",
+                "score": 0,
+                "star": 2,
+                "state": null,
+                "website": null,
+                "area": "",
+                "disabled": false,
+                "hidden": [],
+                "imageStatus": 0,
+                "rooms": [],
+                "special": false,
+                "stats": {
+                    "minPrice": 0,
+                    "totalView": 0
+                },
+                "updateLock": false,
+                "disabledNote": "",
+                "metaDescription": "رزرو هتل امین-1df98c0d3d در علی بابا، معتبرترین سامانه رزرو هتل در ایران - رزرو هتل های کرمان با تخفیف - گارانتی بهترین قیمت و پشتیبانی  24 ساعته- مشاهده آنلاین مشخصات، امکانات، تصاویر هتل 1df98c0d3d",
+                "seoTitle": "رزرو هتل امین در کرمان | علی بابا",
+                "seoLinks": [
+                    {
+                        "title": "هتل درویشی مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-darvishi"
+                    },
+                    {
+                        "title": "هتل ترنج کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-toranj"
+                    },
+                    {
+                        "title": "هتل شایگان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shaygan"
+                    },
+                    {
+                        "title": "هتل شایان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shayan"
+                    },
+                    {
+                        "title": "هتل ماریناپارک کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-marina-park"
+                    },
+                    {
+                        "title": "هتل بین‌المللی کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-International-kish"
+                    },
+                    {
+                        "title": "هتل الماس نوین مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-almasnovin"
+                    },
+                    {
+                        "title": "هتل آزادی تهران",
+                        "href": "https://www.alibaba.ir/hotel/ir-tehran/tehran-azadi"
+                    },
+                    {
+                        "title": "هتل پارس تبریز",
+                        "href": "https://www.alibaba.ir/hotel/ir-tabriz/tabriz-pars"
+                    },
+                    {
+                        "title": "هتل بزرگ شیراز",
+                        "href": "https://www.alibaba.ir/hotel/ir-shiraz/shiraz-bozorg"
+                    },
+                    {
+                        "title": "هتل پارسیان کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-parsian"
+                    },
+                    {
+                        "title": "هتل قصر طلایی مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-ghasr-talai"
+                    },
+                    {
+                        "title": "هتل شایلی کیش",
+                        "href": "https://www.alibaba.ir/hotel/ir-kish/kish-shaili"
+                    },
+                    {
+                        "title": "هتل انقلاب مشهد",
+                        "href": "https://www.alibaba.ir/hotel/ir-mashhad/mashhad-enghlab"
+                    },
+                    {
+                        "title": "هتل اسپیناس پالاس تهران",
+                        "href": "https://www.alibaba.ir/hotel/ir-tehran/tehran-espinas-palace"
+                    }
+                ],
+                "badges": [],
+                "hotelId": "5d3595574a6d0cbd4313b615",
+                "id": "dh-0627212cfd7e5d",
+                "unavailable": true,
+                "providers": [],
+                "places": [],
+                "facilitiesNames": [
+                    "پارکینگ",
+                    "استخر سرپوشیده",
+                    "خدمات اينترنت بی‌سیم (Wifi)",
+                    "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+                    "آشپزخانه",
+                    "سرویس روزانه اتاق",
+                    "حمام",
+                    "سرویس بهداشتی فرنگی",
+                    "تلفن",
+                    "تلویزیون",
+                    "سیستم تهویه هوا",
+                    "یخچال"
+                ],
+                "specialOffer": false,
+                "minPrice": null,
+                "pricePerNight": null,
+                "discountPercent": null
+            },
+            {
+                "_id": "625d9f40f98194d25f33f3bc",
+                "giataId": "dh-fd74317bfd557b",
+                "__v": 1,
+                "accommodation": null,
+                "address": "بلوار جمهوری-جمهوری 17-بین چهار راه شفا و چهار راه فرهنگیان",
+                "checkinTime": "14:00",
+                "checkoutTime": "12:00",
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "country": {
+                    "code": "IR"
+                },
+                "dataProvider": "DomesticHotels",
+                "dataStatus": "ProviderFull",
+                "description": {
+                    "fa": "هتل دو ستاره کرمانیا واقع در بلوار جمهوری در فروردین ماه سال ۱۳۹۷ افتتاح گردیده است. این مجموعه دارای ۱۴ باب اتاق اقامتی می‌باشد و از لحاظ موقعیت مکانی دسترسی مناسبی به اماکن دیدنی شهر از جمله باغ موزه هرندی، مسجد امام و همچنین فرودگاه بین المللی کرمان دارد. هتل کرمانیا با برخورداری از پرسنلی مجرب و امکانات رفاهی مناسب اقامتی خوش را برای شما میهمانان گرامی آرزومند است.",
+                    "en": ""
+                },
+                "email": null,
+                "endTime": null,
+                "facilities": [
+                    71,
+                    1033,
+                    1041,
+                    1044,
+                    1045,
+                    1046,
+                    1047,
+                    1048,
+                    1049,
+                    1050,
+                    1051,
+                    1053
+                ],
+                "fax": null,
+                "image": "https://cdn.alibaba.ir/inh/domestic-hotel/image_593d5c5e-6b60-48cc-ba85-99f48712b5a0.jpg",
+                "images": [
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_593d5c5e-6b60-48cc-ba85-99f48712b5a0.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ff3995ca-cf33-4ee6-bac2-39a7550e1482.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_66ef2b3c-1ae0-4f73-811b-1f6982f55298.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_5cf409ff-688e-4adb-a56c-3a67fab4a78c.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_bbb3624f-0859-43f9-8461-fde6578f3743.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_9c6fb25b-ad38-4387-a1ac-336f6af757ea.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_67f617f7-adef-434b-8bfe-14f4927a1984.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_2f40a5a2-8ee1-4724-9912-737cf8b22c07.jpg"
+                ],
+                "instruction": {
+                    "en": "",
+                    "fa": ""
+                },
+                "link": "ir-kerman/kerman-kermania",
+                "location": {
+                    "coordinates": [
+                        57.03102,
+                        30.281293
+                    ],
+                    "type": "Point"
+                },
+                "mandatoryFee": {
+                    "en": "<div>Accommodation fee for children aged 2-6 is according to the policy of each hotel.<br/></div>",
+                    "fa": "<div>هزینه اقامت کودک زیر دوسال رایگان می‌باشد. <br/> \n      هزینه اقامت کودک دو تا شش سال طبق قوانین هتل در خود هتل مبلغ پرداخت می‌گردد. <br/>\n      هزینه اقامت کودک بالای شش سال یک نفر کامل محاسبه می‌گردد.</div>"
+                },
+                "minAge": null,
+                "name": {
+                    "en": "kerman-kermanianew",
+                    "fa": "کرمانیا"
+                },
+                "phone": null,
+                "postalCode": null,
+                "providerId": "dh-fd74317bfd557b",
+                "score": 0,
+                "star": 2,
+                "state": null,
+                "website": null,
+                "disabled": false,
+                "special": null,
+                "updateLock": true,
+                "updatedAt": "2023-06-19T22:40:47.559Z",
+                "video": {
+                    "source": null,
+                    "thumbnail": null
+                },
+                "badges": [],
+                "createdAt": "2022-11-27T19:18:56.290Z",
+                "faq": [],
+                "hidden": [],
+                "imageStatus": 0,
+                "isStrategic": false,
+                "maxScore": 10,
+                "mergeRoomForce": true,
+                "messages": [],
+                "places": [],
+                "reserveRules": [],
+                "rooms": [],
+                "seoLinks": [],
+                "stats": {
+                    "minPrice": 4000000,
+                    "totalView": 4236,
+                    "minPriceDate": "2023-06-14T00:00:00.000Z"
+                },
+                "urgencyText": {
+                    "disabled": true
+                },
+                "onlyProvider": "DomesticHotels",
+                "hotelId": "625d9f40f98194d25f33f3bc",
+                "id": "dh-fd74317bfd557b",
+                "unavailable": true,
+                "providers": [],
+                "area": "",
+                "facilitiesNames": [
+                    "نمازخانه",
+                    "اتو",
+                    "خدمات اينترنت بی‌سیم در قسمت پذیرش",
+                    "سرویس روزانه اتاق",
+                    "حمام",
+                    "سرویس بهداشتی فرنگی",
+                    "سرویس بهداشتی ایرانی",
+                    "صندوق امانات",
+                    "تلفن",
+                    "تلویزیون",
+                    "سشوار",
+                    "یخچال"
+                ],
+                "specialOffer": false,
+                "minPrice": null,
+                "pricePerNight": null,
+                "discountPercent": null
+            },
+            {
+                "_id": "625e68e6f98194d25f9cbf48",
+                "giataId": "dh-fd4ffdfdfd4443",
+                "__v": 0,
+                "accommodation": null,
+                "address": "پارک نشاط-خیابان فردوسی-کوچه شماره 7",
+                "checkinTime": "14:00",
+                "checkoutTime": "12:00",
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "country": {
+                    "code": "IR"
+                },
+                "dataProvider": "DomesticHotels",
+                "dataStatus": "ProviderFull",
+                "description": {
+                    "fa": "اقامتگاه سنتی شهباز در شهر دیدنی و بسیار زیبا کرمان، خیابان فردوسی، کوچه شماره 7 واقع شده است. هتل سنتی شهباز با ترکیب و تلفیقی از معماری سنتی و مدرنیته جلوه زیبایی از خانه های اصیل ایرانی را به نمایش می گذارد. این هتل فاخر شامل 5 اتاق به صورت یک اتاق 2 تخته، سه اتاق 3 تخته و یک اتاق 4 تخته است که در مجموع ظرفیت اسکان و پذیرش 15 گردشگر را دارد. تمامی اتاق های این خانه بومی دارای سرویس بهداشتی ( توالت فرنگی ) و حمام اختصاصی هستند و توالت ایرانی نیز به صورت مشترک در محوطه اقامتگاه وجود دارد. اقامتگاه سنتی شهباز با ارائه کلیه خدمات رفاهی با بالاترین کیفیت امکاناتی همچون پارکینگ غیرمسقف با دوربین مداربسته، پرسنل مجرب و مسلط به زبان انگلیسی، راهنمای محلی تورهای گردشگری، اینترنت و وای فای رایگان، سیستم گرمایشی و سرمایشی ( شوفاژ و اسپیلیت ) و ... را برای رفاه مسافران عزیز تدارک دیده است. لازم به ذکر است کافی شاپ این خانه سنتی اختصاصی می باشد و تنها برای مهمانان هتل قابل استفاده است.",
+                    "en": null
+                },
+                "email": null,
+                "endTime": null,
+                "facilities": [
+                    103,
+                    1033,
+                    1043,
+                    1044,
+                    1045,
+                    1046,
+                    1047,
+                    1049,
+                    1050,
+                    1051,
+                    1053
+                ],
+                "fax": null,
+                "image": "https://cdn.alibaba.ir/inh/domestic-hotel/image_3db9644b-ebca-4446-83c8-6eed24b8135a.jpg",
+                "images": [
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_3db9644b-ebca-4446-83c8-6eed24b8135a.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_98f80f39-04cf-410d-bd73-576c40dbe572.png",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_4d6a2e57-4f72-47ce-bcf4-533a74de1358.png",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_1661f80c-d0e9-480b-929e-5d63a9a5c393.png",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_d5e13b4b-2895-4b8e-9be1-3ae84a260077.png",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_8e5df4ba-7ec8-4eac-a0dc-a69f7609d13b.png",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_33f7f356-88d8-41f0-a2c0-ea656c5ff5fe.png",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_ca779f38-92cc-402e-88d6-1edc8b381078.png",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_36ff3956-2149-48bb-a7c9-6c1694e3b19f.png",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_0078509f-8713-49d6-84fa-4115b036a7a5.png"
+                ],
+                "instruction": {
+                    "en": null
+                },
+                "link": "ir-kerman/a0ae760da9",
+                "location": {
+                    "coordinates": [
+                        57.0647416077554,
+                        30.2869136210539
+                    ],
+                    "type": "Point"
+                },
+                "mandatoryFee": {
+                    "fa": "<div>هزینه اقامت کودک زیر دوسال رایگان می‌باشد. <br/> \n      هزینه اقامت کودک دو تا شش سال طبق قوانین هتل در خود هتل مبلغ پرداخت می‌گردد. <br/>\n      هزینه اقامت کودک بالای شش سال یک نفر کامل محاسبه می‌گردد.</div>",
+                    "en": "<div>Accommodation fee for children aged 2-6 is according to the policy of each hotel.<br/></div>"
+                },
+                "minAge": null,
+                "name": {
+                    "en": "a0ae760da9",
+                    "fa": "شهباز"
+                },
+                "phone": null,
+                "postalCode": null,
+                "providerId": "dh-fd4ffdfdfd4443",
+                "score": 0,
+                "star": 0,
+                "state": null,
+                "website": null,
+                "hotelId": "625e68e6f98194d25f9cbf48",
+                "id": "dh-fd4ffdfdfd4443",
+                "unavailable": true,
+                "providers": [],
+                "area": "",
+                "places": [],
+                "facilitiesNames": [
+                    "استخر سرپوشیده",
+                    "اتو",
+                    "آشپزخانه",
+                    "سرویس روزانه اتاق",
+                    "حمام",
+                    "سرویس بهداشتی فرنگی",
+                    "سرویس بهداشتی ایرانی",
+                    "تلفن",
+                    "تلویزیون",
+                    "سشوار",
+                    "یخچال"
+                ],
+                "specialOffer": false,
+                "minPrice": null,
+                "pricePerNight": null,
+                "discountPercent": null
+            },
+            {
+                "_id": "625e68eaf98194d25f9d09cd",
+                "giataId": "dh-65fd06fdfdfdfd",
+                "__v": 0,
+                "accommodation": null,
+                "address": "راین، محله تاریخی کشاورزان، اقامتگاه بومگردی ماچِلوس",
+                "checkinTime": "15:00",
+                "checkoutTime": "15:00",
+                "city": {
+                    "country": {
+                        "name": {
+                            "en": "Iran",
+                            "enIndex": "iran",
+                            "fa": "ایران",
+                            "faIndex": "ایران"
+                        },
+                        "code": "IR"
+                    },
+                    "name": {
+                        "en": "Kerman",
+                        "enIndex": "kerman",
+                        "fa": "کرمان"
+                    },
+                    "_id": "5be3f68be9a116befc667055",
+                    "area": []
+                },
+                "country": {
+                    "code": "IR"
+                },
+                "dataProvider": "DomesticHotels",
+                "dataStatus": "ProviderFull",
+                "description": {
+                    "fa": "اقامتگاه بومگردی ماچِلوس در شهر راین ،استان کرمان واقع شده است که در محیطی سنتی بدور از زندگی شهری تجربه ای متفاوت برای شما رقم خواهد زد.در صورت نیاز و پرداخت هزینه مجزا دارای راهنمای گرشگری میباشد . ",
+                    "en": null
+                },
+                "email": null,
+                "endTime": null,
+                "facilities": [
+                    3,
+                    71,
+                    103,
+                    1033,
+                    1034,
+                    1043,
+                    1045,
+                    1046,
+                    1047,
+                    1048,
+                    1050,
+                    1051,
+                    1053,
+                    1057
+                ],
+                "fax": null,
+                "image": "https://cdn.alibaba.ir/inh/domestic-hotel/image_5b52a59b-8dca-4e07-aeb7-4ac033738978.jpg",
+                "images": [
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_8915b88b-d037-4672-9c53-84a43f7cf4c1.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_e3788ed1-6c8d-4c46-93b6-cd2847bf624c.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_5b52a59b-8dca-4e07-aeb7-4ac033738978.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_dc841ac1-44ce-4644-86c2-5406a5aaf127.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_b9c4c420-3876-4abb-bccc-79e6d3f2ad30.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_0e5c21bf-4c8b-4184-bbc0-17c9e304b50b.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_2ebbcf11-d9b9-40f9-b79b-a0a5a36cc068.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_22144888-64ce-44a7-9b21-04bef2ff4b8a.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_486c6fc7-04a5-472f-a472-9b749d11c8c5.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_eb51c3f8-31b8-493f-8bae-66592c6d21de.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_872b1d3c-9c1c-4338-8549-da28b193bfc2.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_58f156e4-6157-4832-bafb-c9fe163689f9.jpg",
+                    "https://cdn.alibaba.ir/inh/domestic-hotel/image_8903a342-e565-40c7-8c0a-8cfad7a97932.jpg"
+                ],
+                "instruction": {
+                    "en": null
+                },
+                "link": "ir-kerman/807ffe0f1b",
+                "location": {
+                    "coordinates": [
+                        57.4410236302356,
+                        29.6012882913048
+                    ],
+                    "type": "Point"
+                },
+                "mandatoryFee": {
+                    "fa": "<div>هزینه اقامت کودک زیر دوسال رایگان می‌باشد. <br/> \n      هزینه اقامت کودک دو تا شش سال طبق قوانین هتل در خود هتل مبلغ پرداخت می‌گردد. <br/>\n      هزینه اقامت کودک بالای شش سال یک نفر کامل محاسبه می‌گردد.</div>",
+                    "en": "<div>Accommodation fee for children aged 2-6 is according to the policy of each hotel.<br/></div>"
+                },
+                "minAge": null,
+                "name": {
+                    "en": "807ffe0f1b",
+                    "fa": "ماچِلوس"
+                },
+                "phone": null,
+                "postalCode": null,
+                "providerId": "dh-65fd06fdfdfdfd",
+                "score": 0,
+                "star": 0,
+                "state": null,
+                "website": null,
+                "updatedAt": "2023-02-28T12:22:03.876Z",
+                "hotelId": "625e68eaf98194d25f9d09cd",
+                "id": "dh-65fd06fdfdfdfd",
+                "unavailable": true,
+                "providers": [],
+                "area": "",
+                "places": [],
+                "facilitiesNames": [
+                    "رستوران",
+                    "نمازخانه",
+                    "استخر سرپوشیده",
+                    "اتو",
+                    "جاروبرقی",
+                    "آشپزخانه",
+                    "حمام",
+                    "سرویس بهداشتی فرنگی",
+                    "سرویس بهداشتی ایرانی",
+                    "صندوق امانات",
+                    "تلویزیون",
+                    "سشوار",
+                    "یخچال",
+                    "کافی‌شاپ"
+                ],
+                "specialOffer": false,
+                "minPrice": null,
+                "pricePerNight": null,
+                "discountPercent": null
+            }
+        ],
+        "requestedCity": {
+            "country": {
+                "name": {
+                    "en": "Iran",
+                    "enIndex": "iran",
+                    "fa": "ایران",
+                    "faIndex": "ایران"
+                },
+                "code": "IR"
+            },
+            "name": {
+                "en": "Kerman",
+                "enIndex": "kerman",
+                "fa": "کرمان"
+            },
+            "_id": "5be3f68be9a116befc667055",
+            "area": []
+        },
+        "allResultsIds": [
+            "dh-7cfd3c3efdfd3c",
+            "dh-fd6f1fb3fd171b",
+            "138119",
+            "dh-39fd31fd566e7e",
+            "dh-fdfd39650f647e",
+            "dh-50fd2bfd07fd0a",
+            "dh-fdfdfd4dfd50fd",
+            "dh-fdfdfdfd334c3f",
+            "137706",
+            "752593",
+            "dh-fd1975fd2dfdfd",
+            "dh-7f0511fdfd6924",
+            "dh-fdfdfd62fd2042",
+            "dh-0627212cfd7e5d",
+            "dh-fd03fdfdfd11fd",
+            "dh-fdfdd1fd642a1b",
+            "dh-fd74317bfd557b",
+            "dh-07fd505efdfd2a",
+            "dh-fd4ffdfdfd4443",
+            "dh-65fd06fdfdfdfd",
+            "dh-20fdfdfd0e6735",
+            "dh-fdfdfd6932fdfd",
+            "dh-681a32551afd43",
+            "dh-77fdfd0f5dfdfd"
+        ],
+        "request": {
+            "destination": {
+                "id": "5be3f68be9a116befc667055",
+                "type": "City"
+            },
+            "checkIn": "2023-06-20T00:00:00.000Z",
+            "checkOut": "2023-06-23T00:00:00.000Z",
+            "rooms": [
+                {
+                    "adults": [
+                        30
+                    ],
+                    "children": [],
+                    "_id": "6491290e90e33700237ab8ad"
+                }
+            ],
+            "stayNo": 3,
+            "nationality": "IR",
+            "ratePlan": null,
+            "abChannel": "WEB-NEW,PRODUCTION,CSR,www.alibaba.ir,N,Chrome,114.0.0.0,N,N,Windows"
+        },
+        "info": {
+            "expire": 900,
+            "area": [],
+            "resultNo": 24,
+            "star": {
+                "0": 8,
+                "1": 1,
+                "2": 5,
+                "3": 5,
+                "4": 3,
+                "5": 2
+            },
+            "score": {
+                "0": 8,
+                "5": 3,
+                "7": 1,
+                "8": 5,
+                "9": 2,
+                "11": 1,
+                "12": 1,
+                "21": 1,
+                "30": 2
+            },
+            "facilitiesStat": {
+                "60": 3,
+                "103": 6,
+                "1006": 3,
+                "1048": 11
+            },
+            "price": {
+                "10000000": 2,
+                "20000000": 6
+            },
+            "accommodationsStat": {
+                "204": 21,
+                "219": 3
+            },
+            "minPrice": 4230000,
+            "maxPrice": 20150000,
+            "facilities": [
+                {
+                    "id": "60",
+                    "name": {
+                        "en": "Gift shop",
+                        "fa": "فروشگاه و خرید"
+                    },
+                    "groupId": 3,
+                    "priority": 6,
+                    "group": {
+                        "name": {
+                            "en": "Entertainment Facilities",
+                            "fa": "امکانات رفاهی و تفریحی هتل"
+                        }
+                    }
+                },
+                {
+                    "id": "103",
+                    "name": {
+                        "en": "Indoor pool",
+                        "fa": "استخر سرپوشیده"
+                    },
+                    "groupId": 2,
+                    "priority": 6,
+                    "group": {
+                        "name": {
+                            "en": "Pool and Sport Services",
+                            "fa": "استخر و امکانات ورزشی"
+                        }
+                    }
+                },
+                {
+                    "id": "1006",
+                    "name": {
+                        "en": "Gas cooler",
+                        "fa": "کولر گازی"
+                    },
+                    "groupId": 4,
+                    "priority": 6,
+                    "group": {
+                        "name": {
+                            "en": "Room Facilities",
+                            "fa": "امکانات موجود در داخل اتاق "
+                        }
+                    }
+                },
+                {
+                    "id": "1048",
+                    "name": {
+                        "en": "Safe box",
+                        "fa": "صندوق امانات"
+                    },
+                    "groupId": 4,
+                    "priority": 6,
+                    "group": {
+                        "name": {
+                            "en": "Room Facilities",
+                            "fa": "امکانات موجود در داخل اتاق "
+                        }
+                    }
+                }
+            ],
+            "accommodations": [
+                {
+                    "id": 204,
+                    "name": {
+                        "en": "Hotels",
+                        "fa": "هتل"
+                    }
+                },
+                {
+                    "id": 219,
+                    "name": {
+                        "en": "Aparthotels",
+                        "fa": "هتل آپارتمان"
+                    }
+                }
+            ],
+            "totalResultNo": 24,
+            "allPois": []
+        },
+        "progress": 100,
+        "lastChunk": false,
+        "sessionExpire": 900,
+        "correlationId": "cba1ef95-7896-4bf4-b852-5a5305c75227"
+    }
+}
