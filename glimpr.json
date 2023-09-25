@@ -1,0 +1,1734 @@
+{
+"kava-light": {
+"name": "Kava Light",
+"thumb": "https://account.crocoblock.com/free-download/skins/kava-light/thumb.jpg",
+"demo": "https://demo.crocoblock.com/light/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks",
+"jet-menu",
+"woocommerce"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks",
+"jet-menu",
+"woocommerce"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/kava-light/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/kava-light/sample-data.xml"
+},
+"avalon": {
+"name": "Avalon",
+"thumb": "https://account.crocoblock.com/free-download/skins/avalon/thumb.jpg",
+"demo": "http://demo.crocoblock.com/avalon/",
+"full": [
+"elementor",
+"give",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"jet-theme-core",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"give",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"jet-theme-core",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/avalon/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/avalon/sample-data.xml"
+},
+"travengo": {
+"name": "Travengo",
+"thumb": "https://account.crocoblock.com/free-download/skins/travengo/thumb.jpg",
+"demo": "https://demo.crocoblock.com/travengo/",
+"full": [
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-blocks",
+"jet-elements-dynamic-data",
+"jet-engine",
+"jet-smart-filters",
+"jet-theme-core",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-elements",
+"jet-popus",
+"jet-blocks",
+"jet-elements-dynamic-data",
+"jet-engine",
+"jet-smart-filters",
+"jet-theme-core",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/travengo/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/travengo/sample-data.xml"
+},
+"travengo_v1": {
+"name": "Travengo Skin 1",
+"thumb": "https://account.crocoblock.com/free-download/skins/travengo_style_1/thumb.jpg",
+"demo": "https://demo.crocoblock.com/travengo_v1/",
+"full": [
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-blocks",
+"jet-elements-dynamic-data",
+"jet-engine",
+"jet-smart-filters",
+"jet-theme-core",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-blocks",
+"jet-elements-dynamic-data",
+"jet-engine",
+"jet-smart-filters",
+"jet-theme-core",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/travengo_style_1/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/travengo_style_1/sample-data.xml"
+},
+"travengo_v2": {
+"name": "Travengo Skin 2",
+"thumb": "https://account.crocoblock.com/free-download/skins/travengo_style_2/thumb.jpg",
+"demo": "https://demo.crocoblock.com/travengo_v2/",
+"full": [
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-blocks",
+"jet-elements-dynamic-data",
+"jet-engine",
+"jet-smart-filters",
+"jet-theme-core",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-blocks",
+"jet-elements-dynamic-data",
+"jet-engine",
+"jet-smart-filters",
+"jet-theme-core",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/travengo_style_2/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/travengo_style_2/sample-data.xml"
+},
+"travengo_v3": {
+"name": "Travengo Skin 3",
+"thumb": "https://account.crocoblock.com/free-download/skins/travengo_style_3/thumb.jpg",
+"demo": "https://demo.crocoblock.com/travengo_v3/",
+"full": [
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-blocks",
+"jet-elements-dynamic-data",
+"jet-engine",
+"jet-smart-filters",
+"jet-theme-core",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-blocks",
+"jet-elements-dynamic-data",
+"jet-engine",
+"jet-smart-filters",
+"jet-theme-core",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/travengo_style_3/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/travengo_style_3/sample-data.xml"
+},
+"travengo_v4": {
+"name": "Travengo Skin 4",
+"thumb": "https://account.crocoblock.com/free-download/skins/travengo_style_4/thumb.jpg",
+"demo": "https://demo.crocoblock.com/travengo_v4/",
+"full": [
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-blocks",
+"jet-elements-dynamic-data",
+"jet-engine",
+"jet-smart-filters",
+"jet-theme-core",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-blocks",
+"jet-elements-dynamic-data",
+"jet-engine",
+"jet-smart-filters",
+"jet-theme-core",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/travengo_style_4/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/travengo_style_4/sample-data.xml"
+},
+"finance": {
+"name": "Finance",
+"thumb": "https://account.crocoblock.com/free-download/skins/finance/thumb.jpg",
+"demo": "https://demo.crocoblock.com/finance/",
+"full": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-blocks",
+"jet-menu",
+"jet-tabs",
+"jet-theme-core",
+"jet-tricks"
+],
+"lite": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-blocks",
+"jet-menu",
+"jet-tabs",
+"jet-theme-core",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/finance/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/finance/sample-data.xml"
+},
+"arnau": {
+"name": "Arnau",
+"thumb": "https://account.crocoblock.com/free-download/skins/arnau/thumb.jpg",
+"demo": "https://demo.crocoblock.com/arnau/",
+"full": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"jet-theme-core",
+"jet-tricks"
+],
+"lite": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"jet-theme-core",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/arnau/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/arnau/sample-data.xml"
+},
+"coffeegato": {
+"name": "Coffeegato",
+"thumb": "https://account.crocoblock.com/free-download/skins/coffeegato/thumb.jpg",
+"demo": "https://demo.crocoblock.com/coffeegato/",
+"full": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-blocks",
+"jet-theme-core",
+"jet-tricks"
+],
+"lite": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-blocks",
+"jet-theme-core",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/coffeegato/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/coffeegato/sample-data.xml"
+},
+"a-muse": {
+"name": "A-Muse",
+"thumb": "https://account.crocoblock.com/free-download/skins/a-muse/thumb.jpg",
+"demo": "https://demo.crocoblock.com/a-muse/",
+"full": [
+"elementor",
+"jet-elements",
+"jet-blocks",
+"jet-theme-core",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-elements",
+"jet-blocks",
+"jet-theme-core",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/a-muse/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/a-muse/sample-data.xml"
+},
+"danzarro": {
+"name": "Danzarro",
+"thumb": "https://account.crocoblock.com/free-download/skins/danzarro/thumb.jpg",
+"demo": "https://demo.crocoblock.com/danzarro/",
+"full": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-tricks",
+"jet-blocks",
+"jet-menu",
+"jet-theme-core"
+],
+"lite": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-tricks",
+"jet-blocks",
+"jet-menu",
+"jet-theme-core"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/danzarro/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/danzarro/sample-data.xml"
+},
+"nutritix": {
+"name": "Nutritix",
+"thumb": "https://account.crocoblock.com/free-download/skins/nutritix/thumb.jpg",
+"demo": "https://demo.crocoblock.com/nutritix/",
+"full": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-blog",
+"jet-menu",
+"jet-theme-core",
+"jet-woo-builder",
+"woocommerce"
+],
+"lite": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-blog",
+"jet-menu",
+"jet-theme-core",
+"jet-woo-builder",
+"woocommerce"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/nutritix/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/nutritix/sample-data.xml"
+},
+"coursebit": {
+"name": "Coursebit",
+"thumb": "https://account.crocoblock.com/free-download/skins/coursebit/thumb.jpg",
+"demo": "https://demo.crocoblock.com/coursebit/",
+"full": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-blog",
+"jet-menu",
+"jet-theme-core"
+],
+"lite": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-blog",
+"jet-menu",
+"jet-theme-core"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/coursebit/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/coursebit/sample-data.xml"
+},
+"warehouser": {
+"name": "Warehouser",
+"thumb": "https://account.crocoblock.com/free-download/skins/warehouser/thumb.jpg",
+"demo": "https://demo.crocoblock.com/warehouser/",
+"full": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-tricks",
+"jet-blocks",
+"jet-theme-core",
+"jet-woo-builder",
+"woocommerce"
+],
+"lite": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-tricks",
+"jet-blocks",
+"jet-theme-core",
+"jet-woo-builder",
+"woocommerce"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/warehouser/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/warehouser/sample-data.xml"
+},
+"undertone": {
+"name": "Undertone",
+"thumb": "https://account.crocoblock.com/free-download/skins/undertone/thumb.jpg",
+"demo": "https://demo.crocoblock.com/undertone/",
+"full": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-blocks",
+"jet-theme-core",
+"jet-woo-builder",
+"woocommerce"
+],
+"lite": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-popup",
+"jet-blocks",
+"jet-theme-core",
+"jet-woo-builder",
+"woocommerce"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/undertone/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/undertone/sample-data.xml"
+},
+"sportans": {
+"name": "Sportans",
+"thumb": "https://account.crocoblock.com/free-download/skins/sportans/thumb.jpg",
+"demo": "https://demo.crocoblock.com/sportans/",
+"full": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-blog",
+"jet-theme-core"
+],
+"lite": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-blog",
+"jet-theme-core"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/sportans/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/sportans/sample-data.xml"
+},
+"clothorra": {
+"name": "Clothorra",
+"thumb": "https://account.crocoblock.com/free-download/skins/clothorra/thumb.jpg",
+"demo": "https://demo.crocoblock.com/clothorra/",
+"full": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-tabs",
+"jet-blocks",
+"jet-theme-core",
+"jet-woo-builder",
+"woocommerce"
+],
+"lite": [
+"contact-form-7",
+"elementor",
+"jet-elements",
+"jet-tabs",
+"jet-blocks",
+"jet-theme-core",
+"jet-woo-builder",
+"woocommerce"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/clothorra/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/clothorra/sample-data.xml"
+},
+"pinkywinky": {
+"name": "Pinky Winky",
+"thumb": "https://account.crocoblock.com/free-download/skins/pinkywinky/thumb.jpg",
+"demo": "https://demo.crocoblock.com/pinkywinky/",
+"full": [
+"elementor",
+"jet-elements",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-blog",
+"jet-theme-core"
+],
+"lite": [
+"elementor",
+"jet-elements",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-blog",
+"jet-theme-core"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/pinkywinky/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/pinkywinky/sample-data.xml"
+},
+"mediax": {
+"name": "Mediax",
+"thumb": "https://account.crocoblock.com/free-download/skins/mediax/thumb.jpg",
+"demo": "https://demo.crocoblock.com/mediax/",
+"full": [
+"contact-form-7",
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-tricks",
+"jet-blocks",
+"jet-blog"
+],
+"lite": [
+"contact-form-7",
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-tricks",
+"jet-blocks",
+"jet-blog"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/mediax/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/mediax/sample-data.xml"
+},
+"brandson": {
+"name": "Brandson",
+"thumb": "https://account.crocoblock.com/free-download/skins/brandson/thumb.jpg",
+"demo": "https://demo.crocoblock.com/brandson/",
+"full": [
+"elementor",
+"jet-elements",
+"jet-tricks",
+"jet-blocks",
+"jet-theme-core",
+"jet-woo-builder",
+"woocommerce"
+],
+"lite": [
+"elementor",
+"jet-elements",
+"jet-tricks",
+"jet-blocks",
+"jet-theme-core",
+"jet-woo-builder",
+"woocommerce"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/brandson/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/brandson/sample-data.xml"
+},
+"powedris": {
+"name": "Powedris",
+"thumb": "https://account.crocoblock.com/free-download/skins/powedris/thumb.jpg",
+"demo": "https://demo.crocoblock.com/powedris/",
+"full": [
+"elementor",
+"jet-elements",
+"jet-tricks",
+"jet-blocks",
+"jet-blog",
+"jet-menu",
+"jet-theme-core"
+],
+"lite": [
+"elementor",
+"jet-elements",
+"jet-tricks",
+"jet-blocks",
+"jet-blog",
+"jet-menu",
+"jet-theme-core"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/powedris/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/powedris/sample-data.xml"
+},
+"quantito": {
+"name": "Quantito",
+"thumb": "https://account.crocoblock.com/free-download/skins/quantito/thumb.jpg",
+"demo": "https://demo.crocoblock.com/quantito/",
+"full": [
+"elementor",
+"contact-form-7",
+"jet-elements",
+"jet-tricks",
+"jet-blocks",
+"jet-theme-core"
+],
+"lite": [
+"elementor",
+"contact-form-7",
+"jet-elements",
+"jet-tricks",
+"jet-blocks",
+"jet-theme-core"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/quantito/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/quantito/sample-data.xml"
+},
+"frizory": {
+"name": "Frizory",
+"thumb": "https://account.crocoblock.com/free-download/skins/frizory/thumb.jpg",
+"demo": "https://demo.crocoblock.com/frizory/",
+"full": [
+"elementor",
+"contact-form-7",
+"jet-elements",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-theme-core"
+],
+"lite": [
+"elementor",
+"contact-form-7",
+"jet-elements",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-theme-core"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/frizory/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/frizory/sample-data.xml"
+},
+"iconyx": {
+"name": "Iconyx",
+"thumb": "https://account.crocoblock.com/free-download/skins/iconyx/thumb.jpg",
+"demo": "https://demo.crocoblock.com/iconyx/",
+"full": [
+"elementor",
+"contact-form-7",
+"jet-elements",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-blog",
+"jet-menu",
+"jet-theme-core"
+],
+"lite": [
+"elementor",
+"contact-form-7",
+"jet-elements",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-blog",
+"jet-menu",
+"jet-theme-core"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/iconyx/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/iconyx/sample-data.xml"
+},
+"drivous": {
+"name": "Drivous",
+"thumb": "https://account.crocoblock.com/free-download/skins/drivous/thumb.jpg",
+"demo": "https://demo.crocoblock.com/drivous/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-tricks",
+"jet-blocks",
+"jet-menu",
+"contact-form-7"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-tricks",
+"jet-blocks",
+"jet-menu",
+"contact-form-7"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/drivous/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/drivous/sample-data.xml"
+},
+"dolcetti": {
+"name": "Dolcetti",
+"thumb": "https://account.crocoblock.com/free-download/skins/dolcetti/thumb.jpg",
+"demo": "https://demo.crocoblock.com/dolcetti/",
+"full": [
+"elementor",
+"contact-form-7",
+"jet-elements",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-blog",
+"jet-menu",
+"jet-theme-core"
+],
+"lite": [
+"elementor",
+"contact-form-7",
+"jet-elements",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-blog",
+"jet-menu",
+"jet-theme-core"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/dolcetti/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/dolcetti/sample-data.xml"
+},
+"weimpress": {
+"name": "Weimpress",
+"thumb": "https://account.crocoblock.com/free-download/skins/weimpress/thumb.jpg",
+"demo": "https://demo.crocoblock.com/weimpress/",
+"full": [
+"elementor",
+"contact-form-7",
+"jet-elements",
+"jet-tabs",
+"jet-blocks",
+"jet-blog",
+"jet-theme-core"
+],
+"lite": [
+"elementor",
+"contact-form-7",
+"jet-elements",
+"jet-tabs",
+"jet-blocks",
+"jet-blog",
+"jet-theme-core"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/weimpress/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/weimpress/sample-data.xml"
+},
+"fuelcon": {
+"name": "Fuelcon",
+"thumb": "https://account.crocoblock.com/free-download/skins/fuelcon/thumb.jpg",
+"demo": "https://demo.crocoblock.com/fuelcon/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"contact-form-7",
+"jet-tricks",
+"jet-blocks",
+"jet-tabs"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"contact-form-7",
+"jet-tricks",
+"jet-blocks",
+"jet-tabs"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/fuelcon/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/fuelcon/sample-data.xml"
+},
+"journyssimo": {
+"name": "Journyssimo",
+"thumb": "https://account.crocoblock.com/free-download/skins/journyssimo/thumb.jpg",
+"demo": "https://demo.crocoblock.com/journyssimo/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"contact-form-7",
+"jet-tricks",
+"jet-blocks",
+"jet-blog"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"contact-form-7",
+"jet-tricks",
+"jet-blocks",
+"jet-blog"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/journyssimo/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/journyssimo/sample-data.xml"
+},
+"besoul": {
+"name": "Besoul",
+"thumb": "https://account.crocoblock.com/free-download/skins/besoul/thumb.jpg",
+"demo": "https://demo.crocoblock.com/besoul/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-blog"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks",
+"jet-blog"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/besoul/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/besoul/sample-data.xml"
+},
+"medistart": {
+"name": "Medistart",
+"thumb": "https://account.crocoblock.com/free-download/skins/medistart/thumb.jpg",
+"demo": "https://demo.crocoblock.com/medistart/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks",
+"jet-blocks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/medistart/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/medistart/sample-data.xml"
+},
+"grandecuis": {
+"name": "Grande Cuis",
+"thumb": "https://account.crocoblock.com/free-download/skins/grandecuis/thumb.jpg",
+"demo": "https://demo.crocoblock.com/grandecuis/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/grandecuis/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/grandecuis/sample-data.xml"
+},
+"legalor": {
+"name": "Legalor",
+"thumb": "https://account.crocoblock.com/free-download/skins/legalor/thumb.jpg",
+"demo": "https://demo.crocoblock.com/legalor/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/legalor/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/legalor/sample-data.xml"
+},
+"blankos": {
+"name": "Blankos",
+"thumb": "https://account.crocoblock.com/free-download/skins/blankos/thumb.jpg",
+"demo": "https://demo.crocoblock.com/blankos/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-tabs",
+"jet-blocks",
+"contact-form-7",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-tabs",
+"jet-blocks",
+"contact-form-7",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/blankos/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/blankos/sample-data.xml"
+},
+"visuelle": {
+"name": "Visuelle",
+"thumb": "https://account.crocoblock.com/free-download/skins/visuelle/thumb.png",
+"demo": "https://demo.crocoblock.com/visuelle/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"contact-form-7",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"contact-form-7",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/visuelle/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/visuelle/sample-data.xml"
+},
+"adverocking": {
+"name": "Adverocking",
+"thumb": "https://account.crocoblock.com/free-download/skins/adverocking/thumb.jpg",
+"demo": "https://demo.crocoblock.com/adverocking/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-tabs",
+"jet-blog",
+"contact-form-7"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-tabs",
+"jet-blog",
+"contact-form-7"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/adverocking/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/adverocking/sample-data.xml"
+},
+"celerony": {
+"name": "Celerony",
+"thumb": "https://account.crocoblock.com/free-download/skins/celerony/thumb.jpg",
+"demo": "https://demo.crocoblock.com/celerony/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/celerony/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/celerony/sample-data.xml"
+},
+"contributz": {
+"name": "Contributz",
+"thumb": "https://account.crocoblock.com/free-download/skins/contributz/thumb.jpg",
+"demo": "https://demo.crocoblock.com/contributz/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/contributz/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/contributz/sample-data.xml"
+},
+"journez": {
+"name": "Journez",
+"thumb": "https://account.crocoblock.com/free-download/skins/journez/thumb.jpg",
+"demo": "https://demo.crocoblock.com/journez/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/journez/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/journez/sample-data.xml"
+},
+"metricon": {
+"name": "Metricon",
+"thumb": "https://account.crocoblock.com/free-download/skins/metricon/thumb.jpg",
+"demo": "https://demo.crocoblock.com/metricon/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/metricon/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/metricon/sample-data.xml"
+},
+"richard-gore": {
+"name": "Richard Gore",
+"thumb": "https://account.crocoblock.com/free-download/skins/richard-gore/thumb.jpg",
+"demo": "https://demo.crocoblock.com/rg/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"contact-form-7",
+"jet-tabs",
+"jet-blog"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"contact-form-7",
+"jet-tabs",
+"jet-blog"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/richard-gore/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/richard-gore/sample-data.xml"
+},
+"crosszone": {
+"name": "Crosszone",
+"thumb": "https://account.crocoblock.com/free-download/skins/crosszone/thumb.jpg",
+"demo": "https://demo.crocoblock.com/crosszone/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/crosszone/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/crosszone/sample-data.xml"
+},
+"intelity": {
+"name": "Intelity",
+"thumb": "https://account.crocoblock.com/free-download/skins/intelity/thumb.jpg",
+"demo": "https://demo.crocoblock.com/intelity/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/intelity/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/intelity/sample-data.xml"
+},
+"investalum": {
+"name": "Investalum",
+"thumb": "https://account.crocoblock.com/free-download/skins/investalum/thumb.jpg",
+"demo": "https://demo.crocoblock.com/investalum/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks",
+"jet-menu"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks",
+"jet-menu"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/investalum/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/investalum/sample-data.xml"
+},
+"lapalette": {
+"name": "Lapalette",
+"thumb": "https://account.crocoblock.com/free-download/skins/lapalette/thumb.jpg",
+"demo": "https://demo.crocoblock.com/lapalette/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/lapalette/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/lapalette/sample-data.xml"
+},
+"plasta": {
+"name": "Plasta",
+"thumb": "https://account.crocoblock.com/free-download/skins/plasta/thumb.jpg",
+"demo": "https://demo.crocoblock.com/plasta/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/plasta/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/plasta/sample-data.xml"
+},
+"upmine": {
+"name": "Upmine",
+"thumb": "https://account.crocoblock.com/free-download/skins/upmine/thumb.jpg",
+"demo": "https://demo.crocoblock.com/upmine/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/upmine/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/upmine/sample-data.xml"
+},
+"brocade": {
+"name": "Brocade",
+"thumb": "https://account.crocoblock.com/free-download/skins/brocade/thumb.jpg",
+"demo": "https://demo.crocoblock.com/brocade/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/brocade/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/brocade/sample-data.xml"
+},
+"magit": {
+"name": "Magit",
+"thumb": "https://account.crocoblock.com/free-download/skins/magit/thumb.jpg",
+"demo": "https://demo.crocoblock.com/magit/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"contact-form-7"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"contact-form-7"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/magit/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/magit/sample-data.xml"
+},
+"nolimitz": {
+"name": "Nolimitz",
+"thumb": "https://account.crocoblock.com/free-download/skins/nolimitz/thumb.jpg",
+"demo": "https://demo.crocoblock.com/nolimitz/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/nolimitz/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/nolimitz/sample-data.xml"
+},
+"rezidans": {
+"name": "Rezidans",
+"thumb": "https://account.crocoblock.com/free-download/skins/rezidans/thumb.jpg",
+"demo": "https://demo.crocoblock.com/rezidans/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tricks"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tricks"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/rezidans/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/rezidans/sample-data.xml"
+},
+"standocs": {
+"name": "Standocs",
+"thumb": "https://account.crocoblock.com/free-download/skins/standocs/thumb.jpg",
+"demo": "https://demo.crocoblock.com/standocs/",
+"full": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks",
+"jet-menu"
+],
+"lite": [
+"elementor",
+"jet-theme-core",
+"jet-elements",
+"jet-blocks",
+"jet-blog",
+"contact-form-7",
+"jet-tabs",
+"jet-tricks",
+"jet-menu"
+],
+"full_xml": "https://account.crocoblock.com/free-download/skins/standocs/sample-data.xml",
+"lite_xml": "https://account.crocoblock.com/free-download/skins/standocs/sample-data.xml"
+},
+"only-books": {
+"name": "Only Books",
+"thumb": "https://account.crocoblock.com/free-download/models/only-books/thumb.jpg",
+"demo": "https://demo.crocoblock.com/v2/only-books/",
+"full": [
+"elementor",
+"jet-blocks",
+"jet-compare-wishlist",
+"jet-elements",
+"jet-elements-dynamic-data",
+"jet-engine",
+"jet-engine-custom-visibility-conditions",
+"jet-engine-trim-callback",
+"jet-engine-post-expiration-period",
+"jet-reviews",
+"jet-menu",
+"jet-popup",
+"jet-search",
+"jet-smart-filters",
+"jet-tabs",
+"jet-theme-core",
+"jet-tricks",
+"jet-woo-builder",
+"jet-woo-builder-custom-add-to-cart-icon",
+"jet-woo-builder-custom-quantity-selectors",
+"woocommerce"
+],
+"lite": [],
+"full_xml": "https://account.crocoblock.com/free-download/models/only-books/sample-data.xml",
+"lite_xml": "",
+"type": "model"
+},
+"travengo-dynamic": {
+"name": "Travengo",
+"thumb": "https://account.crocoblock.com/free-download/models/travengo-dynamic/thumb.jpg",
+"demo": "https://demo.crocoblock.com/travengo-new/",
+"full": [
+"elementor",
+"jet-style-manager",
+"jetformbuilder",
+"jet-woo-product-gallery",
+"jet-blocks",
+"jet-elements",
+"jet-theme-core",
+"jet-tricks",
+"jet-popup",
+"jet-reviews",
+"jet-smart-filters",
+"jet-tabs",
+"jet-engine",
+"jet-elements-dynamic-data"
+],
+"lite": [],
+"full_xml": "https://account.crocoblock.com/free-download/models/travengo-dynamic/sample-data.xml",
+"lite_xml": "",
+"type": "model"
+},
+"findero": {
+"name": "Findero",
+"thumb": "https://account.crocoblock.com/free-download/models/findero/thumb.jpg",
+"demo": "https://demo.crocoblock.com/findero-new/",
+"full": [
+"elementor",
+"jet-blocks",
+"jet-elements",
+"jet-theme-core",
+"jet-tricks",
+"jet-popup",
+"jet-reviews",
+"jet-smart-filters",
+"jet-tabs",
+"jet-engine",
+"jet-elements-dynamic-data",
+"jetformbuilder",
+"jet-form-builder-login-action"
+],
+"lite": [],
+"full_xml": "https://account.crocoblock.com/free-download/models/findero/sample-data.xml",
+"lite_xml": "",
+"type": "model"
+},
+"zolden": {
+"name": "Zolden",
+"thumb": "https://account.crocoblock.com/free-download/models/zolden/thumb.jpg",
+"demo": "https://demo.crocoblock.com/zolden-new/",
+"full": [
+"elementor",
+"jet-blocks",
+"jet-elements",
+"jet-menu",
+"jet-theme-core",
+"jet-tricks",
+"jet-popup",
+"jet-reviews",
+"jet-search",
+"jet-smart-filters",
+"jet-tabs",
+"woocommerce",
+"jet-woo-builder",
+"jet-compare-wishlist",
+"jet-woo-product-gallery"
+],
+"lite": [],
+"full_xml": "https://account.crocoblock.com/free-download/models/zolden/sample-data.xml",
+"lite_xml": "",
+"type": "model"
+},
+"once": {
+"name": "Once",
+"thumb": "https://account.crocoblock.com/free-download/models/once/thumb.jpg",
+"demo": "https://demo.crocoblock.com/once/",
+"full": [
+"elementor",
+"jet-blocks",
+"jet-appointments-booking",
+"jet-elements",
+"jet-engine",
+"jet-popup",
+"jet-tabs",
+"jet-theme-core",
+"jet-tricks"
+],
+"lite": [],
+"full_xml": "https://account.crocoblock.com/free-download/models/once/sample-data.xml",
+"lite_xml": "",
+"type": "model"
+},
+"balirento": {
+"name": "BaliRento",
+"thumb": "https://account.crocoblock.com/free-download/models/balirento/thumb.jpg",
+"demo": "https://demo.crocoblock.com/balirento-new/",
+"full": [
+"elementor",
+"jet-blocks",
+"jet-blog",
+"jet-booking",
+"jet-elements",
+"jet-engine",
+"jet-engine-custom-visibility-conditions",
+"jetformbuilder",
+"jet-style-manager",
+"jet-menu",
+"jet-elements-dynamic-data",
+"jet-popup",
+"jet-woo-product-gallery",
+"jet-reviews",
+"jet-smart-filters",
+"jet-tabs",
+"jet-theme-core",
+"jet-tricks",
+"jet-woo-builder",
+"woocommerce"
+],
+"lite": [],
+"full_xml": "https://account.crocoblock.com/free-download/models/balirento/sample-data.xml",
+"lite_xml": "",
+"type": "model"
+},
+"cardealer": {
+"name": "CarDealer",
+"thumb": "https://account.crocoblock.com/free-download/models/cardealer/thumb.jpg",
+"demo": "https://demo.crocoblock.com/cardealer-new/",
+"full": [
+"elementor",
+"jetformbuilder",
+"jet-form-builder-login-action",
+"jet-blocks",
+"jet-elements",
+"jet-engine",
+"jet-popup",
+"jet-smart-filters",
+"jet-theme-core",
+"jet-tricks",
+"jet-reviews",
+"jet-woo-product-gallery"
+],
+"lite": [],
+"full_xml": "https://account.crocoblock.com/free-download/models/cardealer/sample-data.xml",
+"lite_xml": "",
+"type": "model"
+},
+"cutcloud": {
+"name": "Cutcloud",
+"thumb": "https://account.crocoblock.com/free-download/models/cutcloud/thumb.jpg",
+"demo": "https://demo.crocoblock.com/cutcloud-new/",
+"full": [
+"elementor",
+"jet-appointments-booking",
+"jet-blocks",
+"jet-elements",
+"jet-elements-dynamic-data",
+"jet-engine",
+"jet-popup",
+"jet-tabs",
+"jet-theme-core",
+"jet-tricks",
+"jetformbuilder",
+"jet-forms-popup-notification",
+"woocommerce",
+"jet-woo-builder"
+],
+"lite": [],
+"full_xml": "https://account.crocoblock.com/free-download/models/cutcloud/sample-data.xml",
+"lite_xml": "",
+"type": "model"
+},
+"medcenter": {
+"name": "MedCenter",
+"thumb": "https://account.crocoblock.com/free-download/models/medcenter/thumb-new.jpg",
+"demo": "https://demo.crocoblock.com/medcenter-new/",
+"full": [
+"elementor",
+"jet-appointments-booking",
+"jet-blocks",
+"jet-elements",
+"jet-engine",
+"jet-engine-custom-visibility-conditions",
+"jet-engine-dynamic-tables-module",
+"jet-engine-trim-callback",
+"jetformbuilder",
+"jet-menu",
+"jet-elements-dynamic-data",
+"jet-popup",
+"jet-reviews",
+"jet-smart-filters",
+"jet-style-manager",
+"jet-theme-core",
+"jet-tricks"
+],
+"lite": [],
+"full_xml": "https://account.crocoblock.com/free-download/models/medcenter/sample-data.xml",
+"lite_xml": "",
+"type": "model"
+},
+"foreo": {
+"name": "Foreo",
+"thumb": "http://account.crocoblock.com/free-download/models/foreo/thumb.jpg",
+"demo": "https://demo.crocoblock.com/foreo-new/",
+"full": [
+"elementor",
+"jet-booking",
+"jet-blocks",
+"jet-elements",
+"jet-engine",
+"jet-smart-filters",
+"jet-theme-core",
+"jet-elements-dynamic-data",
+"jet-tricks",
+"woocommerce",
+"jetformbuilder",
+"jet-style-manager",
+"jet-reviews"
+],
+"lite": [],
+"full_xml": "https://account.crocoblock.com/free-download/models/foreo/sample-data.xml",
+"lite_xml": "",
+"type": "model"
+},
+"grandhotel": {
+"name": "Grand Hotel",
+"thumb": "https://account.crocoblock.com/free-download/models/grandhotel/thumb.jpg",
+"demo": "https://demo.crocoblock.com/grandhotel-new/",
+"full": [
+"elementor",
+"jet-blocks",
+"jet-booking",
+"jet-elements",
+"jet-engine",
+"jet-popup",
+"jet-smart-filters",
+"jet-theme-core",
+"jet-tricks",
+"woocommerce",
+"jet-reviews",
+"jet-tabs",
+"jet-woo-builder",
+"jetformbuilder"
+],
+"lite": [],
+"full_xml": "https://account.crocoblock.com/free-download/models/grandhotel/sample-data.xml",
+"lite_xml": "",
+"type": "model"
+},
+"rentgo": {
+"name": "RentGo",
+"thumb": "https://account.crocoblock.com/free-download/models/rentgo/thumb.jpg",
+"demo": "https://demo.crocoblock.com/rentgo-new/",
+"full": [
+"elementor",
+"jetformbuilder",
+"jet-blocks",
+"jet-booking",
+"jet-elements",
+"jet-engine",
+"jet-popup",
+"jet-smart-filters",
+"jet-theme-core",
+"jet-tricks",
+"woocommerce"
+],
+"lite": [],
+"full_xml": "https://account.crocoblock.com/free-download/models/rentgo/sample-data.xml",
+"lite_xml": "",
+"type": "model"
+},
+"cardealer-guten": {
+"name": "CarDealer for Gutenberg",
+"thumb": "https://account.crocoblock.com/free-download/models/cardealer-guten/thumb.png",
+"demo": "https://demo.crocoblock.com/cardealer-new/",
+"full": [
+"jet-advanced-list-block",
+"jet-engine",
+"jetformbuilder",
+"jet-form-builder-login-action",
+"jet-woo-product-gallery",
+"jet-smart-filters",
+"jet-style-manager",
+"jet-theme-core",
+"svg-support"
+],
+"lite": [],
+"full_xml": "https://account.crocoblock.com/free-download/models/cardealer-guten/sample-data.xml",
+"lite_xml": "",
+"type": "model"
+},
+"jobboard": {
+"name": "Jobboard",
+"thumb": "https://account.crocoblock.com/free-download/models/jobboard/thumb.jpg",
+"demo": "https://demo.crocoblock.com/jobboard/",
+"full": [
+"elementor",
+"jet-blocks",
+"jet-elements",
+"jet-engine",
+"jet-engine-custom-visibility-conditions",
+"jet-engine-attachment-link-callback",
+"jet-forms-popup-notification",
+"jet-engine-trim-callback",
+"jetformbuilder",
+"jet-popup",
+"jet-search",
+"jet-smart-filters",
+"jet-style-manager",
+"jet-theme-core",
+"jet-tricks",
+"user-role-editor",
+"jet-offcanvas-column"
+],
+"lite": [],
+"full_xml": "https://account.crocoblock.com/free-download/models/jobboard/sample-data.xml",
+"lite_xml": "",
+"type": "model"
+}
+}
